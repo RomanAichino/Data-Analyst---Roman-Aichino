@@ -1,0 +1,4313 @@
+,Provincia,Localidad,FIBRAOPTICA
+0,BUENOS AIRES,Villa Bordeau,NO
+1,BUENOS AIRES,Villa Espora,NO
+2,BUENOS AIRES,Balcarce,SI
+3,BUENOS AIRES,Los Pinos,NO
+4,BUENOS AIRES,Napaleofú,SI
+5,BUENOS AIRES,Ramos Otero,NO
+6,BUENOS AIRES,San Agustín,NO
+7,BUENOS AIRES,Villa Laguna La Brava,NO
+8,BUENOS AIRES,Baradero,SI
+9,BUENOS AIRES,Irineo Portela,SI
+10,BUENOS AIRES,Santa Coloma,NO
+11,BUENOS AIRES,Villa Alsina (Est. Alsina),NO
+12,BUENOS AIRES,Barker,SI
+13,CHUBUT,Lago Rosario,NO
+14,BUENOS AIRES,General Las Heras (Est. Las Heras),SI
+15,BUENOS AIRES,La Choza,NO
+16,BUENOS AIRES,Lozano,NO
+17,BUENOS AIRES,Plomer,NO
+18,BUENOS AIRES,Villars,SI
+19,BUENOS AIRES,Chacras de San Clemente,NO
+20,BUENOS AIRES,General Lavalle,SI
+21,BUENOS AIRES,Pavón,SI
+22,BUENOS AIRES,Barrio Río Salado,NO
+23,BUENOS AIRES,Loma Verde,NO
+24,BUENOS AIRES,Ranchos,SI
+25,BUENOS AIRES,Villanueva (Ap. Río Salado),NO
+26,BUENOS AIRES,Colonia San Ricardo (Est. Iriarte),NO
+27,MISIONES,General Urquiza,NO
+28,BUENOS AIRES,General Mansilla (Est. Bartolomé Bavio),SI
+29,BUENOS AIRES,Los Naranjos,SI
+30,BUENOS AIRES,Magdalena,NO
+31,BUENOS AIRES,Roberto J. Payró,NO
+32,BUENOS AIRES,Vieytes,SI
+33,BUENOS AIRES,Las Armas,NO
+34,BUENOS AIRES,Maipú,NO
+35,BUENOS AIRES,Santo Domingo,NO
+36,BUENOS AIRES,Area De Promocion El Triángulo,SI
+37,BUENOS AIRES,Grand Bourg,SI
+38,BUENOS AIRES,Ingeniero Adolfo Sourdeaux,SI
+39,BUENOS AIRES,San Fernando,SI
+40,BUENOS AIRES,Victoria,SI
+41,BUENOS AIRES,Virreyes,SI
+42,BUENOS AIRES,Acassuso,SI
+43,BUENOS AIRES,Beccar,SI
+44,BUENOS AIRES,Boulogne Sur Mer,SI
+45,CABA,NUEVA POMPEYA,SI
+46,CHACO,Fontana,SI
+47,CHACO,Puerto Vilelas,SI
+48,CHACO,Resistencia,SI
+49,CHACO,Samuhú,NO
+50,BUENOS AIRES,Desvío Aguirre,SI
+51,BUENOS AIRES,Gardey,SI
+52,BUENOS AIRES,María Ignacia (Est. Vela),NO
+53,BUENOS AIRES,Tandil,SI
+54,BUENOS AIRES,Crotto,NO
+55,BUENOS AIRES,Tapalqué,NO
+56,BUENOS AIRES,Velloso,NO
+57,BUENOS AIRES,Benavídez,SI
+58,BUENOS AIRES,Dique Luján,SI
+59,CABA,FLORESTA,SI
+60,CHUBUT,Los Cipreses,NO
+61,CHUBUT,Trevelín,NO
+62,CHUBUT,Villa Futalaufquen,NO
+63,CHUBUT,28 de Julio,SI
+64,CHUBUT,Dique Florentino Ameghino,NO
+65,CHUBUT,Dolavon,SI
+66,BUENOS AIRES,Martínez,SI
+67,BUENOS AIRES,San Isidro,SI
+68,BUENOS AIRES,Villa Adelina,SI
+69,BUENOS AIRES,Bella Vista,SI
+70,BUENOS AIRES,Campo De Mayo,NO
+71,BUENOS AIRES,Muñiz,SI
+72,CORDOBA,Canteras Quilpo,NO
+73,CORDOBA,Cruz de Caña,NO
+74,BUENOS AIRES,Berisso,SI
+75,BUENOS AIRES,Los Talas,NO
+76,BUENOS AIRES,Villa Arguello,SI
+77,BUENOS AIRES,Villa Dolores,NO
+78,BUENOS AIRES,Villa Independencia,NO
+79,BUENOS AIRES,Villa Nueva,SI
+80,BUENOS AIRES,Villa Porteña,NO
+81,BUENOS AIRES,Villa Progreso,SI
+82,BUENOS AIRES,Villa San Carlos,NO
+83,BUENOS AIRES,Villa Zula,NO
+84,BUENOS AIRES,Hale,NO
+85,BUENOS AIRES,Juan F. Ibarra,NO
+86,BUENOS AIRES,Mariano Unzué,NO
+87,BUENOS AIRES,Paula,NO
+88,BUENOS AIRES,Pirovano,NO
+89,BUENOS AIRES,San Carlos de Bolívar (Est. Bolívar),NO
+90,BUENOS AIRES,Urdampilleta,NO
+91,BUENOS AIRES,Villa Lynch Pueyrredón,NO
+92,BUENOS AIRES,Asamblea,NO
+93,CABA,VILLA URQUIZA,SI
+94,CORDOBA,Alpa Corral,NO
+95,CORDOBA,Berrotarán,SI
+96,CORDOBA,Bulnes,NO
+97,CORDOBA,Chaján,SI
+98,CORDOBA,Chucul,SI
+99,CORDOBA,Coronel Baigorria,SI
+100,CHACO,Villa Berthet,SI
+101,CHACO,Capitán Solari,SI
+102,CHACO,Colonia Elisa,NO
+103,CHACO,Colonias Unidas,SI
+104,CHACO,Ingeniero Barbet,NO
+105,CHACO,Las Garcitas,NO
+106,CHACO,Charadai,SI
+107,CHACO,Cote Lai,NO
+108,CHACO,Haumonía,NO
+109,CHACO,Horquilla,NO
+110,CHACO,La Sabana,NO
+111,CHUBUT,Arroyo Verde,NO
+112,CHUBUT,Puerto Madryn,SI
+113,CHUBUT,Puerto Pirámide,NO
+114,CHUBUT,Quinta El Mirador,NO
+115,CORDOBA,Cruz del Eje,SI
+116,CORDOBA,El Brete,SI
+117,CORDOBA,El Rincón,NO
+118,CORDOBA,Guanaco Muerto,NO
+119,CORDOBA,La Banda,NO
+120,CORDOBA,La Batea,NO
+121,CORDOBA,La Higuera,NO
+122,CORDOBA,Las Cañadas,NO
+123,CORDOBA,Las Playas,SI
+124,CORDOBA,Los Chañaritos,SI
+125,CORDOBA,Media Naranja,NO
+126,CORDOBA,Paso Viejo,NO
+127,CORDOBA,San Marcos Sierra,SI
+128,CORDOBA,Serrezuela,SI
+129,CORDOBA,Tuclame,NO
+130,BUENOS AIRES,Chapadmalal,SI
+131,BUENOS AIRES,El Marquesado,NO
+132,BUENOS AIRES,Estacion Camet,NO
+133,BUENOS AIRES,Estación Chapadmalal,SI
+134,BUENOS AIRES,Mar del Plata,SI
+135,BUENOS AIRES,Punta Mogotes,NO
+136,BUENOS AIRES,Sierra de los Padres,SI
+137,BUENOS AIRES,Barrio Ruta 24 Kilómetro 10,SI
+138,BUENOS AIRES,Country Club Bosque Real - Barrio Morabo,NO
+139,CABA,ALMAGRO,SI
+140,CHUBUT,Comodoro Rivadavia,SI
+141,CHUBUT,Diadema Argentina,NO
+142,CHUBUT,Km. 11 - Cuarteles,NO
+143,CHUBUT,KM. 3 - General Mosconi,NO
+144,CHUBUT,KM. 5 - Presidente Ortiz,NO
+145,CHUBUT,KM. 8 - Don Bosco,NO
+146,CABA,BOEDO,SI
+147,CHUBUT,Rada Tilly,SI
+148,CHUBUT,Camarones,NO
+149,CHUBUT,Garayalde,NO
+150,CHUBUT,Aldea Escolar,NO
+151,CHUBUT,Corcovado,NO
+152,CHUBUT,Esquel,NO
+153,BUENOS AIRES,General Pirán,SI
+154,BUENOS AIRES,La Armonía,NO
+155,BUENOS AIRES,La Baliza,NO
+156,BUENOS AIRES,La Caleta,NO
+157,BUENOS AIRES,Mar Chiquita,NO
+158,BUENOS AIRES,Mar de Cobo,SI
+159,BUENOS AIRES,Playa Dorada,NO
+160,BUENOS AIRES,Santa Clara del Mar,SI
+161,BUENOS AIRES,Santa Elena,NO
+162,BUENOS AIRES,Vivoratá,SI
+163,BUENOS AIRES,Barrio Santa Rosa,NO
+164,BUENOS AIRES,Marcos Paz,SI
+165,BUENOS AIRES,Goldney,NO
+166,BUENOS AIRES,Benito Juárez (Est. Juárez),SI
+167,BUENOS AIRES,López,SI
+168,BUENOS AIRES,Tedín Uriburu,NO
+169,BUENOS AIRES,Villa Cacique (Est. Alfredo Fortabat),SI
+170,BUENOS AIRES,Berazategui,SI
+171,BUENOS AIRES,Berazategui Oeste,SI
+172,BUENOS AIRES,Carlos Tomás Sourigues,SI
+173,BUENOS AIRES,Centro Agrícola El Pato,NO
+174,CORDOBA,Sarmiento,NO
+175,CORDOBA,Simbolar,NO
+176,BUENOS AIRES,Guillermo E. Hudson,SI
+177,BUENOS AIRES,Juan María Gutierrez,SI
+178,BUENOS AIRES,Pereyra,SI
+179,BUENOS AIRES,Plátanos,SI
+180,BUENOS AIRES,Ranelagh,SI
+181,BUENOS AIRES,Villa España,SI
+182,BUENOS AIRES,Barrio Banco Provincia,NO
+183,BUENOS AIRES,Barrio El Carmen (Este),SI
+184,BUENOS AIRES,Barrio Universitario,NO
+185,ENTRE RIOS,El Colorado,NO
+186,ENTRE RIOS,Hambis,NO
+187,BUENOS AIRES,General Pinto,NO
+188,BUENOS AIRES,Germania (Est. Mayor José Orellano),NO
+189,BUENOS AIRES,Gunther,NO
+190,BUENOS AIRES,Villa Francia (Est. Coronel Granada),SI
+191,BUENOS AIRES,Villa Roth (Est. Ingeniero Balbín),NO
+192,BUENOS AIRES,Barrio Colinas Verdes,NO
+193,BUENOS AIRES,Barrio El Boquerón,NO
+194,BUENOS AIRES,Barrio El Casal,NO
+195,BUENOS AIRES,Barrio El Coyunco,SI
+196,BUENOS AIRES,Barrio La Gloria,NO
+197,BUENOS AIRES,Barrio Santa Paula,SI
+198,BUENOS AIRES,Batán,SI
+199,BUENOS AIRES,Camet,SI
+200,ENTRE RIOS,Hocker,NO
+201,BUENOS AIRES,Ingeniero Pablo Nogués,SI
+202,BUENOS AIRES,Los Polvorines,SI
+203,BUENOS AIRES,Malvinas Argentinas,SI
+204,BUENOS AIRES,Tortuguitas,SI
+205,BUENOS AIRES,Villa De Mayo,SI
+206,BUENOS AIRES,Atlantida,NO
+207,BUENOS AIRES,Camet Norte,NO
+208,BUENOS AIRES,Coronel Vidal,SI
+209,BUENOS AIRES,Frente Mar,NO
+210,BUENOS AIRES,San Miguel,SI
+211,BUENOS AIRES,Campos Salles,NO
+212,BUENOS AIRES,Conesa,NO
+213,BUENOS AIRES,Erézcano,NO
+214,BUENOS AIRES,General Rojo,SI
+215,BUENOS AIRES,La Emilia,NO
+216,BUENOS AIRES,San Nicolás de los Arroyos,SI
+217,BUENOS AIRES,Villa Campi,NO
+218,BUENOS AIRES,Villa Canto,NO
+219,BUENOS AIRES,Villa Esperanza,NO
+220,BUENOS AIRES,Villa Riccio,NO
+221,BUENOS AIRES,Gobernador Castro,NO
+222,BUENOS AIRES,Ingeniero Moneta,NO
+223,BUENOS AIRES,Obligado,NO
+224,BUENOS AIRES,Pueblo Doyle,NO
+225,BUENOS AIRES,Río Tala,SI
+226,BUENOS AIRES,San Pedro,SI
+227,BUENOS AIRES,Santa Lucía,SI
+228,BUENOS AIRES,Alejandro Korn,SI
+229,BUENOS AIRES,Domselaar,NO
+230,BUENOS AIRES,San Vicente,SI
+231,BUENOS AIRES,General Rivas,NO
+232,BUENOS AIRES,Suipacha,SI
+233,BUENOS AIRES,De la Canal,NO
+234,CABA,PARQUE PATRICIOS,SI
+235,CHUBUT,Gaiman,SI
+236,CHUBUT,Blancuntre,NO
+237,CHUBUT,El Escorial,NO
+238,CHUBUT,Gastre,NO
+239,CHUBUT,Lagunita Salada,NO
+240,CHUBUT,Yala Laubat,NO
+241,CHUBUT,Aldea Epulef,NO
+242,CHUBUT,Carrenleufú,NO
+243,ENTRE RIOS,Hocker,NO
+244,CABA,MONTE CASTRO,SI
+245,CORDOBA,Coronel Moldes,NO
+246,CORDOBA,Elena,SI
+247,CORDOBA,La Carolina,NO
+248,CORDOBA,La Cautiva,NO
+249,CORDOBA,La Gilda,NO
+250,CORDOBA,Las Acequias,SI
+251,CABA,BELGRANO,SI
+252,CHUBUT,Colan Conhue,NO
+253,CHUBUT,Paso del Sapo,NO
+254,CHUBUT,Tecka,NO
+255,CHUBUT,El Mirasol,NO
+256,CHUBUT,Las Plumas,NO
+257,CHUBUT,Cerro Cóndor,NO
+258,CHUBUT,Los Altares,NO
+259,CHUBUT,Paso de Indios,NO
+260,CHUBUT,Playa Magagna,NO
+261,BUENOS AIRES,Bragado,SI
+262,BUENOS AIRES,Comodoro Py,SI
+263,BUENOS AIRES,General O'Brien,SI
+264,BUENOS AIRES,Irala,NO
+265,BUENOS AIRES,La Limpia,NO
+266,BUENOS AIRES,Máximo Fernández (Est. Juan F. Salaberry),NO
+267,BUENOS AIRES,Mechita (Est. Mecha),NO
+268,BUENOS AIRES,Olascoaga,NO
+269,BUENOS AIRES,Warnes,NO
+270,BUENOS AIRES,Altamirano,NO
+271,BUENOS AIRES,Barrio El Mirador,NO
+272,BUENOS AIRES,Barrio Las Golondrinas,NO
+273,BUENOS AIRES,Barrio Los Bosquecitos,NO
+274,BUENOS AIRES,Barrio Parque Las Acacias,NO
+275,BUENOS AIRES,Campos de Roca,NO
+276,BUENOS AIRES,Club de Campo Las Malvinas,NO
+277,ENTRE RIOS,Pueblo Moreno,NO
+278,RIO NEGRO,Barrio Unión,NO
+279,BUENOS AIRES,Coronel Brandsen,SI
+280,BUENOS AIRES,Gómez,NO
+281,BUENOS AIRES,Jeppener,SI
+282,BUENOS AIRES,Oliden,NO
+283,BUENOS AIRES,Posada de los Lagos,NO
+284,BUENOS AIRES,Samborombón,NO
+285,BUENOS AIRES,Alto Los Cardales,SI
+286,BUENOS AIRES,Barrio Los Pioneros,NO
+287,BUENOS AIRES,Campana,SI
+288,BUENOS AIRES,Chacras del Río Luján,NO
+289,BUENOS AIRES,Lomas del Río Luján (Est. Río Luján),NO
+290,BUENOS AIRES,General Rodríguez,SI
+291,BUENOS AIRES,Barrio Parque General San Martin,SI
+292,BUENOS AIRES,Billinghurst,SI
+293,BUENOS AIRES,Ciudad Del Libertador General San Martin,SI
+294,BUENOS AIRES,Ciudad Jardin El Libertador,NO
+295,BUENOS AIRES,Va Ma Irene De Los Remedios De Escalada,NO
+296,BUENOS AIRES,Villa Ayacucho,SI
+297,BUENOS AIRES,Villa Ballester,SI
+298,BUENOS AIRES,Villa Bernardo Monteagudo,SI
+299,BUENOS AIRES,Villa Chacabuco,SI
+300,BUENOS AIRES,Villa Coronel Jose M. Zapiola,SI
+301,BUENOS AIRES,Villa General Antonio J. De Sucre,SI
+302,BUENOS AIRES,Villa General Eugenio Necochea,SI
+303,BUENOS AIRES,Villa General Jose Tomas Guido,SI
+304,BUENOS AIRES,Villa General Juan G. Las Heras,SI
+305,BUENOS AIRES,Villa Godoy Cruz,SI
+306,BUENOS AIRES,Villa Granaderos De San Martín,SI
+307,BUENOS AIRES,Villa Gregoria Matorras,SI
+308,BUENOS AIRES,Villa José León Suarez,SI
+309,BUENOS AIRES,Gowland,SI
+310,BUENOS AIRES,Jorge Born,NO
+311,BUENOS AIRES,Mercedes,SI
+312,BUENOS AIRES,Tomás Jofré,NO
+313,BUENOS AIRES,Libertad,SI
+314,BUENOS AIRES,Mariano Acosta,SI
+315,BUENOS AIRES,Merlo,SI
+316,BUENOS AIRES,Pontevedra,SI
+317,BUENOS AIRES,San Antonio De Padua,SI
+318,BUENOS AIRES,Abbott,SI
+319,BUENOS AIRES,San Miguel del Monte (Est. Monte),SI
+320,BUENOS AIRES,Zenón Videla Dorna,NO
+321,BUENOS AIRES,Balneario Sauce Grande,SI
+322,BUENOS AIRES,Monte Hermoso,SI
+323,BUENOS AIRES,Cuartel V,SI
+324,BUENOS AIRES,Francisco Alvarez,SI
+325,BUENOS AIRES,Don Torcuato Este,SI
+326,BUENOS AIRES,Don Torcuato Oeste,NO
+327,BUENOS AIRES,El Talar,SI
+328,BUENOS AIRES,General Pacheco,SI
+329,BUENOS AIRES,Los Troncos Del Talar,SI
+330,BUENOS AIRES,Nordelta,SI
+331,RIO NEGRO,Mamuel Choique,SI
+332,RIO NEGRO,Ñorquincó,NO
+333,RIO NEGRO,Ojos de Agua,NO
+334,BUENOS AIRES,Ricardo Rojas,SI
+335,BUENOS AIRES,Rincón de Milberg,SI
+336,BUENOS AIRES,Tigre,SI
+337,BUENOS AIRES,General Conesa,NO
+338,BUENOS AIRES,Villa Roch,NO
+339,BUENOS AIRES,Chasicó,NO
+340,BUENOS AIRES,Saldungaray,NO
+341,BUENOS AIRES,Sierra de la Ventana,SI
+342,RIO NEGRO,Río Chico (Est. Cerro Mesa),NO
+343,RIO NEGRO,Barrio Esperanza,SI
+344,BUENOS AIRES,Alejandro Petión,NO
+345,BUENOS AIRES,Barrio Belgrano-Máximo Paz,NO
+346,BUENOS AIRES,Barrio El Taladro,NO
+347,BUENOS AIRES,Cañuelas,SI
+348,BUENOS AIRES,Gobernador Udaondo,NO
+349,BUENOS AIRES,Máximo Paz,SI
+350,BUENOS AIRES,Santa Rosa,NO
+351,BUENOS AIRES,Uribelarrea,SI
+352,BUENOS AIRES,Vicente Casares,NO
+353,BUENOS AIRES,Capitán Sarmiento,SI
+354,BUENOS AIRES,La Luisa,NO
+355,BUENOS AIRES,Bellocq,NO
+356,BUENOS AIRES,Villa Juan Martín De Pueyrredon,SI
+357,BUENOS AIRES,Villa Libertad,SI
+358,BUENOS AIRES,Villa Lynch,SI
+359,BUENOS AIRES,Villa Maipu,SI
+360,BUENOS AIRES,Villa Marqués Alejandro María De Aguado,SI
+361,BUENOS AIRES,Villa Parque Pres Figueroa Alcorta,SI
+362,BUENOS AIRES,Villa Parque San Lorenzo,SI
+363,BUENOS AIRES,Villa San Andrés,SI
+364,BUENOS AIRES,Villa Yapeyú,SI
+365,BUENOS AIRES,Baigorrita,NO
+366,BUENOS AIRES,La Delfina,NO
+367,BUENOS AIRES,La Reja,SI
+368,BUENOS AIRES,Moreno,SI
+369,BUENOS AIRES,Paso Del Rey,SI
+370,BUENOS AIRES,Trujui,SI
+371,BUENOS AIRES,Castelar,SI
+372,BUENOS AIRES,El Palomar,SI
+373,BUENOS AIRES,Tornquist,SI
+374,BUENOS AIRES,Tres Picos,NO
+375,BUENOS AIRES,Villa Serrana La Gruta,NO
+376,BUENOS AIRES,Villa Ventana,NO
+377,BUENOS AIRES,30 de Agosto,SI
+378,BUENOS AIRES,Berutti,SI
+379,BUENOS AIRES,Girodias,NO
+380,BUENOS AIRES,La Carreta,NO
+381,BUENOS AIRES,Trenque Lauquen,SI
+382,BUENOS AIRES,Trongé,NO
+383,BUENOS AIRES,Balneario Orense,NO
+384,JUJUY,Los Alisos,NO
+385,CABA,MONSERRAT,SI
+386,CORDOBA,La Cumbrecita,NO
+387,CORDOBA,Las Bajadas,NO
+388,CORDOBA,Las Caleras,NO
+389,CORDOBA,Los Cóndores,NO
+390,CORDOBA,Los Molinos,NO
+391,CORDOBA,Los Reartes,SI
+392,CABA,CABALLITO,SI
+393,CORDOBA,La Puerta,SI
+394,CORDOBA,La Quinta,NO
+395,CORDOBA,Las Gramillas,NO
+396,CORDOBA,Las Saladas,NO
+397,CORDOBA,Maquinista Gallini,NO
+398,CORDOBA,Monte del Rosario,NO
+399,CORDOBA,Montecristo,SI
+400,CORDOBA,Obispo Trejo,NO
+401,CABA,VILLA LURO,SI
+402,CORDOBA,Sinsacate,SI
+403,CORDOBA,Villa del Totoral,SI
+404,CORDOBA,Cerro Colorado,NO
+405,CORDOBA,Churqui Cañada,NO
+406,CORDOBA,El Rodeo,NO
+407,CORDOBA,El Tuscal,NO
+408,CORDOBA,Las Arrias,NO
+409,CABA,PALERMO,SI
+410,ENTRE RIOS,Aldea Valle María,SI
+411,ENTRE RIOS,Colonia Ensayo,NO
+412,ENTRE RIOS,Costa Grande,NO
+413,ENTRE RIOS,Diamante,NO
+414,ENTRE RIOS,Estación Camps,NO
+415,ENTRE RIOS,Estacion Puiggari,NO
+416,ENTRE RIOS,General Alvear,NO
+417,ENTRE RIOS,General Racedo,NO
+418,FORMOSA,Formosa,SI
+419,FORMOSA,Gran Guardia,NO
+420,FORMOSA,Mariano Boedo,NO
+421,FORMOSA,Mojón de Fierro,NO
+422,FORMOSA,San Hilario,NO
+423,FORMOSA,Villa del Carmen,SI
+424,FORMOSA,Villa Trinidad,NO
+425,FORMOSA,Banco Payaguá,NO
+426,FORMOSA,General Lucio Victorio Mansilla,NO
+427,FORMOSA,Herradura,NO
+428,FORMOSA,San Francisco de Laishi,NO
+429,FORMOSA,Tatané,NO
+430,FORMOSA,Villa Escolar,NO
+431,LA PAMPA,Quemú Quemú,SI
+432,LA PAMPA,Relmo,NO
+433,LA PAMPA,Villa Mirasol,NO
+434,LA PAMPA,Caleufú,SI
+435,LA PAMPA,Ingeniero Foster,NO
+436,LA PAMPA,La Maruja,NO
+437,LA PAMPA,Parera,SI
+438,LA PAMPA,Pichi Huinca,SI
+439,LA PAMPA,Quetrequén,SI
+440,LA PAMPA,Rancul,SI
+441,LA PAMPA,Adolfo Van Praet,NO
+442,LA PAMPA,Alta Italia,NO
+443,LA PAMPA,Damián Maisonave (Est. Simson),SI
+444,MENDOZA,Bowen,NO
+445,MENDOZA,Carmensa,NO
+446,MENDOZA,General Alvear,SI
+447,MENDOZA,Los Compartos,NO
+448,MENDOZA,Gobernador Benegas,SI
+449,MENDOZA,Godoy Cruz,SI
+450,MENDOZA,LAS TORTUGAS,SI
+451,MENDOZA,Presidente Sarmiento,NO
+452,MENDOZA,SAN FRANCISCO DEL MONTE,SI
+453,MENDOZA,Villa Hipodromo,SI
+454,MENDOZA,Villa Marini,NO
+455,SALTA,Pacará,NO
+456,MENDOZA,Malargüe,SI
+457,MENDOZA,Andrade,NO
+458,MENDOZA,Barrio Cooperativa Los Campamentos,NO
+459,MENDOZA,Barrio Rivadavia,NO
+460,MENDOZA,Cuadro Ortega,NO
+461,MENDOZA,El Mirador,SI
+462,MENDOZA,La Central,NO
+463,MENDOZA,La Esperanza,NO
+464,MENDOZA,La Florida,NO
+465,MENDOZA,La Libertad,NO
+466,MENDOZA,Los Árboles,NO
+467,MENDOZA,Los Campamentos,NO
+468,MENDOZA,Medrano,NO
+469,MENDOZA,Mundo Nuevo,NO
+470,MENDOZA,Reducción de Abajo,NO
+471,MENDOZA,Rivadavia,SI
+472,MENDOZA,Santa María de Oro,NO
+473,MISIONES,Bernardo de Irigoyen,SI
+474,MISIONES,Caburei,NO
+475,MISIONES,Dos Hermanas,NO
+476,MISIONES,Integración,NO
+477,MISIONES,Piñalito Norte,NO
+478,MISIONES,Puerto Andresito,NO
+479,MISIONES,Puerto Deseado,NO
+480,MISIONES,San Antonio,NO
+481,MISIONES,El Soberbio,NO
+482,MISIONES,Fracrán,NO
+483,MISIONES,San Vicente,SI
+484,MISIONES,Esperanza,SI
+485,MISIONES,Libertad,NO
+486,MISIONES,Puerto Iguazú,SI
+487,MISIONES,Villa Cooperativa,NO
+488,NEUQUEN,San Martín de los Andes,SI
+489,NEUQUEN,Villa Lago Meliquina,SI
+490,NEUQUEN,Chorriaca,NO
+491,NEUQUEN,Loncopué,NO
+492,NEUQUEN,Villa La Angostura,SI
+493,NEUQUEN,Villa Traful,NO
+494,NEUQUEN,Andacollo,SI
+495,NEUQUEN,Huinganco,NO
+496,NEUQUEN,Las Ovejas,NO
+497,NEUQUEN,Los Miches,NO
+498,NEUQUEN,Manzano Amargo,NO
+499,NEUQUEN,Varvarco,NO
+500,NEUQUEN,Villa del Nahueve,NO
+501,RIO NEGRO,San Carlos de Bariloche,SI
+502,RIO NEGRO,Villa Campanario,NO
+503,RIO NEGRO,Villa Catedral,NO
+504,RIO NEGRO,Villa Llao Llao,NO
+505,RIO NEGRO,Villa Los Coihues,NO
+506,RIO NEGRO,Villa Mascardi,SI
+507,RIO NEGRO,Barrio Colonia Conesa,NO
+508,RIO NEGRO,Barrio Planta Compresora de Gas,NO
+509,RIO NEGRO,General Conesa,SI
+510,RIO NEGRO,Aguada Guzmán,NO
+511,RIO NEGRO,Cerro Policía,SI
+512,RIO NEGRO,El Cuy,NO
+513,RIO NEGRO,Las Perlas,SI
+514,RIO NEGRO,Mencué,NO
+515,SALTA,El Quebrachal,SI
+516,SALTA,Gaona,SI
+517,SALTA,General Pizarro,SI
+518,SALTA,Joaquín V. González,SI
+519,SALTA,Las Lajitas,SI
+520,SALTA,Luis Burela,NO
+521,SALTA,Macapillo,NO
+522,SALTA,Nuestra Señora de Talavera,NO
+523,SALTA,Piquete Cabado,NO
+524,SALTA,Río del Valle,NO
+525,SALTA,Tolloche,SI
+526,SALTA,Cachi,SI
+527,SALTA,Payogasta,NO
+528,SALTA,Cafayate,SI
+529,SAN JUAN,Rawson,NO
+530,SAN JUAN,Villa Bolaños,NO
+531,SAN JUAN,Villa Krause,NO
+532,SAN JUAN,Rivadavia,SI
+533,SAN JUAN,Barrio Sadop,NO
+534,SAN JUAN,Dos Acequias (Est. Los Angacos),NO
+535,SAN JUAN,San Isidro (Est. Los Angacos),NO
+536,SAN JUAN,Villa Dominguito (Est. Puntilla Blanca),NO
+537,SAN JUAN,Villa Don Bosco (Est. Angaco Sud),SI
+538,SAN JUAN,Villa El Salvador,NO
+539,SAN JUAN,Villa San Martín,NO
+540,SAN JUAN,Alto De Sierra,NO
+541,SAN JUAN,Colonia Gutierrez,NO
+542,SAN JUAN,Santa Lucía,SI
+543,SAN JUAN,Cañada Honda,SI
+544,SAN LUIS,Unión,NO
+545,SAN LUIS,Bajo De Veliz,NO
+546,SAN LUIS,Balde De Escudero,NO
+547,SAN LUIS,Carpinteria,NO
+548,SAN LUIS,Cerrito Blanco,NO
+549,SAN LUIS,Cerro de Oro,SI
+550,SAN LUIS,El Duraznito,NO
+551,SAN LUIS,La Chilca,NO
+552,SAN LUIS,La Lomita,NO
+553,SAN LUIS,Lafinur,NO
+554,SAN LUIS,Las Palomas,NO
+555,SAN LUIS,Los Cajones,NO
+556,SAN LUIS,Los Lobos,NO
+557,SAN LUIS,Los Molles,NO
+558,SAN LUIS,Merlo,SI
+559,SAN LUIS,Ojo Del Rio,NO
+560,SAN LUIS,Santa Ana,NO
+561,SAN LUIS,Santa Rosa del Conlara,NO
+562,SANTA FE,Gödeken,SI
+563,SANTA FE,Los Molinos,NO
+564,SANTA FE,Los Nogales,NO
+565,SANTA FE,Los Quirquinchos,NO
+566,SANTA FE,San José de la Esquina,NO
+567,SANTA FE,Sanford,SI
+568,SANTA FE,Villada,NO
+569,SANTA FE,Aldao (Est. Casablanca),SI
+570,SANTA FE,Angélica,SI
+571,SANTA FE,Ataliva,SI
+572,SANTA FE,Aurelia,NO
+573,SANTA FE,Barrios Acapulco y Veracruz,NO
+574,SANTA FE,Santa Isabel,SI
+575,SANTA FE,Teodelina,NO
+576,SANTA FE,Venado Tuerto,SI
+577,SANTA FE,Villa Cañás,SI
+578,SANTA FE,Wheelwright,SI
+579,SANTA FE,Arroyo Ceibal,NO
+580,SANTA FE,Avellaneda (Est. Ewald),SI
+581,SANTA FE,Berna,NO
+582,SANTA FE,El Araza,NO
+583,SANTA FE,El Rabón,NO
+584,SANTA FE,Sarmiento,NO
+585,SANTA FE,Acebal,SI
+586,SANTA FE,Albarellos,NO
+587,SANTA FE,Álvarez,SI
+588,SANTA FE,Alvear,SI
+589,SANTA FE,Arbilla,NO
+590,SANTA FE,Arminda,NO
+591,SANTA FE,Arroyo Seco,SI
+592,SANTA FE,Carmen del Sauce,SI
+593,SANTA FE,Coronel Bogado,SI
+594,SANTA FE,Coronel Rodolfo S. Domínguez,NO
+595,SANTA FE,Cuatro Esquinas,SI
+596,SANTA FE,El Caramelo,SI
+597,SANTA FE,Pedro Gómez Cello,NO
+598,SANTA FE,Ramayón,NO
+599,SANTA FE,San Bernardo,NO
+600,SANTA FE,San Justo,SI
+601,SANTA FE,San Martín Norte,NO
+602,SANTA FE,Silva (Est. Abipones),NO
+603,SANTA FE,Vera y Pintado (Est. Guaraníes),SI
+604,SANTA FE,Videla,SI
+605,SANTA FE,Aldao,NO
+606,SANTA FE,Capitán Bermúdez,SI
+607,SANTA FE,Carcarañá,NO
+608,SANTIAGO DEL ESTERO,Los Tigres,NO
+609,SANTIAGO DEL ESTERO,Monte Quemado,SI
+610,SANTIAGO DEL ESTERO,Nueva Esperanza,NO
+611,SANTIAGO DEL ESTERO,Pampa de los Guanacos,SI
+612,SANTIAGO DEL ESTERO,San José del Boquerón,NO
+613,SANTIAGO DEL ESTERO,Urutaú,NO
+614,SANTIAGO DEL ESTERO,Bandera Bajada,SI
+615,SANTIAGO DEL ESTERO,Caspi Corral,NO
+616,SANTIAGO DEL ESTERO,Colonia San Juan,NO
+617,SANTIAGO DEL ESTERO,El Crucero,NO
+618,SANTIAGO DEL ESTERO,Kilómetro 30,NO
+619,SANTIAGO DEL ESTERO,La Cañada,SI
+620,SANTIAGO DEL ESTERO,La Invernada,SI
+621,SANTIAGO DEL ESTERO,Minerva,NO
+622,SANTIAGO DEL ESTERO,Vaca Huañuna,NO
+623,SANTIAGO DEL ESTERO,Villa Figueroa,SI
+624,TUCUMAN,Villa Burruyacú,SI
+625,TUCUMAN,Villa Padre Monti,NO
+626,TUCUMAN,San Miguel de Tucumán (Est. Tucumán),SI
+627,TUCUMAN,Alpachiri,NO
+628,TUCUMAN,Alto Verde,NO
+629,TUCUMAN,Arcadia,NO
+630,TUCUMAN,Concepción,SI
+631,TUCUMAN,Iltico,NO
+632,TUCUMAN,La Trinidad,NO
+633,TUCUMAN,Medina,NO
+634,TUCUMAN,San Roque,NO
+635,TUCUMAN,Alderetes,SI
+636,TUCUMAN,Banda del Río Salí,SI
+637,TUCUMAN,Barrio Aeropuerto,NO
+638,TUCUMAN,Colombres,NO
+639,TUCUMAN,Colonia Mayo - Barrio La Milagrosa,NO
+640,TUCUMAN,Delfín Gallo,NO
+641,TUCUMAN,El Bracho,NO
+642,TUCUMAN,El Corte,NO
+643,TUCUMAN,El Paraiso,NO
+644,TUCUMAN,Ex Ingenio Esperanza,NO
+645,TUCUMAN,Ex Ingenio Los Ralos,NO
+646,TUCUMAN,Ex Ingenio Lujan,NO
+647,TUCUMAN,Ingenio La Florida,NO
+648,TUCUMAN,La Florida,NO
+649,TUCUMAN,Las Cejas,NO
+650,TUCUMAN,Lastenia,NO
+651,TUCUMAN,Lastenia,NO
+652,TUCUMAN,Los Gutierrez,NO
+653,TUCUMAN,Los Ralos,NO
+654,TUCUMAN,Pacará,NO
+655,TUCUMAN,Ranchillos,NO
+656,TUCUMAN,San Andrés,SI
+657,TUCUMAN,Villa Recaste,NO
+658,TUCUMAN,Villa Tercera,NO
+659,TUCUMAN,Barrio Casa Rosada,NO
+660,TUCUMAN,Campo de Herrera,NO
+661,TUCUMAN,Ex Ingenio Nueva Baviera,NO
+662,TUCUMAN,Famaillá,SI
+663,TUCUMAN,Ingenio Fronterita,NO
+664,TUCUMAN,Graneros,NO
+665,TUCUMAN,Lamadrid,SI
+666,TUCUMAN,Taco Ralo,NO
+667,TUCUMAN,Juan Bautista Alberdi,NO
+668,TUCUMAN,Villa Belgrano,NO
+669,TUCUMAN,La Cocha,NO
+670,TUCUMAN,San José de La Cocha,NO
+671,TUCUMAN,Bella Vista,SI
+672,TUCUMAN,Estación Aráoz,NO
+673,TUCUMAN,Los Puestos,NO
+674,TUCUMAN,Manuel García Fernández,NO
+675,TUCUMAN,Pala Pala,NO
+676,TUCUMAN,Río Colorado,NO
+677,TUCUMAN,Santa Rosa de Leales,NO
+678,TUCUMAN,Villa de Leales,NO
+679,TUCUMAN,Villa Fiad - Ingenio Leales,NO
+680,TUCUMAN,Barrio Araujo,NO
+681,TUCUMAN,Barrio San Felipe,NO
+682,TUCUMAN,El Manantial,SI
+683,TUCUMAN,Ingenio San Pablo,SI
+684,TUCUMAN,La Reducción,NO
+685,TUCUMAN,Santa Ana,NO
+686,TUCUMAN,Villa Clodomiro Hileret,NO
+687,TUCUMAN,Atahona,NO
+688,TUCUMAN,Monteagudo,NO
+689,TUCUMAN,Nueva Trinidad,NO
+690,TUCUMAN,Santa Cruz,NO
+691,TUCUMAN,Simoca,NO
+692,TUCUMAN,Villa Chicligasta,NO
+693,TUCUMAN,Amaicha del Valle,SI
+694,TUCUMAN,Colalao del Valle,NO
+695,TUCUMAN,El Mollar,NO
+696,TUCUMAN,Tafí del Valle,NO
+697,TUCUMAN,Barrio El Cruce,NO
+698,TUCUMAN,Barrio Lomas de Tafí,NO
+699,TUCUMAN,Barrio Mutual San Martín,NO
+700,TUCUMAN,Barrio Parada 14,NO
+701,TUCUMAN,Barrio U.T.A. II,NO
+702,TUCUMAN,Diagonal Norte - Luz y Fuerza - Los Pocitos - Villa Nueva Italia (6),SI
+703,TUCUMAN,Lules,SI
+704,TUCUMAN,Acheral,SI
+705,TUCUMAN,Capitán Cáceres,NO
+706,TUCUMAN,Monteros,SI
+707,TUCUMAN,Pueblo Independencia,NO
+708,TUCUMAN,Río Seco,SI
+709,TUCUMAN,Santa Lucía,NO
+710,TUCUMAN,Sargento Moya,NO
+711,TUCUMAN,Soldado Maldonado,NO
+712,TUCUMAN,Teniente Berdina,NO
+713,TUCUMAN,Villa Quinteros,NO
+714,TUCUMAN,Aguilares,NO
+715,TUCUMAN,Ingenio Santa Barbara,NO
+716,TUCUMAN,Los Sarmientos,NO
+717,TUCUMAN,Río Chico,NO
+718,TUCUMAN,El Cadillal,NO
+719,TUCUMAN,Tafí Viejo,SI
+720,TUCUMAN,Villa Las Flores,NO
+721,TUCUMAN,Villa Mariano Moreno - El Colmenar,SI
+722,TUCUMAN,Choromoro,NO
+723,TUCUMAN,San Pedro de Colalao,NO
+724,TUCUMAN,Villa de Trancas,NO
+725,TUCUMAN,Barrio San José III,NO
+726,TUCUMAN,Cevil Redondo,NO
+727,TUCUMAN,Country Jockey Club,NO
+728,TUCUMAN,EX INGENIO SAN JOSE,NO
+729,TUCUMAN,Villa Carmela,NO
+730,TUCUMAN,Villa San Javier,NO
+731,TUCUMAN,Yerba Buena - Marcos Paz,SI
+732,SANTA FE,San Lorenzo,SI
+733,SANTA FE,Timbúes,SI
+734,SANTA FE,Villa Elvira,NO
+735,SANTA FE,Villa Mugueta,NO
+736,SANTA FE,Cañada Rosquín,NO
+737,SANTA FE,Carlos Pellegrini,NO
+738,SANTA FE,Casas,NO
+739,SANTA FE,Castelar,NO
+740,SANTA FE,Colonia Belgrano,NO
+741,SANTA FE,Crispi,NO
+742,SANTA FE,El Trébol,SI
+743,SANTA FE,Landeta,NO
+744,SANTA FE,Las Bandurrias,NO
+745,SANTA FE,Las Petacas,NO
+746,SANTA FE,Los Cardos,NO
+747,SANTA FE,María Susana,SI
+748,SANTA FE,Piamonte,NO
+749,SANTA FE,San Jorge,SI
+750,SANTA FE,San Martín de las Escobas,NO
+751,SANTA FE,Sastre,SI
+752,SANTA FE,Traill,NO
+753,SANTA FE,Wildermuth (Est. Granadero B. Bustos),NO
+754,SANTA FE,Calchaquí,NO
+755,SANTA FE,Cañada Ombú,NO
+756,SANTA FE,Colmena,NO
+757,SANTA FE,Fortín Olmos,NO
+758,SANTA FE,Garabato,NO
+759,SANTA FE,Golondrina,NO
+760,SANTA FE,Intiyaco,NO
+761,SANTA FE,Kilómetro 115,NO
+762,SANTA FE,La Gallareta,NO
+763,SANTA FE,Los Amores,NO
+764,SANTA FE,Margarita,NO
+765,SANTA FE,Paraje 29,NO
+766,SANTA FE,Pozo de los Indios,NO
+767,SANTA FE,Pueblo Santa Lucía,NO
+768,SANTA FE,Tartagal (Est. El Tajamar),NO
+769,SANTA FE,Toba,NO
+770,SANTA FE,Vera (Est. Gobernador Vera),NO
+771,SANTIAGO DEL ESTERO,Argentina,NO
+772,SANTIAGO DEL ESTERO,Malbrán,NO
+773,SANTIAGO DEL ESTERO,Villa General Mitre (Est. Pinto),NO
+774,SANTIAGO DEL ESTERO,Campo Gallo,SI
+775,SANTIAGO DEL ESTERO,Coronel Manuel L. Rico,NO
+776,SANTIAGO DEL ESTERO,Donadeu,SI
+777,SANTIAGO DEL ESTERO,Sachayoj,SI
+778,SANTIAGO DEL ESTERO,Santos Lugares,SI
+779,SANTIAGO DEL ESTERO,Estación Atamisqui,SI
+780,SANTIAGO DEL ESTERO,Medellín,SI
+781,SANTIAGO DEL ESTERO,Villa Atamisqui,SI
+782,SANTIAGO DEL ESTERO,Colonia Dora,NO
+783,SANTIAGO DEL ESTERO,Herrera,NO
+784,SANTIAGO DEL ESTERO,Tramo 20,NO
+785,SANTIAGO DEL ESTERO,Bandera,SI
+786,SANTIAGO DEL ESTERO,Cuatro Bocas,NO
+787,SANTIAGO DEL ESTERO,Fortín Inca,NO
+788,SANTIAGO DEL ESTERO,Guardia Escolta,NO
+789,SANTIAGO DEL ESTERO,El Deán,NO
+790,SANTIAGO DEL ESTERO,El Mojón,NO
+791,SANTIAGO DEL ESTERO,El Zanjón,NO
+792,SANTIAGO DEL ESTERO,Los Cardozos,SI
+793,SANTIAGO DEL ESTERO,Maco,NO
+794,SANTIAGO DEL ESTERO,Maquito,NO
+795,SANTIAGO DEL ESTERO,Morales,NO
+796,SANTIAGO DEL ESTERO,Puesto de San Antonio,NO
+797,SANTIAGO DEL ESTERO,San Pedro,NO
+798,SANTIAGO DEL ESTERO,Santa María,NO
+799,SANTIAGO DEL ESTERO,Icaño,NO
+800,SANTIAGO DEL ESTERO,Lugones,NO
+801,SANTIAGO DEL ESTERO,Real Sayana,NO
+802,SANTIAGO DEL ESTERO,Villa Mailín,NO
+803,SANTIAGO DEL ESTERO,Abra Grande,NO
+804,SANTIAGO DEL ESTERO,Antajé,NO
+805,SANTIAGO DEL ESTERO,Ardiles,NO
+806,SANTIAGO DEL ESTERO,Cañada Escobar,NO
+807,SANTIAGO DEL ESTERO,Chaupi Pozo,SI
+808,SANTIAGO DEL ESTERO,Clodomira,SI
+809,SANTIAGO DEL ESTERO,Huyamampa,NO
+810,SANTIAGO DEL ESTERO,La Aurora,NO
+811,SANTIAGO DEL ESTERO,La Banda,SI
+812,SANTIAGO DEL ESTERO,La Dársena,NO
+813,SANTIAGO DEL ESTERO,Los Quiroga,NO
+814,SANTIAGO DEL ESTERO,Los Soria,NO
+815,SANTIAGO DEL ESTERO,Simbolar,NO
+816,SANTIAGO DEL ESTERO,Tramo 16,NO
+817,SANTIAGO DEL ESTERO,Añatuya,SI
+818,SANTIAGO DEL ESTERO,Averías,NO
+819,SANTIAGO DEL ESTERO,Estación Tacañitas,SI
+820,SANTIAGO DEL ESTERO,La Nena,NO
+821,SANTIAGO DEL ESTERO,Los Juríes,SI
+822,SANTIAGO DEL ESTERO,Tomás Young,NO
+823,SANTIAGO DEL ESTERO,Lavalle,NO
+824,SANTIAGO DEL ESTERO,San Pedro,NO
+825,SANTIAGO DEL ESTERO,El Arenal,NO
+826,SANTIAGO DEL ESTERO,El Bobadal,NO
+827,SANTIAGO DEL ESTERO,El Charco,SI
+828,SANTIAGO DEL ESTERO,El Rincón,NO
+829,SANTIAGO DEL ESTERO,Gramilla,SI
+830,SANTIAGO DEL ESTERO,Isca Yacu,NO
+831,SANTIAGO DEL ESTERO,Isca Yacu Semaul,NO
+832,SANTIAGO DEL ESTERO,Patay,NO
+833,SANTIAGO DEL ESTERO,Pozo Hondo,SI
+834,SANTIAGO DEL ESTERO,San Pedro,NO
+835,SANTIAGO DEL ESTERO,El Colorado,NO
+836,SANTIAGO DEL ESTERO,El Cuadrado,NO
+837,SANTIAGO DEL ESTERO,Matará,SI
+838,SANTIAGO DEL ESTERO,Suncho Corral,NO
+839,SANTIAGO DEL ESTERO,Vilelas,NO
+840,SANTIAGO DEL ESTERO,Yuchán,NO
+841,SANTIAGO DEL ESTERO,Villa San Martín (Est. Loreto),NO
+842,SANTIAGO DEL ESTERO,Villa Unión,NO
+843,SANTIAGO DEL ESTERO,Aerolito,NO
+844,SANTIAGO DEL ESTERO,Alhuampa,SI
+845,SANTIAGO DEL ESTERO,Hasse,NO
+846,SANTIAGO DEL ESTERO,Hernán Mejía Miraval,NO
+847,SANTIAGO DEL ESTERO,Las Tinajas,NO
+848,SANTIAGO DEL ESTERO,Libertad,NO
+849,SANTIAGO DEL ESTERO,Lilo Viejo,NO
+850,SANTIAGO DEL ESTERO,Pueblo Pablo Torelo (Est. Otumpa),SI
+851,SANTIAGO DEL ESTERO,Quimilí,NO
+852,SANTIAGO DEL ESTERO,Roversi,NO
+853,SANTIAGO DEL ESTERO,Tintina,SI
+854,SANTIAGO DEL ESTERO,Weisburd,NO
+855,SANTIAGO DEL ESTERO,El 49,NO
+856,SANTIAGO DEL ESTERO,Sol de Julio,NO
+857,SANTIAGO DEL ESTERO,Villa Ojo de Agua,SI
+858,SANTIAGO DEL ESTERO,El Mojón,NO
+859,SANTIAGO DEL ESTERO,Las Delicias,NO
+860,SANTIAGO DEL ESTERO,Nueva Esperanza,SI
+861,SANTIAGO DEL ESTERO,Pozo Betbeder,NO
+862,SANTIAGO DEL ESTERO,Rapelli,SI
+863,SANTIAGO DEL ESTERO,Santo Domingo,NO
+864,SANTIAGO DEL ESTERO,Ramírez de Velazco,NO
+865,SANTIAGO DEL ESTERO,Sumampa,NO
+866,SANTIAGO DEL ESTERO,Sumampa Viejo,NO
+867,SANTIAGO DEL ESTERO,Chañar Pozo de Abajo,NO
+868,SANTIAGO DEL ESTERO,Chauchillas,NO
+869,SANTIAGO DEL ESTERO,Colonia Tinco,NO
+870,SANTIAGO DEL ESTERO,El Charco,NO
+871,SANTIAGO DEL ESTERO,Gramilla,NO
+872,SANTIAGO DEL ESTERO,La Nueva Donosa,NO
+873,SANTIAGO DEL ESTERO,Los Miranda,NO
+874,SANTIAGO DEL ESTERO,Los Núñez,SI
+875,SANTIAGO DEL ESTERO,Mansupa,NO
+876,SANTIAGO DEL ESTERO,Pozuelos,NO
+877,SANTIAGO DEL ESTERO,Rodeo de Valdez,NO
+878,SANTIAGO DEL ESTERO,Sauzal,NO
+879,SANTIAGO DEL ESTERO,Termas de Río Hondo,SI
+880,SANTIAGO DEL ESTERO,Villa Giménez,NO
+881,SANTIAGO DEL ESTERO,Villa Río Hondo,NO
+882,SANTIAGO DEL ESTERO,Villa Turística del Embalse,NO
+883,SANTIAGO DEL ESTERO,Vinará,NO
+884,SANTIAGO DEL ESTERO,Colonia Alpina,NO
+885,SANTIAGO DEL ESTERO,Palo Negro,NO
+886,SANTIAGO DEL ESTERO,Selva,NO
+887,SANTIAGO DEL ESTERO,Beltrán,NO
+888,SANTIAGO DEL ESTERO,Colonia El Simbolar,NO
+889,SANTIAGO DEL ESTERO,Fernández,SI
+890,SANTIAGO DEL ESTERO,Ingeniero Forres (Est. Chaguar Punco),SI
+891,SANTIAGO DEL ESTERO,Vilmer,SI
+892,SANTIAGO DEL ESTERO,Chilca Juliana,SI
+893,SANTIAGO DEL ESTERO,Los Telares,SI
+894,SANTIAGO DEL ESTERO,Villa Salavina,NO
+895,SANTIAGO DEL ESTERO,Brea Pozo,NO
+896,SANTIAGO DEL ESTERO,Estación Robles,NO
+897,SANTIAGO DEL ESTERO,Santiago del Estero,SI
+898,SANTIAGO DEL ESTERO,Vuelta de la Barranca,NO
+899,SANTIAGO DEL ESTERO,Yanda,NO
+900,SANTIAGO DEL ESTERO,Ancaján,NO
+901,SANTIAGO DEL ESTERO,Choya,SI
+902,SANTIAGO DEL ESTERO,Estación La Punta,NO
+903,SANTIAGO DEL ESTERO,Frías,SI
+904,SANTIAGO DEL ESTERO,Laprida,SI
+905,SANTIAGO DEL ESTERO,San Pedro,NO
+906,SANTIAGO DEL ESTERO,Tapso,SI
+907,SANTIAGO DEL ESTERO,Villa La Punta,SI
+908,SANTIAGO DEL ESTERO,El Caburé,NO
+909,SANTIAGO DEL ESTERO,La Firmeza,NO
+910,SANTIAGO DEL ESTERO,Los Pirpintos,SI
+911,SANTIAGO DEL ESTERO,Estación Taboada,NO
+912,SANTIAGO DEL ESTERO,Villa Nueva,NO
+913,SANTIAGO DEL ESTERO,Garza,NO
+914,SANTIAGO DEL ESTERO,Árraga,SI
+915,SANTIAGO DEL ESTERO,Nueva Francia,NO
+916,SANTIAGO DEL ESTERO,Simbol,NO
+917,SANTIAGO DEL ESTERO,Sumamao,NO
+918,SANTIAGO DEL ESTERO,Villa Silípica,NO
+919,TIERRA DEL FUEGO,Base Belgrano Ii,NO
+920,TIERRA DEL FUEGO,Base Brown,NO
+921,TIERRA DEL FUEGO,Base Carlini,NO
+922,TIERRA DEL FUEGO,Base Esperanza,NO
+923,TIERRA DEL FUEGO,Base Marambio,NO
+924,TIERRA DEL FUEGO,Base Matienzo,NO
+925,TIERRA DEL FUEGO,Base Orcadas,NO
+926,TIERRA DEL FUEGO,Base San Martin,NO
+927,TIERRA DEL FUEGO,Destacamento Camara,NO
+928,TIERRA DEL FUEGO,Destacamento Decepcion,NO
+929,TIERRA DEL FUEGO,Destacamento Melchior,NO
+930,TIERRA DEL FUEGO,Destacamento Petrel,NO
+931,SANTA FE,Reconquista,SI
+932,SANTA FE,San Antonio de Obligado,NO
+933,SANTA FE,Tacuarendí (Emb. Kilómetro 421),NO
+934,SANTA FE,Villa Ana,NO
+935,SANTA FE,Villa Guillermina,NO
+936,SANTA FE,Villa Ocampo,SI
+937,SANTA FE,Barrio Cicarelli,NO
+938,SANTA FE,Bustinza,SI
+939,SANTA FE,Cañada de Gómez,SI
+940,SANTA FE,Carrizales (Est. Clarke),NO
+941,SANTA FE,Arroyo Aguiar,NO
+942,SANTA FE,Arroyo Leyes,SI
+943,SANTA FE,Cabal,NO
+944,SANTA FE,Campo Andino,NO
+945,SANTA FE,Candioti,SI
+946,SANTA FE,Emilia,SI
+947,SANTA FE,Laguna Paiva,NO
+948,SANTA FE,Llambi Campbell,NO
+949,SANTA FE,Monte Vera,NO
+950,SANTA FE,Nelson,SI
+951,SANTA FE,Paraje Chaco Chico,NO
+952,SANTA FE,Paraje La Costa,NO
+953,SANTA FE,Recreo,NO
+954,SANTA FE,RINCON NORTE,NO
+955,SANTA FE,Rincón Potrero,NO
+956,SANTA FE,San José del Rincón,SI
+957,SANTA FE,Santa Fe,SI
+958,SANTA FE,Santo Tomé,SI
+959,SANTA FE,Sauce Viejo,SI
+960,SANTA FE,Villa Adelina,NO
+961,SANTA FE,Villa Laura (Est. Constituyentes),NO
+962,SANTA FE,Cavour,NO
+963,SANTA FE,Cululú,NO
+964,SANTA FE,Elisa,SI
+965,SANTA FE,Empalme San Carlos,NO
+966,SANTA FE,Esperanza,SI
+967,SANTA FE,Felicia,NO
+968,SANTA FE,Franck,SI
+969,SANTA FE,Grutly,NO
+970,SANTA FE,Hipatia,NO
+971,SANTA FE,Humboldt,SI
+972,SANTA FE,Jacinto L. Aráuz,NO
+973,SANTA FE,La Pelada,SI
+974,SANTA FE,Las Tunas,SI
+975,SANTA FE,María Luisa,NO
+976,SANTA FE,Matilde,NO
+977,SANTA FE,Nuevo Torino,NO
+978,SANTA FE,Pilar,SI
+979,SANTA FE,Plaza Matilde,NO
+980,SANTA FE,Progreso,NO
+981,SANTA FE,Providencia,NO
+982,SANTA FE,Sa Pereyra,NO
+983,SANTA FE,San Agustín,NO
+984,SANTA FE,San Carlos Centro,SI
+985,SANTA FE,San Carlos Norte,NO
+986,SANTA FE,San Carlos Sud,NO
+987,SANTA FE,San Jerónimo del Sauce,SI
+988,SANTA FE,San Jerónimo Norte,SI
+989,SANTA FE,San Mariano,NO
+990,SANTA FE,Santa Clara de Buena Vista,NO
+991,SANTA FE,Santo Domingo,NO
+992,SANTA FE,Classon,SI
+993,SANTA FE,Colonia Médici,NO
+994,SANTA FE,Correa,SI
+995,SANTA FE,Larguía,NO
+996,SANTA FE,Lucio V. López,NO
+997,SANTA FE,Oliveros,SI
+998,SANTA FE,Pueblo Andino,NO
+999,SANTA FE,Salto Grande,NO
+1000,SANTA FE,Serodino,SI
+1001,SANTA FE,Totoras,SI
+1002,SANTA FE,Villa Eloísa,SI
+1003,SANTA FE,Villa La Rivera (Oliveros),NO
+1004,SANTA FE,Villa La Rivera (Pueblo Andino),NO
+1005,SANTA FE,Angel Gallardo,NO
+1006,SANTA FE,Fighiera,NO
+1007,SANTA FE,Funes,SI
+1008,SANTA FE,General Lagos,SI
+1009,SANTA FE,Granadero Baigorria,SI
+1010,SANTA FE,Ibarlucea,SI
+1011,SANTA FE,Kilómetro 101,NO
+1012,SANTA FE,Los Muchachos - La Alborada,NO
+1013,SANTA FE,Monte Flores,NO
+1014,SANTA FE,Pérez,SI
+1015,SANTA FE,Piñero (Est. Erasto),SI
+1016,SANTA FE,Pueblo Esther,SI
+1017,SANTA FE,Pueblo Muñoz (Est. Bernard),NO
+1018,SANTA FE,Pueblo Uranga,SI
+1019,SANTA FE,Puerto Arroyo Seco,NO
+1020,SANTA FE,Rosario,SI
+1021,SANTA FE,Soldini,NO
+1022,SANTA FE,Villa Amelia,SI
+1023,SANTA FE,Villa del Plata,NO
+1024,SANTA FE,Villa Gobernador Gálvez,SI
+1025,SANTA FE,Zavalla,NO
+1026,SANTA FE,Aguará Grande,NO
+1027,SANTA FE,Ambrosetti,NO
+1028,SANTA FE,Arrufo,SI
+1029,SANTA FE,Balneario La Verde,NO
+1030,SANTA FE,Capivara,NO
+1031,SANTA FE,Ceres,NO
+1032,SANTA FE,Colonia Ana,NO
+1033,SANTA FE,Colonia Bossi,SI
+1034,SANTA FE,Colonia Rosa,NO
+1035,SANTA FE,Constanza,NO
+1036,SANTA FE,Curupaity,NO
+1037,SANTA FE,Hersilia,NO
+1038,SANTA FE,Huanqueros,NO
+1039,SANTA FE,La Cabral,NO
+1040,SANTA FE,La Lucila,NO
+1041,SANTA FE,La Rubia,NO
+1042,SANTA FE,Las Avispas,NO
+1043,SANTA FE,Las Palmeras,NO
+1044,SANTA FE,Moisés Ville,SI
+1045,SANTA FE,Monigotes,SI
+1046,SANTA FE,Ñanducita,NO
+1047,SANTA FE,Palacios,SI
+1048,SANTA FE,San Cristóbal,SI
+1049,SANTA FE,San Guillermo,SI
+1050,SANTA FE,Santurce,NO
+1051,SANTA FE,Soledad,NO
+1052,SANTA FE,Suardi,SI
+1053,SANTA FE,Villa Saralegui,NO
+1054,SANTA FE,Villa Trinidad,NO
+1055,SANTA FE,Alejandra,NO
+1056,SANTA FE,Cacique Ariacaiquín,NO
+1057,SANTA FE,Colonia Durán,NO
+1058,SANTA FE,La Brava,NO
+1059,SANTA FE,Romang,SI
+1060,SANTA FE,San Javier,SI
+1061,SANTA FE,Arocena,NO
+1062,SANTA FE,Balneario Monje,NO
+1063,SANTA FE,Barrancas,NO
+1064,SANTA FE,Barrio Caima,NO
+1065,SANTA FE,Barrio El Pacaá - Barrio Comipini,NO
+1066,SANTA FE,Bernardo de Irigoyen (Est. Irigoyen),SI
+1067,SANTA FE,Casalegno,NO
+1068,SANTA FE,Centeno,NO
+1069,SANTA FE,Coronda,SI
+1070,SANTA FE,Desvío Arijón,NO
+1071,SANTA FE,Díaz,SI
+1072,SANTA FE,Gaboto,NO
+1073,SANTA FE,Gálvez,SI
+1074,SANTA FE,Gessler,SI
+1075,SANTA FE,Irigoyen,NO
+1076,SANTA FE,Larrechea,NO
+1077,SANTA FE,Loma Alta,SI
+1078,SANTA FE,López (Est. San Martín de Tours),NO
+1079,SANTA FE,Maciel,NO
+1080,SANTA FE,Monje,SI
+1081,SANTA FE,Puerto Aragón,NO
+1082,SANTA FE,San Eugenio,SI
+1083,SANTA FE,San Fabián,NO
+1084,SANTA FE,San Genaro,SI
+1085,SANTA FE,San Genaro Norte,SI
+1086,SANTA FE,Angeloni,NO
+1087,SANTA FE,Cayastacito,NO
+1088,SANTA FE,Colonia Dolores,NO
+1089,SANTA FE,Esther,NO
+1090,SANTA FE,Gobernador Crespo,NO
+1091,SANTA FE,La Criolla (Est. Cañadita),NO
+1092,SANTA FE,La Penca y Caraguatá,NO
+1093,SANTA FE,Marcelino Escalada,NO
+1094,SANTA FE,Naré,NO
+1095,TIERRA DEL FUEGO,Río Grande,SI
+1096,TIERRA DEL FUEGO,Tolhuin,NO
+1097,TIERRA DEL FUEGO,Laguna Escondida,NO
+1098,TIERRA DEL FUEGO,Ushuaia,SI
+1099,TUCUMAN,7 de Abril,NO
+1100,TUCUMAN,Barrio San Jorge,NO
+1101,TUCUMAN,El Chañar,NO
+1102,TUCUMAN,El Naranjo,NO
+1103,TUCUMAN,Garmendia,NO
+1104,TUCUMAN,La Ramada,NO
+1105,TUCUMAN,Macomitas,NO
+1106,TUCUMAN,Piedrabuena,NO
+1107,TUCUMAN,Villa Benjamín Aráoz,NO
+1108,SAN LUIS,Los Algarrobos Blancos,NO
+1109,SAN LUIS,Mosmota,NO
+1110,SAN LUIS,Potrero de los Funes,NO
+1111,SAN LUIS,Pozo Del Carril,NO
+1112,SAN LUIS,Salinas del Bebedero,NO
+1113,SAN LUIS,San Jerónimo,NO
+1114,SAN LUIS,San Luis,SI
+1115,SAN LUIS,San Roque,NO
+1116,SAN LUIS,Santa Rosa,NO
+1117,SAN LUIS,Varela,NO
+1118,SAN LUIS,Zanjitas,NO
+1119,SAN LUIS,Barranca Alta,NO
+1120,SAN LUIS,Cabeza De Novillo,NO
+1121,SAN LUIS,Casa De Los Tigres,NO
+1122,SAN LUIS,El Estanquito,NO
+1123,SAN LUIS,El Paraguay,NO
+1124,SAN LUIS,El Paraiso,NO
+1125,SAN LUIS,El Puesto,NO
+1126,SAN LUIS,La Cocha,NO
+1127,SAN LUIS,La Ramada,NO
+1128,SAN LUIS,La Totora,NO
+1129,SAN LUIS,La Vertiente,NO
+1130,SAN LUIS,Las Aguadas,NO
+1131,SAN LUIS,Paso Grande,SI
+1132,SAN LUIS,Planta De Sandia,NO
+1133,SAN LUIS,Potrerillo,NO
+1134,SAN LUIS,Puerta Colorada,NO
+1135,SAN LUIS,Rincon Del Carmen,NO
+1136,SAN LUIS,San Fernando,NO
+1137,SAN LUIS,San Isidro,NO
+1138,SAN LUIS,San Martín,SI
+1139,SAN LUIS,San Vicente,NO
+1140,SAN LUIS,Tala Verde,NO
+1141,SAN LUIS,Villa de Praga,NO
+1142,SANTA CRUZ,Comandante Luis Piedrabuena,NO
+1143,SANTA CRUZ,Puerto Santa Cruz,SI
+1144,SANTA CRUZ,Caleta Olivia,SI
+1145,SANTA CRUZ,Cañadón Seco,SI
+1146,SANTA CRUZ,Fitz Roy,NO
+1147,SANTA CRUZ,Jaramillo,NO
+1148,SANTA CRUZ,Koluel Kaike,NO
+1149,SANTA CRUZ,Las Heras,SI
+1150,SANTA CRUZ,Pico Truncado,SI
+1151,SANTA CRUZ,Puerto Deseado,NO
+1152,SANTA CRUZ,Tellier,NO
+1153,SANTA CRUZ,28 de Noviembre,SI
+1154,SANTA CRUZ,El Turbio (Est. Gobernador Mayer),NO
+1155,SANTA CRUZ,Julia Dufour,NO
+1156,SANTA CRUZ,Mina 3,NO
+1157,SANTA CRUZ,Río Gallegos,SI
+1158,SANTA CRUZ,Rospentek,NO
+1159,SANTA CRUZ,Yacimientos Río Turbio,NO
+1160,SANTA CRUZ,El Calafate,SI
+1161,SANTA CRUZ,El Chaltén,SI
+1162,SANTA CRUZ,Tres Lagos,NO
+1163,SANTA CRUZ,Los Antiguos,NO
+1164,SANTA CRUZ,Perito Moreno,NO
+1165,SANTA CRUZ,Puerto San Julián,NO
+1166,SANTA CRUZ,Bajo Caracoles,NO
+1167,SANTA CRUZ,Gobernador Gregores,NO
+1168,SANTA CRUZ,Hipólito Yrigoyen,NO
+1169,SANTA FE,Campo Garay,NO
+1170,SANTA FE,Esteban Rams,NO
+1171,SANTA FE,Gato Colorado,NO
+1172,SANTA FE,Gregoria Pérez de Denis (Est. El Nochero),NO
+1173,SANTA FE,Independencia,NO
+1174,SANTA FE,Logroño,NO
+1175,SANTA FE,Montefiore,NO
+1176,SANTA FE,Pozo Borrado,NO
+1177,SANTA FE,San Bernardo,NO
+1178,SANTA FE,Santa Margarita,NO
+1179,SANTA FE,Tostado,NO
+1180,SANTA FE,Villa Minetti,NO
+1181,SANTA FE,Armstrong,SI
+1182,SANTA FE,Bouquet,NO
+1183,SANTA FE,Las Parejas,SI
+1184,SANTA FE,Las Rosas,SI
+1185,SANTA FE,Montes de Oca,NO
+1186,SANTA FE,Tortugas,NO
+1187,SANTA FE,Arequito,NO
+1188,SANTA FE,Arteaga,NO
+1189,SANTA FE,Beravebú,NO
+1190,SANTA FE,Bigand,NO
+1191,SANTA FE,Casilda,SI
+1192,SANTA FE,Chabás,SI
+1193,SANTA FE,Chañar Ladeado,SI
+1194,SANTA FE,Bauer y Sigel,NO
+1195,SANTA FE,Bella Italia,SI
+1196,SANTA FE,Castellanos,NO
+1197,SANTA FE,Colonia Bicha,SI
+1198,SANTA FE,Colonia Cello,NO
+1199,SANTA FE,Colonia Margarita,NO
+1200,SANTA FE,Colonia Raquel,SI
+1201,SANTA FE,Coronel Fraga,NO
+1202,SANTA FE,Egusquiza,NO
+1203,SANTA FE,Esmeralda,NO
+1204,SANTA FE,Estación Clucellas,NO
+1205,SANTA FE,Estacion Presidente Roca,NO
+1206,SANTA FE,Estación Saguier,NO
+1207,SANTA FE,Eusebia y Carolina,SI
+1208,SANTA FE,Eustolia,NO
+1209,SANTA FE,Frontera,NO
+1210,SANTA FE,Garibaldi,NO
+1211,SANTA FE,Lazzarino,NO
+1212,SAN LUIS,Villa Mercedes,SI
+1213,SAN LUIS,Villa Reynolds,NO
+1214,SAN LUIS,Villa Salles,NO
+1215,SAN LUIS,Anchorena,NO
+1216,SAN LUIS,Arizona,NO
+1217,SAN LUIS,Bagual,NO
+1218,SAN LUIS,Batavia,NO
+1219,SAN LUIS,Buena Esperanza,NO
+1220,SAN LUIS,Fortín El Patria,NO
+1221,SAN LUIS,Fortuna,NO
+1222,SAN LUIS,La Maroma,NO
+1223,SAN LUIS,Los Overos,NO
+1224,SAN LUIS,Martín de Loyola,NO
+1225,SAN LUIS,Nahuel Mapá,NO
+1226,SAN LUIS,Navia,NO
+1227,SAN LUIS,Nueva Galia,NO
+1228,SANTA FE,Humberto Primo,SI
+1229,SANTA FE,Josefina,NO
+1230,SANTA FE,Lehmann,SI
+1231,SANTA FE,María Juana,SI
+1232,SANTA FE,Nueva Lehmann,NO
+1233,SANTA FE,Plaza Clucellas,NO
+1234,SANTA FE,Plaza Saguier,NO
+1235,SANTA FE,Presidente Roca,SI
+1236,SANTA FE,Pueblo Marini,NO
+1237,SANTA FE,Rafaela,SI
+1238,SANTA FE,Ramona,NO
+1239,SANTA FE,San Antonio,NO
+1240,SANTA FE,San Vicente,NO
+1241,SANTA FE,Santa Clara de Saguier,NO
+1242,SANTA FE,Sunchales,SI
+1243,SANTA FE,Susana,SI
+1244,SANTA FE,Tacural,SI
+1245,SANTA FE,Vila,NO
+1246,SANTA FE,Villa Josefina,NO
+1247,SANTA FE,Villa San José,NO
+1248,SANTA FE,Virginia,NO
+1249,SANTA FE,Zenón Pereyra,NO
+1250,SANTA FE,Alcorta,SI
+1251,SANTA FE,Barrio Arroyo del Medio,NO
+1252,SANTA FE,Barrio Mitre,NO
+1253,SANTA FE,Bombal,SI
+1254,SANTA FE,Cañada Rica,NO
+1255,SANTA FE,Cepeda,NO
+1256,SANTA FE,Empalme Villa Constitución,NO
+1257,SANTA FE,Firmat,NO
+1258,SANTA FE,General Gelly,NO
+1259,SANTA FE,Godoy,NO
+1260,SANTA FE,Juan B. Molina,NO
+1261,SANTA FE,Juncal,SI
+1262,SANTA FE,La Vanguardia,SI
+1263,SANTA FE,Máximo Paz (Est. Paz),NO
+1264,SANTA FE,Pavón,NO
+1265,SANTA FE,Pavón Arriba,SI
+1266,SANTA FE,Peyrano,NO
+1267,SANTA FE,Rueda,NO
+1268,SANTA FE,Santa Teresa,SI
+1269,SANTA FE,Sargento Cabral,SI
+1270,SANTA FE,Stephenson,NO
+1271,SANTA FE,Theobald,NO
+1272,SANTA FE,Villa Constitución,SI
+1273,SANTA FE,Cayastá,NO
+1274,SANTA FE,Helvecia,NO
+1275,SANTA FE,Los Zapallos,NO
+1276,SANTA FE,Saladero Mariano Cabal,NO
+1277,SANTA FE,Santa Rosa de Calchines,NO
+1278,SANTA FE,Aarón Castellanos (Est. Castellanos),NO
+1279,SANTA FE,Amenábar,NO
+1280,SANTA FE,Cafferata,SI
+1281,SAN JUAN,San José de Jáchal,SI
+1282,SAN JUAN,Tamberías,NO
+1283,SAN JUAN,Villa Malvinas Argentinas,NO
+1284,SAN JUAN,Villa Mercedes,NO
+1285,SAN JUAN,Barrio Municipal,NO
+1286,SAN JUAN,Barrio Ruta 40,NO
+1287,SAN JUAN,Carpintería,NO
+1288,SAN JUAN,La Rinconada,NO
+1289,SAN JUAN,Las Piedritas,NO
+1290,SAN JUAN,Quinto Cuartel,NO
+1291,SAN JUAN,Villa Aberastain,NO
+1292,SAN JUAN,Villa Aberastain - La Rinconada,NO
+1293,SAN JUAN,Villa Barbosa - Villa Nacusi,NO
+1294,SAN JUAN,Villa Barboza,NO
+1295,SAN JUAN,Villa Centenario,NO
+1296,SAN JUAN,Villa Nacusi,NO
+1297,SAN JUAN,El Medanito,NO
+1298,SANTA FE,Cañada del Ucle,NO
+1299,SANTA FE,Carmen,NO
+1300,SANTA FE,Carreras,NO
+1301,SANTA FE,Chapuy,NO
+1302,SANTA FE,Chovet,NO
+1303,SANTA FE,Christophersen,SI
+1304,SANTA FE,Diego de Alvear,SI
+1305,SANTA FE,Elortondo,NO
+1306,SANTA FE,Firmat,SI
+1307,SANTA FE,Hughes,SI
+1308,SANTA FE,La Chispa,NO
+1309,SANTA FE,Labordeboy,NO
+1310,SALTA,El Tala,SI
+1311,SALTA,La Candelaria,SI
+1312,SALTA,Cobres,NO
+1313,SALTA,La Poma,SI
+1314,SALTA,Ampascachi,NO
+1315,SALTA,Cabra Corral,NO
+1316,SALTA,Coronel Moldes,NO
+1317,SALTA,La Viña,SI
+1318,SALTA,Talapampa,NO
+1319,SALTA,Olacapato,SI
+1320,SALTA,San Antonio de los Cobres,SI
+1321,SALTA,Santa Rosa de los Pastos Grandes,SI
+1322,SALTA,Tolar Grande,SI
+1323,SALTA,El Galpón,SI
+1324,SALTA,El Tunal,SI
+1325,SALTA,Lumbreras,SI
+1326,SALTA,Padre Lozano,NO
+1327,SALTA,Piquirenda,SI
+1328,SALTA,Profesor Salvador Mazza,SI
+1329,SALTA,Recaredo,NO
+1330,SALTA,Tartagal,SI
+1331,SALTA,Tobantirenda,SI
+1332,SALTA,Tranquitas,NO
+1333,SALTA,Yacuy,SI
+1334,SALTA,Guachipas,SI
+1335,SALTA,Iruya,SI
+1336,SALTA,Isla de Cañas,NO
+1337,SALTA,Pueblo Viejo,SI
+1338,SALTA,La Caldera,SI
+1339,SALTA,Vaqueros,SI
+1340,SALTA,El Jardín,SI
+1341,SALTA,Metán Viejo,SI
+1342,SALTA,Presa El Tunal,NO
+1343,SALTA,Río Piedras,SI
+1344,SALTA,San José de Metán,SI
+1345,SALTA,San José de Orquera,SI
+1346,SALTA,La Puerta,NO
+1347,SALTA,Molinos,SI
+1348,SALTA,Seclantás,SI
+1349,SALTA,Aguas Blancas,NO
+1350,SALTA,Colonia Santa Rosa,NO
+1351,SALTA,El Tabacal,SI
+1352,SALTA,Hipólito Yrigoyen,SI
+1353,SALTA,La Misión,NO
+1354,SALTA,Pichanal,SI
+1355,SANTA FE,Maggiolo,NO
+1356,SANTA FE,María Teresa,NO
+1357,SANTA FE,Melincué (Est. San Urbano),NO
+1358,SANTA FE,Miguel Torres,NO
+1359,SANTA FE,Murphy,SI
+1360,SANTA FE,Rufino,SI
+1361,SANTA FE,San Eduardo,SI
+1362,SANTA FE,San Francisco de Santa Fe,SI
+1363,SANTA FE,San Gregorio,SI
+1364,SANTA FE,Sancti Spiritu,SI
+1365,SAN JUAN,Cienaguita,SI
+1366,SAN JUAN,Colonia Fiscal,NO
+1367,SAN JUAN,Divisadero,NO
+1368,SAN JUAN,Guanacache,NO
+1369,SAN JUAN,Las Lagunas,NO
+1370,SAN JUAN,Los Berros,SI
+1371,SAN JUAN,Pedernal,NO
+1372,SAN JUAN,Punta del Médano,NO
+1373,SAN JUAN,Villa Media Agua,SI
+1374,SAN JUAN,Villa Ibáñez,NO
+1375,SAN JUAN,Astica,NO
+1376,SAN JUAN,Balde del Rosario,NO
+1377,SAN JUAN,Chucuma,NO
+1378,SAN JUAN,Los Baldecitos,NO
+1379,SAN JUAN,Usno,NO
+1380,SAN JUAN,Villa San Agustín,SI
+1381,SAN JUAN,Villa Basilio Nievas,NO
+1382,SAN LUIS,Balde De Los Torres,NO
+1383,SAN LUIS,Balde Del Carmen,NO
+1384,SAN LUIS,Balde Retamo,NO
+1385,SAN LUIS,Baldecito De La Pampa,NO
+1386,SAN LUIS,Candelaria,NO
+1387,SAN LUIS,Carpinteria,NO
+1388,SAN LUIS,El Calden,NO
+1389,SAN LUIS,El Injerto,NO
+1390,SAN LUIS,El Rincon,NO
+1391,SAN LUIS,El Vinagrillo,NO
+1392,SAN LUIS,El Zapallar,NO
+1393,SAN LUIS,La Aguada,NO
+1394,SAN LUIS,La Avenencia,NO
+1395,SAN LUIS,La Botija,NO
+1396,SAN LUIS,La Brea,NO
+1397,SAN LUIS,La Majada,NO
+1398,SAN LUIS,La Represita,NO
+1399,SAN LUIS,La Salvadora,NO
+1400,SAN LUIS,Las Chacras,NO
+1401,SAN LUIS,Las Chimbas,NO
+1402,SAN LUIS,Las Lagunitas,NO
+1403,SAN LUIS,Leandro N. Alem,NO
+1404,SAN LUIS,Lomas Blancas,NO
+1405,SAN LUIS,Los Quemados,NO
+1406,SAN LUIS,Luján,NO
+1407,SAN LUIS,Pampa Grande,SI
+1408,SAN LUIS,Pozo Del Molle,NO
+1409,SAN LUIS,Quines,NO
+1410,SAN LUIS,Río Juan Gómez,NO
+1411,SAN LUIS,Rodeo De Cadenas,NO
+1412,SAN LUIS,Villa de la Quebrada,SI
+1413,SAN LUIS,Villa General Roca,SI
+1414,SAN LUIS,Balcarce,NO
+1415,SAN LUIS,Colonia Zubelzu,NO
+1416,SAN LUIS,Concarán,NO
+1417,SAN LUIS,Cortaderas,SI
+1418,SAN LUIS,El Algarrobal,SI
+1419,SAN LUIS,El Churrasco,NO
+1420,SAN LUIS,El Recuerdo,NO
+1421,SAN LUIS,El Sauce,NO
+1422,SAN LUIS,El Sifon,NO
+1423,SAN LUIS,El Tala,NO
+1424,SAN LUIS,La Celestina,NO
+1425,SAN LUIS,Las Rosas,NO
+1426,SAN LUIS,Naschel,NO
+1427,SAN LUIS,Papagayos,NO
+1428,SAN LUIS,Pozo Cavado,NO
+1429,SAN LUIS,Punta De La Loma,NO
+1430,SAN LUIS,Renca,NO
+1431,SAN LUIS,San Felipe,NO
+1432,SAN LUIS,San Miguel,NO
+1433,SAN LUIS,San Pablo,NO
+1434,SAN LUIS,Santa Martina,NO
+1435,SAN LUIS,Tilisarao,NO
+1436,SAN LUIS,Villa del Carmen,NO
+1437,SAN LUIS,San Francisco del Monte de Oro,NO
+1438,SAN LUIS,San Ignacio,NO
+1439,SAN LUIS,San Miguel,NO
+1440,SAN LUIS,San Roque,NO
+1441,SAN LUIS,Santa Ana,NO
+1442,SAN LUIS,Santa Rosa De Catantal,NO
+1443,SAN LUIS,Santa Teresa,NO
+1444,SAN LUIS,Santo Domingo,NO
+1445,SAN LUIS,Talita,NO
+1446,SAN LUIS,Arbol Solo,NO
+1447,SAN LUIS,Bella Estancia,NO
+1448,SAN LUIS,Buen Orden,NO
+1449,SAN LUIS,El Barrial,NO
+1450,SAN LUIS,El Milagro,NO
+1451,SAN LUIS,El Recodo,NO
+1452,SAN LUIS,Estancia De Amieva,NO
+1453,SAN LUIS,Hualtaran,NO
+1454,SAN LUIS,La Calera,SI
+1455,SAN LUIS,Las Lagunitas,NO
+1456,SAN LUIS,Los Molles,NO
+1457,SAN LUIS,Los Ramblones,NO
+1458,SAN LUIS,Naranjo Esquino,NO
+1459,SAN LUIS,Nogolí,SI
+1460,SAN LUIS,Pozo Cavado,NO
+1461,SAN LUIS,Pozo Del Tala,NO
+1462,SAN LUIS,Represa Del Carmen,NO
+1463,SAN LUIS,San Antonio,NO
+1464,SAN LUIS,San Pedro,NO
+1465,SAN LUIS,Santa Rosa Del Gigante,NO
+1466,SAN LUIS,Suyuque Nuevo,NO
+1467,SAN LUIS,Toro Negro,NO
+1468,SAN LUIS,Villa Larca,NO
+1469,SAN LUIS,Balde De La Isla,NO
+1470,SAN LUIS,Carolina,NO
+1471,SAN LUIS,Cerros Largos,NO
+1472,SAN LUIS,Cienaga De Intihuasi,NO
+1473,SAN LUIS,El Arenal,NO
+1474,SAN LUIS,El Baldecito,NO
+1475,SAN LUIS,El Durazno,NO
+1476,SAN LUIS,El Trapiche,NO
+1477,SAN LUIS,Eleodoro Lobos,NO
+1478,SAN LUIS,Estancia Grande,NO
+1479,SAN LUIS,Fraga,SI
+1480,SAN LUIS,Intihuasi,NO
+1481,SAN LUIS,La Bajada,NO
+1482,SAN LUIS,La Florida,NO
+1483,SAN LUIS,La Petra,NO
+1484,SAN LUIS,La Toma,NO
+1485,SAN LUIS,La Totora,NO
+1486,SAN LUIS,Las Barranquitas,NO
+1487,SAN LUIS,Las Pircas,NO
+1488,SAN LUIS,Loma Alta,NO
+1489,SAN LUIS,Marmol Verde,NO
+1490,SAN LUIS,Pampa Del Tamboreo,NO
+1491,SAN LUIS,Paso Del Rey,NO
+1492,SAN LUIS,Río Grande,NO
+1493,SAN LUIS,Riocito,NO
+1494,SAN LUIS,Saladillo,SI
+1495,SAN LUIS,Valle De Pancanta,NO
+1496,SAN LUIS,5Ta Brigada,NO
+1497,SAN LUIS,Caldenadas,NO
+1498,SAN LUIS,Colonia Don Antonio,NO
+1499,SAN LUIS,Coronel Alzogaray,NO
+1500,SAN LUIS,Country Club Los Caldenes,NO
+1501,SAN LUIS,Dique Vulpiani,NO
+1502,SAN LUIS,Juan Jorba,NO
+1503,SAN LUIS,Juan Llerena,NO
+1504,SAN LUIS,Justo Daract,NO
+1505,SAN LUIS,La Angelina,NO
+1506,SAN LUIS,La Esquina,NO
+1507,SAN LUIS,La Punilla,NO
+1508,SAN LUIS,La Ribera,NO
+1509,SAN LUIS,Las Isletas,NO
+1510,SAN LUIS,Lavaisse,NO
+1511,SAN LUIS,Liborio Luna,NO
+1512,SAN LUIS,Nación Ranquel,NO
+1513,SAN LUIS,Rio Quinto,NO
+1514,SAN LUIS,San José del Morro,NO
+1515,SANTA FE,Coronel Arnold,SI
+1516,SANTA FE,Fray Luis Beltrán,SI
+1517,SANTA FE,Fuentes,SI
+1518,SANTA FE,Luis Palacios (Est. La Salada),NO
+1519,SANTA FE,Puerto General San Martín,SI
+1520,SANTA FE,Pujato,NO
+1521,SANTA FE,Ricardone,SI
+1522,SANTA FE,Roldán,SI
+1523,SANTA FE,San Jerónimo Sud,SI
+1524,SANTIAGO DEL ESTERO,Casares,NO
+1525,SANTA FE,Florencia,NO
+1526,SANTA FE,Guadalupe Norte,NO
+1527,SANTA FE,Ingeniero Chanourdie,NO
+1528,SANTA FE,La Isleta,NO
+1529,SANTA FE,La Sarita,NO
+1530,SANTA FE,Lanteri,NO
+1531,SANTA FE,Las Garzas,NO
+1532,SANTA FE,Las Toscas,SI
+1533,SANTA FE,Los Laureles,NO
+1534,SANTA FE,Malabrigo,NO
+1535,SANTA FE,Paraje San Manuel,NO
+1536,SANTA FE,Puerto Reconquista,NO
+1537,SAN LUIS,Talita,NO
+1538,SAN LUIS,Alto Pelado,NO
+1539,SAN LUIS,Alto Pencoso,SI
+1540,SAN LUIS,Balde,SI
+1541,SAN LUIS,Beazley,NO
+1542,SAN LUIS,Boca Del Tigre,NO
+1543,SAN LUIS,Cazador,NO
+1544,SAN LUIS,Cerro Colorado,NO
+1545,SAN LUIS,Charlone,NO
+1546,SAN LUIS,Chosmes,NO
+1547,SAN LUIS,CRUZ DE PIEDRA,NO
+1548,SAN LUIS,Daniel Donovan,NO
+1549,SAN LUIS,Desaguadero,SI
+1550,SAN LUIS,El Charabon,NO
+1551,SAN LUIS,El Chorrillo,NO
+1552,SAN LUIS,El Volcán,NO
+1553,SAN LUIS,Estancia Grande,NO
+1554,SAN LUIS,Jarilla,NO
+1555,SAN LUIS,Juan W. Gez,NO
+1556,SAN LUIS,Juana Koslay,SI
+1557,SAN LUIS,La Punta,SI
+1558,SAN LUIS,Las Barrancas,NO
+1559,SAN LUIS,Las Chacras,NO
+1560,SALTA,San Ramón de la Nueva Orán,SI
+1561,SALTA,Urundel,SI
+1562,SALTA,Alto de la Sierra,SI
+1563,SALTA,Capitán Juan Pagé,NO
+1564,SALTA,Coronel Juan Solá,SI
+1565,SALTA,Hito 1,NO
+1566,SALTA,La Unión,NO
+1567,SALTA,Los Blancos,NO
+1568,SALTA,Pluma de Pato,NO
+1569,SALTA,Rivadavia,SI
+1570,SALTA,Santa María,NO
+1571,SALTA,Santa Rosa,NO
+1572,SALTA,Santa Victoria Este,SI
+1573,SALTA,Antilla,SI
+1574,SALTA,Copo Quile,SI
+1575,SALTA,El Naranjo,SI
+1576,RIO NEGRO,Naupa Huen,SI
+1577,RIO NEGRO,Paso Córdova,NO
+1578,RIO NEGRO,Valle Azul,NO
+1579,RIO NEGRO,Allen,SI
+1580,RIO NEGRO,Bajo San Cayetano,NO
+1581,RIO NEGRO,Barda del Medio,NO
+1582,RIO NEGRO,Barrio Blanco,NO
+1583,RIO NEGRO,Barrio Calle Ciega Nº10,NO
+1584,RIO NEGRO,Barrio Calle Ciega Nº6,NO
+1585,RIO NEGRO,Barrio Canale,NO
+1586,RIO NEGRO,Barrio Chacra Monte,NO
+1587,RIO NEGRO,Barrio Costa Este,NO
+1588,RIO NEGRO,Barrio Costa Linda,NO
+1589,RIO NEGRO,Barrio Costa Oeste,NO
+1590,RIO NEGRO,Barrio Destacamento,NO
+1591,RIO NEGRO,Barrio El Labrador,NO
+1592,RIO NEGRO,Barrio El Maruchito,NO
+1593,RIO NEGRO,Barrio El Petróleo,NO
+1594,RIO NEGRO,Barrio El Treinta,NO
+1595,RIO NEGRO,Barrio Emergente,NO
+1596,RIO NEGRO,Barrio Fátima,NO
+1597,RIO NEGRO,Barrio Frontera,NO
+1598,RIO NEGRO,Barrio Goretti,NO
+1599,RIO NEGRO,Prahuaniyeu,NO
+1600,RIO NEGRO,Sierra Colorada,SI
+1601,RIO NEGRO,Treneta,NO
+1602,RIO NEGRO,Yaminué,NO
+1603,RIO NEGRO,Bahía Creek,NO
+1604,RIO NEGRO,El Cóndor,NO
+1605,RIO NEGRO,El Juncal,NO
+1606,RIO NEGRO,Guardia Mitre,NO
+1607,RIO NEGRO,La Lobería,NO
+1608,RIO NEGRO,Loteo Costa de Río,NO
+1609,RIO NEGRO,Pozo Salado,NO
+1610,RIO NEGRO,San Javier,NO
+1611,RIO NEGRO,Viedma,SI
+1612,RIO NEGRO,Barrio Unión,NO
+1613,RIO NEGRO,Chelforó,NO
+1614,RIO NEGRO,Chimpay,SI
+1615,RIO NEGRO,Choele Choel,SI
+1616,SALTA,El Potrero,SI
+1617,RIO NEGRO,Coronel Belisle,SI
+1618,RIO NEGRO,Darwin,SI
+1619,RIO NEGRO,Lamarque,SI
+1620,RIO NEGRO,Luis Beltrán,SI
+1621,RIO NEGRO,Pomona,NO
+1622,RIO NEGRO,Arelauquen,NO
+1623,RIO NEGRO,Barrio El Pilar,NO
+1624,RIO NEGRO,Colonia Suiza,NO
+1625,RIO NEGRO,El Bolsón,SI
+1626,RIO NEGRO,El Foyel,NO
+1627,RIO NEGRO,Mallín Ahogado,NO
+1628,RIO NEGRO,Rio Villegas,NO
+1629,RIO NEGRO,Barrio Guerrico,SI
+1630,RIO NEGRO,Barrio Isla 10,NO
+1631,RIO NEGRO,Barrio La Barda,NO
+1632,RIO NEGRO,Barrio La Costa,NO
+1633,RIO NEGRO,Barrio La Costa,NO
+1634,RIO NEGRO,Barrio La Defensa,NO
+1635,RIO NEGRO,Barrio La Herradura,NO
+1636,RIO NEGRO,Barrio La Lor,NO
+1637,RIO NEGRO,Barrio La Ribera - Barrio APYCAR,NO
+1638,RIO NEGRO,Barrio Las Angustias,NO
+1639,RIO NEGRO,Barrio Luisillo,NO
+1640,RIO NEGRO,Barrio Mar del Plata,NO
+1641,RIO NEGRO,Barrio María Elvira,NO
+1642,RIO NEGRO,Barrio Moño Azul,NO
+1643,RIO NEGRO,Barrio Mosconi,NO
+1644,RIO NEGRO,Barrio Norte (municipio de Cinco Saltos),NO
+1645,RIO NEGRO,Barrio Norte (municipio de Cipolletti),NO
+1646,RIO NEGRO,Barrio Pinar,NO
+1647,RIO NEGRO,Barrio Pino Azul,NO
+1648,RIO NEGRO,Barrio Porvenir,NO
+1649,RIO NEGRO,Barrio Presidente Perón,NO
+1650,RIO NEGRO,Barrio Puente 83,NO
+1651,RIO NEGRO,Barrio Puente De Madera,NO
+1652,RIO NEGRO,Barrio Santa Lucia,NO
+1653,RIO NEGRO,Barrio Santa Rita,NO
+1654,RIO NEGRO,Barrio Tres Luces,NO
+1655,RIO NEGRO,Catriel,SI
+1656,RIO NEGRO,Cervantes,NO
+1657,RIO NEGRO,Chichinales,SI
+1658,RIO NEGRO,Cinco Saltos,SI
+1659,RIO NEGRO,Cipolletti,SI
+1660,RIO NEGRO,Contralmirante Cordero,NO
+1661,RIO NEGRO,Ferri,NO
+1662,RIO NEGRO,General Enrique Godoy,SI
+1663,RIO NEGRO,General Fernández Oro,SI
+1664,RIO NEGRO,General Roca,SI
+1665,RIO NEGRO,Ingeniero Luis A. Huergo,SI
+1666,RIO NEGRO,Ingeniero Otto Krause,NO
+1667,RIO NEGRO,Mainqué,NO
+1668,RIO NEGRO,Paso Córdova,NO
+1669,RIO NEGRO,Península Ruca Co,NO
+1670,RIO NEGRO,Peñas Blancas,NO
+1671,RIO NEGRO,Puente Cero,NO
+1672,RIO NEGRO,Sargento Vidal,NO
+1673,RIO NEGRO,Tres Luces,NO
+1674,RIO NEGRO,Villa Alberdi,NO
+1675,RIO NEGRO,Villa del Parque,NO
+1676,RIO NEGRO,Villa Manzano,NO
+1677,RIO NEGRO,Villa Regina,SI
+1678,RIO NEGRO,Villa San Isidro,SI
+1679,RIO NEGRO,Las Bayas,NO
+1680,RIO NEGRO,Colonia Juliá y Echarren,SI
+1681,RIO NEGRO,Juventud Unida,SI
+1682,RIO NEGRO,Pichi Mahuida,NO
+1683,RIO NEGRO,Río Colorado,SI
+1684,RIO NEGRO,Salto Andersen,NO
+1685,RIO NEGRO,Cañadón Chileno,NO
+1686,RIO NEGRO,Comallo,SI
+1687,RIO NEGRO,Dina Huapi,SI
+1688,RIO NEGRO,Laguna Blanca,NO
+1689,RIO NEGRO,Ñirihuau,NO
+1690,RIO NEGRO,Paso Flores,NO
+1691,RIO NEGRO,Pilcaniyeu,NO
+1692,RIO NEGRO,Pilquiniyeu del Limay,SI
+1693,RIO NEGRO,Villa Llanquín,NO
+1694,RIO NEGRO,El Empalme,NO
+1695,RIO NEGRO,Las Grutas,SI
+1696,RIO NEGRO,Playas Doradas,NO
+1697,SAN JUAN,Chimbas,SI
+1698,SAN JUAN,El Mogote,NO
+1699,SAN JUAN,Villa Paula Albarracin,NO
+1700,SAN JUAN,Angualasto,NO
+1701,SAN JUAN,Bella Vista,NO
+1702,SAN JUAN,Iglesia,NO
+1703,SAN JUAN,Las Flores,NO
+1704,SAN JUAN,Pismanta,NO
+1705,SAN JUAN,Rodeo,NO
+1706,SAN JUAN,Tudcum,NO
+1707,SAN JUAN,El Fical,NO
+1708,SAN JUAN,El Fiscal,NO
+1709,SAN JUAN,El Médano,NO
+1710,SAN JUAN,Gran China,NO
+1711,SAN JUAN,Huaco,NO
+1712,SAN JUAN,La Falda,NO
+1713,SAN JUAN,Mogna,NO
+1714,SAN JUAN,Niquivil,NO
+1715,SAN JUAN,Pampa Vieja,NO
+1716,SAN JUAN,San Isidro,NO
+1717,RIO NEGRO,Puerto San Antonio Este,SI
+1718,RIO NEGRO,Punta Colorada,NO
+1719,RIO NEGRO,Saco Viejo,NO
+1720,RIO NEGRO,San Antonio Oeste,SI
+1721,RIO NEGRO,Sierra Grande,SI
+1722,RIO NEGRO,Aguada Cecilio,SI
+1723,RIO NEGRO,Arroyo Los Berros,NO
+1724,RIO NEGRO,Arroyo Ventana,NO
+1725,RIO NEGRO,Nahuel Niyeu,SI
+1726,RIO NEGRO,Sierra Pailemán,NO
+1727,RIO NEGRO,Valcheta,SI
+1728,SALTA,Apolinario Saravia,SI
+1729,SALTA,Ceibalito,SI
+1730,SALTA,Centro 25 de Junio,NO
+1731,SALTA,Coronel Mollinedo,NO
+1732,SALTA,Coronel Olleros,NO
+1733,SALTA,Tolombón,NO
+1734,SALTA,Atocha,SI
+1735,SALTA,El Tipal - La Almudena,NO
+1736,SALTA,La Ciénaga y Barrio San Rafael,NO
+1737,SALTA,Las Costas,NO
+1738,SALTA,Salta,SI
+1739,SALTA,Villa San Lorenzo,SI
+1740,SALTA,Barrio El Congreso,SI
+1741,SALTA,Barrio Las Tunas,SI
+1742,SALTA,Barrio Los Olmos,NO
+1743,SALTA,Barrio Los Pinares,SI
+1744,SALTA,Cerrillos,SI
+1745,SALTA,Misión Kilómetro 6,NO
+1746,SALTA,Misión Tierras Fiscales,NO
+1747,SALTA,La Merced,SI
+1748,SALTA,San Agustín,NO
+1749,SALTA,Villa Los Álamos,NO
+1750,SALTA,Barrio Finca La Maroma,SI
+1751,SALTA,Barrio La Rotonda,SI
+1752,SALTA,Barrio Santa Teresita,SI
+1753,SALTA,Chicoana,SI
+1754,SALTA,El Carril,SI
+1755,SALTA,Campo Santo,SI
+1756,SALTA,Cobos,SI
+1757,SALTA,El Bordo,SI
+1758,SALTA,General Güemes,SI
+1759,SALTA,Santa Victoria,SI
+1760,SAN JUAN,Campo Afuera,NO
+1761,SAN JUAN,El Encón,NO
+1762,SAN JUAN,La Chimbera,NO
+1763,SAN JUAN,Tupelí,NO
+1764,SAN JUAN,Villa Borjas,NO
+1765,SAN JUAN,Villa Borjas - La Chimbera,NO
+1766,SAN JUAN,Villa El Tango,NO
+1767,SAN JUAN,Villa Santa Rosa,NO
+1768,SAN JUAN,9 de Julio,SI
+1769,SAN JUAN,Alto de Sierra,NO
+1770,SAN JUAN,Colonia Fiorito,NO
+1771,SAN JUAN,Las Chacritas,NO
+1772,SAN JUAN,El Rincón,NO
+1773,SAN JUAN,La Cañada,NO
+1774,SAN JUAN,Villa Ampacama,NO
+1775,SAN JUAN,Villa General San Martin,NO
+1776,SAN JUAN,Villa General San Martín - Campo Afuera,NO
+1777,SAN JUAN,Las Tapias,NO
+1778,SAN JUAN,Villa El Salvador,NO
+1779,SAN JUAN,Barreal,NO
+1780,SAN JUAN,Barreal - Villa Pituil,NO
+1781,SAN JUAN,Calingasta,NO
+1782,SAN JUAN,Tamberías,NO
+1783,SAN JUAN,Villa Pituil,NO
+1784,SAN JUAN,San Juan,SI
+1785,SAN JUAN,Barrio Justo P. Castro IV,NO
+1786,SAN JUAN,Bermejo,NO
+1787,SAN JUAN,Caucete,NO
+1788,SAN JUAN,El Rincón,NO
+1789,SAN JUAN,Las Talas,NO
+1790,SAN JUAN,Las Talas - Los Médanos,NO
+1791,SAN JUAN,Los Medanos,NO
+1792,SAN JUAN,Marayes,NO
+1793,SAN JUAN,Pie de Palo,NO
+1794,SAN JUAN,Vallecito,NO
+1795,SAN JUAN,Villa Independencia,NO
+1796,SALTA,Rosario de la Frontera,SI
+1797,SALTA,San Felipe,NO
+1798,SALTA,Campo Quijano,SI
+1799,SALTA,La Merced del Encón,SI
+1800,SALTA,La Silleta,SI
+1801,SALTA,Rosario de Lerma,SI
+1802,SALTA,Angastaco,SI
+1803,SALTA,Animaná,NO
+1804,SALTA,El Barrial,NO
+1805,SALTA,San Carlos,SI
+1806,SALTA,Acoyte,NO
+1807,SALTA,Campo La Cruz,NO
+1808,SALTA,Los Toldos,SI
+1809,SALTA,Nazareno,SI
+1810,SALTA,Poscaya,NO
+1811,MISIONES,Wanda,SI
+1812,MISIONES,Almafuerte,NO
+1813,MISIONES,Arroyo del Medio,NO
+1814,MISIONES,Caá - Yarí,NO
+1815,MISIONES,Cerro Azul,SI
+1816,MISIONES,Dos Arroyos,SI
+1817,MISIONES,Gobernador López,NO
+1818,MISIONES,Leandro N. Alem,SI
+1819,MISIONES,Olegario V. Andrade,NO
+1820,MISIONES,Villa Libertad (Municipio Caá Yarí),NO
+1821,MISIONES,Villa Libertad (Municipio Leandro N. Alem),NO
+1822,MISIONES,Capioví,NO
+1823,MISIONES,Capioviciño,NO
+1824,MISIONES,El Alcázar,NO
+1825,MISIONES,Garuhapé,NO
+1826,MISIONES,Mbopicuá,NO
+1827,MENDOZA,Goudge,NO
+1828,MENDOZA,Jaime Prats,NO
+1829,MENDOZA,La Llave Nueva,NO
+1830,MENDOZA,Las Malvinas,NO
+1831,MENDOZA,Los Reyunos,NO
+1832,MENDOZA,Monte Comán,SI
+1833,MENDOZA,Pobre Diablo,NO
+1834,MENDOZA,Punta del Agua,SI
+1835,MENDOZA,Rama Caída,NO
+1836,MENDOZA,Real del Padre,NO
+1837,MENDOZA,Salto de Las Rosas,NO
+1838,MENDOZA,San Rafael,SI
+1839,MENDOZA,Villa Atuel,NO
+1840,MENDOZA,PALMIRA,SI
+1841,MENDOZA,San Martín,SI
+1842,MENDOZA,Tres Porteñas,SI
+1843,MENDOZA,25 de Mayo,NO
+1844,MENDOZA,Barrio Campos El Toledano,NO
+1845,MENDOZA,Barrio Echeverria,NO
+1846,MENDOZA,Barrio El Nevado,NO
+1847,MENDOZA,Barrio Empleados de Comercio,NO
+1848,MENDOZA,Barrio Intendencia,NO
+1849,MENDOZA,Barrio Las Rosas,NO
+1850,MENDOZA,Barrio Primavera,NO
+1851,MENDOZA,Capitán Montoya,NO
+1852,MENDOZA,Cuadro Benegas,SI
+1853,MENDOZA,Cuadro Nacional,NO
+1854,MENDOZA,El Nihuil,NO
+1855,MENDOZA,El Sosneado,NO
+1856,MENDOZA,El Tropezón,NO
+1857,MENDOZA,La Arboleda,NO
+1858,MENDOZA,San José,SI
+1859,MENDOZA,Tupungato,SI
+1860,MENDOZA,Villa Bastias,NO
+1861,MISIONES,25 de Mayo,NO
+1862,MISIONES,Alba Posse,SI
+1863,MISIONES,Alicia Baja,NO
+1864,MISIONES,Colonia Alicia,NO
+1865,MISIONES,Colonia Aurora,NO
+1866,MISIONES,San Francisco de Asís,SI
+1867,MISIONES,Santa Rita,SI
+1868,MISIONES,Apóstoles,SI
+1869,MISIONES,Azara,NO
+1870,MISIONES,Barrio Rural,NO
+1871,MISIONES,Estación Apóstoles,NO
+1872,MISIONES,Pindapoy,NO
+1873,MISIONES,Aristóbulo del Valle,SI
+1874,MISIONES,Campo Grande,SI
+1875,MISIONES,Dos de Mayo Núcleo I,SI
+1876,MISIONES,Dos de Mayo Núcleo II,NO
+1877,MISIONES,Dos de Mayo Núcleo III,NO
+1878,MISIONES,Kilómetro 17,NO
+1879,MISIONES,Nucleo I,NO
+1880,MISIONES,Nucleo Ii,NO
+1881,MISIONES,Pueblo Illia,NO
+1882,MISIONES,Salto Encantado,NO
+1883,MISIONES,Barrio del Lago,SI
+1884,MISIONES,Bonpland,NO
+1885,MISIONES,Candelaria,NO
+1886,MISIONES,Cerro Corá,NO
+1887,MISIONES,Loreto,NO
+1888,MISIONES,Mártires,NO
+1889,MISIONES,Profundidad,NO
+1890,MISIONES,Puerto Santa Ana,NO
+1891,SALTA,San Marcos,NO
+1892,MISIONES,Santa Ana,NO
+1893,MISIONES,Barrio Nuevo Garupa,NO
+1894,MISIONES,Garupá,SI
+1895,MISIONES,Nemesio Parma,NO
+1896,MISIONES,Posadas,SI
+1897,MISIONES,Posadas (Extensión),NO
+1898,MISIONES,Barra Concepción,NO
+1899,MISIONES,Concepción de la Sierra,SI
+1900,MISIONES,La Corita,NO
+1901,MISIONES,Santa María,NO
+1902,MISIONES,9 de Julio,NO
+1903,MISIONES,9 de Julio Kilómetro 20,NO
+1904,MISIONES,Colonia Victoria,NO
+1905,MISIONES,Eldorado,NO
+1906,MISIONES,María Magdalena,NO
+1907,MISIONES,Puerto Leoni,NO
+1908,MISIONES,Puerto Rico,NO
+1909,MISIONES,Ruiz de Montoya,NO
+1910,MISIONES,San Alberto,NO
+1911,MISIONES,San Gotardo,NO
+1912,MISIONES,San Miguel,NO
+1913,MISIONES,Villa Akerman,NO
+1914,MISIONES,Villa Urrutia,NO
+1915,MISIONES,Bario Ita,NO
+1916,MISIONES,Barrio Cuatro Bocas,NO
+1917,MISIONES,Barrio Guatambu,NO
+1918,MISIONES,Caraguatay,NO
+1919,MISIONES,Laharrague,NO
+1920,MISIONES,Montecarlo,SI
+1921,MISIONES,Piray Kilómetro 18,NO
+1922,MISIONES,Puerto Piray,NO
+1923,MISIONES,Taruma,NO
+1924,MISIONES,Villa Parodi,NO
+1925,MISIONES,Alberdi,SI
+1926,MISIONES,Barrio Escuela 461,NO
+1927,MISIONES,Barrio Escuela 633,NO
+1928,MISIONES,Campo Ramón,SI
+1929,MISIONES,Campo Viera,SI
+1930,MISIONES,El Salto,NO
+1931,MISIONES,General Alvear,SI
+1932,MISIONES,Guaraní,SI
+1933,MISIONES,Los Helechos,SI
+1934,MISIONES,Oberá,SI
+1935,MISIONES,Panambí,SI
+1936,MISIONES,Panambi Kilómetro 15,NO
+1937,MISIONES,Panambí Kilómetro 8,SI
+1938,MISIONES,San Martín,SI
+1939,MISIONES,Villa Bonita,SI
+1940,MISIONES,Barrio Tungoil,NO
+1941,MISIONES,Colonia Polana,NO
+1942,MISIONES,Corpus,NO
+1943,MISIONES,Domingo Savio,NO
+1944,MISIONES,Gobernador Roca,NO
+1945,MISIONES,Helvecia,NO
+1946,MISIONES,Hipólito Yrigoyen,NO
+1947,MISIONES,Jardín América,SI
+1948,MISIONES,Oasis,NO
+1949,MISIONES,Roca Chica,NO
+1950,MISIONES,San Ignacio,NO
+1951,MISIONES,Santo Pipó,NO
+1952,MISIONES,Florentino Ameghino,NO
+1953,MISIONES,Itacaruaré,NO
+1954,MISIONES,Mojón Grande,NO
+1955,MISIONES,San Javier,SI
+1956,MISIONES,Cruce Caballero,SI
+1957,MISIONES,Paraíso,SI
+1958,MISIONES,Piñalito Sur,SI
+1959,MISIONES,San Pedro,SI
+1960,MISIONES,Tobuna,SI
+1961,NEUQUEN,Aluminé,NO
+1962,NEUQUEN,Moquehue,NO
+1963,NEUQUEN,Villa Pehuenia,NO
+1964,NEUQUEN,Aguada San Roque,NO
+1965,NEUQUEN,Añelo,SI
+1966,NEUQUEN,San Patricio del Chañar,SI
+1967,NEUQUEN,Las Coloradas,NO
+1968,NEUQUEN,Chos Malal,SI
+1969,NEUQUEN,Tricao Malal,NO
+1970,NEUQUEN,Villa del Curi Leuvú,NO
+1971,NEUQUEN,Neuquén,SI
+1972,NEUQUEN,Plaza Huincul,NO
+1973,NEUQUEN,Plottier,SI
+1974,NEUQUEN,Senillosa,SI
+1975,NEUQUEN,Villa El Chocón,NO
+1976,NEUQUEN,Vista Alegre Norte,SI
+1977,NEUQUEN,Vista Alegre Sur,SI
+1978,MENDOZA,Luján de Cuyo,SI
+1979,MENDOZA,MAYOR DRUMMOND,SI
+1980,MENDOZA,Perdriel,SI
+1981,MENDOZA,Piedras Blancas,NO
+1982,MENDOZA,Potrerillos,SI
+1983,MENDOZA,Ugarteche,SI
+1984,MENDOZA,Valle Del Sol,NO
+1985,MENDOZA,Villa El Refugio,NO
+1986,MENDOZA,VISTALBA,SI
+1987,MENDOZA,Barrancas,NO
+1988,MENDOZA,Barrio Jesús de Nazaret,NO
+1989,MENDOZA,COQUIMBITO,SI
+1990,MENDOZA,Cruz de Piedra,SI
+1991,MENDOZA,El Pedregal,NO
+1992,NEUQUEN,Piedra del Águila,NO
+1993,NEUQUEN,Santo Tomás,NO
+1994,NEUQUEN,11 de Octubre,SI
+1995,NEUQUEN,Arroyito,NO
+1996,NEUQUEN,Barrio Ruca Luhé,SI
+1997,NEUQUEN,Centenario,SI
+1998,NEUQUEN,Cutral Có,SI
+1999,NEUQUEN,El Chocón,NO
+2000,NEUQUEN,Mari Menuco,NO
+2001,NEUQUEN,Junín de los Andes,SI
+2002,JUJUY,El Piquete,NO
+2003,JUJUY,El Talar,NO
+2004,JUJUY,Palma Sola,NO
+2005,JUJUY,Puente Lavayén,NO
+2006,JUJUY,Santa Clara,NO
+2007,JUJUY,Vinalito,NO
+2008,JUJUY,Casira,SI
+2009,JUJUY,Ciénega,SI
+2010,JUJUY,Cieneguillas,SI
+2011,JUJUY,Cusi Cusi,SI
+2012,JUJUY,El Angosto,NO
+2013,JUJUY,La Ciénega,NO
+2014,JUJUY,Misarrumi,NO
+2015,JUJUY,Oratorio,SI
+2016,JUJUY,Paicone,SI
+2017,JUJUY,San Juan de Oros,NO
+2018,JUJUY,Santa Catalina,SI
+2019,JUJUY,Yoscaba,NO
+2020,JUJUY,Catua,SI
+2021,JUJUY,Coranzuli,SI
+2022,JUJUY,El Toro,SI
+2023,JUJUY,Huáncar,SI
+2024,JUJUY,Jama,SI
+2025,LA PAMPA,Embajador Martini,SI
+2026,LA PAMPA,Falucho,NO
+2027,LA PAMPA,Ingeniero Luiggi,SI
+2028,LA PAMPA,Ojeda,NO
+2029,LA PAMPA,Realicó,SI
+2030,LA PAMPA,Cachirulo,NO
+2031,LA PAMPA,Naicó,NO
+2032,LA PAMPA,Toay,SI
+2033,LA PAMPA,Arata,SI
+2034,LA PAMPA,Metileo,NO
+2035,LA PAMPA,Trenel,NO
+2036,LA PAMPA,Ataliva Roca,SI
+2037,LA PAMPA,Chacharramendi,NO
+2038,LA PAMPA,Colonia Santa María,SI
+2039,LA PAMPA,General Acha,SI
+2040,LA PAMPA,Quehué,SI
+2041,LA PAMPA,Unanué,SI
+2042,LA RIOJA,Aimogasta,SI
+2043,LA RIOJA,Arauco,NO
+2044,LA RIOJA,Bañado de los Pantanos,NO
+2045,LA RIOJA,Estación Mazán,NO
+2046,LA RIOJA,Machigasta,NO
+2047,LA RIOJA,San Antonio,NO
+2048,LA RIOJA,Termas de Santa Teresita,NO
+2049,LA RIOJA,Villa Mazán,NO
+2050,LA RIOJA,Loma Blanca,NO
+2051,LA RIOJA,La Rioja,SI
+2052,LA RIOJA,Aminga,SI
+2053,LA RIOJA,Anillaco,SI
+2054,LA RIOJA,Anjullón,SI
+2055,LA RIOJA,Chuquis,NO
+2056,LA RIOJA,Los Molinos,NO
+2057,LA RIOJA,Pinchas,NO
+2058,LA RIOJA,San Pedro,NO
+2059,LA RIOJA,Santa Vera Cruz,NO
+2060,LA RIOJA,Chamical,SI
+2061,LA RIOJA,Polco,NO
+2062,LA RIOJA,Anguinan,NO
+2063,LA RIOJA,Chilecito,SI
+2064,LA RIOJA,Colonia Anguinán,SI
+2065,LA RIOJA,Colonia Catinzaco,NO
+2066,LA RIOJA,Colonia Malligasta,NO
+2067,LA RIOJA,Colonia Vichigasta,NO
+2068,LA RIOJA,Guanchín,NO
+2069,LA RIOJA,La Puntilla,NO
+2070,LA RIOJA,Los Sarmientos,NO
+2071,LA RIOJA,Malligasta,NO
+2072,LA RIOJA,Miranda,NO
+2073,LA RIOJA,Nonogasta,SI
+2074,LA RIOJA,San Miguel,NO
+2075,LA RIOJA,San Nicolás,NO
+2076,LA RIOJA,Santa Florentina,NO
+2077,LA RIOJA,Sañogasta,NO
+2078,LA RIOJA,Tilimuqui,NO
+2079,LA RIOJA,Vichigasta,SI
+2080,LA RIOJA,Aicuña,NO
+2081,LA RIOJA,Guandacol,SI
+2082,LA RIOJA,Los Palacios,NO
+2083,JUJUY,Loteo Navea,SI
+2084,JUJUY,Nuestra Señora del Rosario,NO
+2085,JUJUY,San Antonio,NO
+2086,JUJUY,Arrayanal,NO
+2087,JUJUY,Arroyo Colorado,NO
+2088,JUJUY,Don Emilio,NO
+2089,JUJUY,El Acheral,NO
+2090,JUJUY,El Puesto,NO
+2091,JUJUY,El Quemado,NO
+2092,JUJUY,La Esperanza,NO
+2093,JUJUY,La Manga,NO
+2094,JUJUY,La Mendieta,NO
+2095,JUJUY,Miraflores,NO
+2096,JUJUY,Palos Blancos,NO
+2097,JUJUY,Parapetí,NO
+2098,JUJUY,Piedritas,NO
+2099,JUJUY,Rodeito,NO
+2100,JUJUY,Rosario de Río Grande,NO
+2101,JUJUY,San Antonio,NO
+2102,JUJUY,San Lucas,NO
+2103,JUJUY,San Pedro (Est. San Pedro de Jujuy),SI
+2104,JUJUY,Sauzal,NO
+2105,JUJUY,El Fuerte,NO
+2106,JUJUY,Mina Providencia,SI
+2107,SALTA,Aguaray,SI
+2108,SALTA,Campamento Vespucio,SI
+2109,SALTA,Campichuelo,NO
+2110,SALTA,Campo Durán,SI
+2111,SALTA,Capiazuti,NO
+2112,SALTA,Carboncito,NO
+2113,SALTA,Coronel Cornejo,SI
+2114,SALTA,Dragones,SI
+2115,SALTA,Embarcación,SI
+2116,SALTA,General Ballivián,SI
+2117,SALTA,General Mosconi,SI
+2118,SALTA,Hickman,NO
+2119,SALTA,Misión Chaqueña,NO
+2120,SALTA,Misión El Cruce - El Milagro - El Jardín de San Martín,NO
+2121,MENDOZA,BERMEJO,SI
+2122,MENDOZA,BUENA NUEVA,SI
+2123,MENDOZA,Capilla Del Rosario,SI
+2124,MENDOZA,COLONIA SEGOVIA,NO
+2125,MENDOZA,Colonia Segovia,SI
+2126,MENDOZA,DORREGO,SI
+2127,MENDOZA,EL SAUCE,SI
+2128,MENDOZA,GENERAL BELGRANO,NO
+2129,MENDOZA,Guaymallén,SI
+2130,MENDOZA,JESUS NAZARENO,SI
+2131,MENDOZA,KILOMETRO 11 (GUAYMALLEN),NO
+2132,MENDOZA,La Primavera,NO
+2133,MENDOZA,LAS CAÑAS,SI
+2134,MENDOZA,Los Corralitos,NO
+2135,MENDOZA,Panquehua,SI
+2136,MENDOZA,Papagayos,NO
+2137,MENDOZA,Polvaredas,NO
+2138,MENDOZA,Puente del Inca,NO
+2139,MENDOZA,Punta de Vacas,NO
+2140,MENDOZA,Sierras De Encalada,NO
+2141,MENDOZA,Uspallata,SI
+2142,MENDOZA,3 de Mayo,NO
+2143,MENDOZA,Barrio Alto del Olvido,NO
+2144,MENDOZA,Barrio Jocolí II,NO
+2145,MENDOZA,Barrio La Esperanza,NO
+2146,MENDOZA,Barrio La Palmera,NO
+2147,MENDOZA,Barrio La Pega,NO
+2148,MENDOZA,Barrio Lagunas de Bartoluzzi,NO
+2149,MENDOZA,Barrio Los Jarilleros,NO
+2150,MENDOZA,Barrio Los Olivos,NO
+2151,MENDOZA,Barrio Virgen del Rosario,NO
+2152,MENDOZA,Costa de Araujo,SI
+2153,MENDOZA,El Paramillo,NO
+2154,MENDOZA,El Vergel,NO
+2155,MENDOZA,Ingeniero Gustavo André,NO
+2156,MENDOZA,Jocolí,NO
+2157,MENDOZA,Jocolí Viejo,NO
+2158,MENDOZA,Agrelo,SI
+2159,MENDOZA,Barrio Adina I Y Ii,NO
+2160,MENDOZA,Barrio Perdriel IV,SI
+2161,MENDOZA,Cacheuta,NO
+2162,MENDOZA,CARRODILLA,SI
+2163,MENDOZA,CHACRAS DE CORIA,SI
+2164,MENDOZA,Costa Flores,SI
+2165,MENDOZA,El Carmelo,NO
+2166,MENDOZA,El Carrizal,NO
+2167,MENDOZA,El Salto,NO
+2168,MENDOZA,La Puntilla,SI
+2169,MENDOZA,Las Carditas,NO
+2170,MENDOZA,Las Compuertas,NO
+2171,MENDOZA,Las Vegas,NO
+2172,MENDOZA,Los Manantiales,NO
+2173,MENDOZA,PEDRO MOLINA,SI
+2174,MENDOZA,Puente de Hierro,NO
+2175,MENDOZA,RODEO DE LA CRUZ,SI
+2176,MENDOZA,SAN FRANCISCO DEL MONTE,SI
+2177,MENDOZA,San Jose,SI
+2178,MENDOZA,VILLA NUEVA,NO
+2179,MENDOZA,ALTO VERDE,NO
+2180,MENDOZA,Ingeniero Giagnoni,SI
+2181,MENDOZA,Junín,SI
+2182,MENDOZA,La Colonia,SI
+2183,MENDOZA,Los Barriales,NO
+2184,MENDOZA,Medrano,NO
+2185,MENDOZA,Phillips,NO
+2186,MENDOZA,Rodríguez Peña,NO
+2187,MENDOZA,Desaguadero,NO
+2188,MENDOZA,La Paz,SI
+2189,MENDOZA,Villa Antigua,NO
+2190,MENDOZA,Blanco Encalada,NO
+2191,MENDOZA,Capdeville,NO
+2192,MENDOZA,El Algarrobal,SI
+2193,MENDOZA,El Borbollon,NO
+2194,MENDOZA,EL CHALLAO,SI
+2195,MENDOZA,EL PLUMERILLO,SI
+2196,MENDOZA,EL RESGUARDO,SI
+2197,MENDOZA,EL ZAPALLAR,SI
+2198,MENDOZA,Jocolí,NO
+2199,MENDOZA,La Cieneguita,NO
+2200,MENDOZA,Las Cuevas,NO
+2201,MENDOZA,Las Heras,SI
+2202,MENDOZA,Los Penitentes,NO
+2203,NEUQUEN,Caviahué,NO
+2204,NEUQUEN,Copahue,NO
+2205,NEUQUEN,El Cholar,NO
+2206,NEUQUEN,El Huecú,NO
+2207,NEUQUEN,Taquimilán,NO
+2208,NEUQUEN,Barrancas,NO
+2209,NEUQUEN,Buta Ranquil,NO
+2210,NEUQUEN,Octavio Pico,NO
+2211,NEUQUEN,Rincón de los Sauces,SI
+2212,NEUQUEN,El Sauce,NO
+2213,NEUQUEN,Paso Aguerre,NO
+2214,NEUQUEN,Picún Leufú,NO
+2215,NEUQUEN,Bajada del Agrio,NO
+2216,NEUQUEN,La Buitrera,NO
+2217,NEUQUEN,Las Lajas,NO
+2218,NEUQUEN,Quili Malal,NO
+2219,NEUQUEN,Covunco Centro,NO
+2220,MENDOZA,Fray Luis Beltrán,SI
+2221,MENDOZA,GENERAL GUTIERREZ,SI
+2222,MENDOZA,LUZURIAGA,SI
+2223,MENDOZA,Maipú,SI
+2224,MENDOZA,Rodeo del Medio,SI
+2225,MENDOZA,Russell,SI
+2226,MENDOZA,San Roque,SI
+2227,MENDOZA,Villa Teresa,NO
+2228,MENDOZA,Agua Escondida,NO
+2229,MENDOZA,Bardas Blancas,NO
+2230,MENDOZA,Las Leñas,SI
+2231,LA RIOJA,Pagancillo,SI
+2232,LA RIOJA,Santa Clara,NO
+2233,LA RIOJA,Villa Unión,SI
+2234,LA RIOJA,Alto Carrizal,NO
+2235,LA RIOJA,Angulos,NO
+2236,LA RIOJA,Antinaco,NO
+2237,LA RIOJA,Bajo Carrizal,NO
+2238,LA RIOJA,Campanas,SI
+2239,LA RIOJA,Chañarmuyo,NO
+2240,LA RIOJA,Famatina,SI
+2241,LA RIOJA,La Cuadra,NO
+2242,LA RIOJA,Pituil,NO
+2243,LA RIOJA,Plaza Vieja,NO
+2244,LA RIOJA,Santa Cruz,NO
+2245,LA RIOJA,Santo Domingo,NO
+2246,LA RIOJA,Punta de los Llanos,SI
+2247,LA RIOJA,Tama,SI
+2248,LA RIOJA,Castro Barros,NO
+2249,LA RIOJA,Chañar,SI
+2250,FORMOSA,Ingeniero Guillermo N. Juárez,NO
+2251,FORMOSA,Bartolomé de las Casas,NO
+2252,FORMOSA,Colonia Sarmiento,NO
+2253,FORMOSA,Comandante Fontana,NO
+2254,FORMOSA,El Recreo,NO
+2255,FORMOSA,Estanislao del Campo,NO
+2256,FORMOSA,Fortín Cabo 1º Lugones,NO
+2257,FORMOSA,Fortín Sargento 1º Leyes,NO
+2258,FORMOSA,Ibarreta,NO
+2259,FORMOSA,Juan G. Bazán,NO
+2260,FORMOSA,Las Lomitas,SI
+2261,FORMOSA,Posta Cambio Zalazar,NO
+2262,FORMOSA,Pozo del Tigre,SI
+2263,FORMOSA,San Martín I,NO
+2264,FORMOSA,San Martín II,SI
+2265,JUJUY,Olacapato,SI
+2266,FORMOSA,Laguna Naick-Neck,NO
+2267,FORMOSA,Palma Sola,NO
+2268,FORMOSA,Puerto Pilcomayo,NO
+2269,FORMOSA,Riacho He-He,SI
+2270,FORMOSA,Riacho Negro,NO
+2271,FORMOSA,Siete Palmas,SI
+2272,FORMOSA,Colonia Campo Villafañe,SI
+2273,FORMOSA,El Colorado,SI
+2274,FORMOSA,Palo Santo,NO
+2275,FORMOSA,Pirané,SI
+2276,FORMOSA,Villa Kilómetro 213,NO
+2277,FORMOSA,El Potrillo,NO
+2278,FORMOSA,El Quebracho,NO
+2279,ENTRE RIOS,Hernández,NO
+2280,ENTRE RIOS,Lucas González,NO
+2281,ENTRE RIOS,Nogoyá,NO
+2282,ENTRE RIOS,XX de Setiembre,NO
+2283,ENTRE RIOS,Aldea María Luisa,NO
+2284,ENTRE RIOS,Aldea San Juan,NO
+2285,ENTRE RIOS,Aldea San Rafael,NO
+2286,ENTRE RIOS,Aldea Santa María,NO
+2287,ENTRE RIOS,Aldea Santa Rosa,NO
+2288,ENTRE RIOS,Cerrito,NO
+2289,ENTRE RIOS,Colonia Avellaneda,NO
+2290,ENTRE RIOS,Colonia Crespo,NO
+2291,ENTRE RIOS,Colonia Merou,NO
+2292,ENTRE RIOS,Crespo,SI
+2293,ENTRE RIOS,Crucesitas Séptima Sección,NO
+2294,ENTRE RIOS,El Palenque,NO
+2295,ENTRE RIOS,General Ramírez,NO
+2296,ENTRE RIOS,La Juanita,NO
+2297,ENTRE RIOS,Las Jaulas,NO
+2298,ENTRE RIOS,Paraje La Virgen,NO
+2299,ENTRE RIOS,Puerto Las Cuevas,NO
+2300,ENTRE RIOS,Strobel,NO
+2301,ENTRE RIOS,Villa Libertador San Martín,NO
+2302,ENTRE RIOS,Chajarí,SI
+2303,ENTRE RIOS,Colonia Alemana,NO
+2304,ENTRE RIOS,Colonia Ensanche Sauce,NO
+2305,ENTRE RIOS,Colonia La Argentina,NO
+2306,ENTRE RIOS,Colonia Peña,NO
+2307,ENTRE RIOS,Colonia Santa María,NO
+2308,ENTRE RIOS,Federación,SI
+2309,ENTRE RIOS,Los Conquistadores,NO
+2310,ENTRE RIOS,San Jaime de la Frontera,NO
+2311,FORMOSA,General Mosconi,SI
+2312,JUJUY,Abdón Castro Tolay,NO
+2313,JUJUY,Abra Pampa,NO
+2314,JUJUY,Abralaite,NO
+2315,JUJUY,Agua de Castilla,NO
+2316,JUJUY,Casabindo,NO
+2317,JUJUY,Cochinoca,NO
+2318,JUJUY,La Redonda,NO
+2319,JUJUY,Puesto del Marquéz,SI
+2320,JUJUY,Quebraleña,NO
+2321,JUJUY,Quera,NO
+2322,JUJUY,Rinconadillas,NO
+2323,JUJUY,San Francisco de Alfarcito,NO
+2324,JUJUY,Santa Ana de la Puna,NO
+2325,JUJUY,Santuario de Tres Pozos,NO
+2326,JUJUY,Tambillos,NO
+2327,JUJUY,Tusaquillas,NO
+2328,JUJUY,Dr. Manuel Belgrano,SI
+2329,JUJUY,Guerrero,NO
+2330,JUJUY,La Almona,SI
+2331,JUJUY,León,NO
+2332,JUJUY,Lozano (Ap. Chañi),NO
+2333,JUJUY,Ocloyas,NO
+2334,JUJUY,San Pablo De Reyes,NO
+2335,JUJUY,San Salvador de Jujuy (Est. Jujuy),SI
+2336,JUJUY,Yala,NO
+2337,JUJUY,Aguas Calientes,NO
+2338,JUJUY,Barrio El Milagro,NO
+2339,JUJUY,Barrio La Unión,NO
+2340,JUJUY,El Carmen,NO
+2341,JUJUY,Fleming,NO
+2342,JUJUY,Los Lapachos (Est. Maquinista Verón),NO
+2343,JUJUY,Loteo San Vicente,NO
+2344,JUJUY,Manantiales,NO
+2345,JUJUY,Monterrico,NO
+2346,JUJUY,Pampa Blanca,NO
+2347,JUJUY,Perico,NO
+2348,JUJUY,Pila Pardo,NO
+2349,JUJUY,La Quiaca,SI
+2350,JUJUY,Llulluchayoc,NO
+2351,JUJUY,Pumahuasi,SI
+2352,JUJUY,San Jose,NO
+2353,JUJUY,Yavi,NO
+2354,JUJUY,Yavi Chico,SI
+2355,LA PAMPA,Doblas,SI
+2356,LA PAMPA,Macachín,SI
+2357,LA PAMPA,Miguel Riglos,SI
+2358,LA PAMPA,Rolón,NO
+2359,LA PAMPA,Tomas M. Anchorena,NO
+2360,LA PAMPA,Anzoategui,NO
+2361,LA PAMPA,La Adela,NO
+2362,LA PAMPA,Anguil,SI
+2363,JUJUY,Olaroz Chico,SI
+2364,JUJUY,Pastos Chicos,SI
+2365,JUJUY,Puesto Sey,SI
+2366,JUJUY,San Juan de Quillaqués,SI
+2367,JUJUY,Susques,SI
+2368,JUJUY,Colonia San José,NO
+2369,JUJUY,Huacalera,SI
+2370,JUJUY,Juella,NO
+2371,JUJUY,Maimará,SI
+2372,JUJUY,Tilcara,SI
+2373,JUJUY,Yacoraite,NO
+2374,JUJUY,Bárcena,NO
+2375,JUJUY,El Moreno,NO
+2376,JUJUY,Puerta de Colorados,NO
+2377,JUJUY,Purmamarca,NO
+2378,JUJUY,Tumbaya,NO
+2379,JUJUY,Volcán,NO
+2380,JUJUY,Caspalá,NO
+2381,JUJUY,Pampichuela,NO
+2382,JUJUY,San Francisco,NO
+2383,JUJUY,Santa Ana,NO
+2384,ENTRE RIOS,El Pingo,NO
+2385,ENTRE RIOS,El Ramblón,NO
+2386,ENTRE RIOS,El Ramblón,NO
+2387,ENTRE RIOS,Hasenkamp,SI
+2388,ENTRE RIOS,Hernandarias,NO
+2389,ENTRE RIOS,La Picada,SI
+2390,ENTRE RIOS,Las Tunas,NO
+2391,ENTRE RIOS,María Grande,SI
+2392,ENTRE RIOS,Oro Verde,NO
+2393,ENTRE RIOS,Paraná,SI
+2394,ENTRE RIOS,Pueblo Bellocq (Est. Las Garzas),NO
+2395,ENTRE RIOS,Pueblo Brugo,NO
+2396,ENTRE RIOS,Pueblo General San Martín,NO
+2397,NEUQUEN,Los Catutos,NO
+2398,NEUQUEN,Mariano Moreno,NO
+2399,NEUQUEN,Ramon M. Castro,NO
+2400,NEUQUEN,Zapala,SI
+2401,RIO NEGRO,Aguada de Guerra,NO
+2402,RIO NEGRO,Clemente Onelli,SI
+2403,RIO NEGRO,Colan Conhue,NO
+2404,RIO NEGRO,El Caín,NO
+2405,RIO NEGRO,Ingeniero Jacobacci,SI
+2406,RIO NEGRO,Los Menucos,NO
+2407,RIO NEGRO,Maquinchao,NO
+2408,RIO NEGRO,Mina Santa Teresita,NO
+2409,RIO NEGRO,Pilquiniyeu,NO
+2410,RIO NEGRO,Comicó,NO
+2411,RIO NEGRO,Cona Niyeu,NO
+2412,RIO NEGRO,Ministro Ramos Mexía,SI
+2413,LA PAMPA,General Manuel J. Campos,SI
+2414,LA PAMPA,Guatraché,SI
+2415,LA PAMPA,Perú,NO
+2416,LA PAMPA,Santa Teresa,SI
+2417,LA PAMPA,Abramo,SI
+2418,LA PAMPA,Bernasconi,SI
+2419,LA PAMPA,General San Martín (Est. Villa Alba),SI
+2420,LA PAMPA,Hucal,NO
+2421,LA PAMPA,Jacinto Arauz,SI
+2422,LA PAMPA,Cuchillo Co,SI
+2423,LA PAMPA,La Reforma,NO
+2424,LA PAMPA,Limay Mahuida,NO
+2425,LA PAMPA,Carro Quemado,SI
+2426,LA PAMPA,Loventué,SI
+2427,LA PAMPA,Luan Toro,NO
+2428,LA PAMPA,Telén,SI
+2429,LA PAMPA,Victorica,SI
+2430,LA PAMPA,Agustoni,NO
+2431,LA PAMPA,Dorila,SI
+2432,LA PAMPA,General Pico,SI
+2433,LA PAMPA,Speluzzi,SI
+2434,LA PAMPA,Trebolares,NO
+2435,LA PAMPA,25 de Mayo,SI
+2436,LA PAMPA,Casa de Piedra,NO
+2437,LA PAMPA,Puelén,NO
+2438,LA PAMPA,Colonia Barón,SI
+2439,LA PAMPA,Colonia San José,NO
+2440,LA PAMPA,Miguel Cané,SI
+2441,MENDOZA,Barrio Carrasco,NO
+2442,MENDOZA,Barrio El Cepillo,NO
+2443,MENDOZA,Chilecito,NO
+2444,MENDOZA,Eugenio Bustos,NO
+2445,MENDOZA,La Consulta,NO
+2446,MENDOZA,Pareditas,SI
+2447,MENDOZA,San Carlos,NO
+2448,MENDOZA,Alto Salvador,SI
+2449,MENDOZA,Alto Verde,SI
+2450,MENDOZA,Barrio Chivilcoy,NO
+2451,MENDOZA,Barrio Emanuel,NO
+2452,MENDOZA,Barrio La Estación,NO
+2453,MENDOZA,Barrio Los Charabones,NO
+2454,MENDOZA,Barrio Ntra. Sra. De Fátima,NO
+2455,MENDOZA,Chapanay,SI
+2456,MENDOZA,Chivilcoy,NO
+2457,MENDOZA,El Espino,NO
+2458,MENDOZA,El Ramblón,NO
+2459,MENDOZA,Montecaseros,NO
+2460,MENDOZA,Nueva California,NO
+2461,MENDOZA,El Zampal,NO
+2462,MENDOZA,Villa Atuel Norte,NO
+2463,MENDOZA,Barrio 12 de Octubre,SI
+2464,MENDOZA,Barrio María Auxiliadora,NO
+2465,MENDOZA,Barrio Molina Cabrera,NO
+2466,MENDOZA,La Dormida,SI
+2467,MENDOZA,Las Catitas,NO
+2468,MENDOZA,Santa Rosa,SI
+2469,MENDOZA,Barrio San Cayetano,NO
+2470,MENDOZA,Campo Los Andes,NO
+2471,MENDOZA,Colonia Las Rosas,NO
+2472,MENDOZA,El Manzano,NO
+2473,MENDOZA,Los Sauces,SI
+2474,MENDOZA,Tunuyán,SI
+2475,MENDOZA,Vista Flores,NO
+2476,MENDOZA,Barrio Belgrano Norte,NO
+2477,MENDOZA,Cordón del Plata,NO
+2478,MENDOZA,El Peral,NO
+2479,CORDOBA,Las Varillas,SI
+2480,CORDOBA,Marull,SI
+2481,CORDOBA,Miramar,NO
+2482,CORDOBA,Morteros,SI
+2483,CORDOBA,Plaza Luxardo,NO
+2484,CORDOBA,Plaza San Francisco,NO
+2485,CORDOBA,Porteña,SI
+2486,CORDOBA,Quebracho Herrado,NO
+2487,CORDOBA,Sacanta,SI
+2488,CORDOBA,San Francisco,SI
+2489,JUJUY,Valle Colorado,NO
+2490,JUJUY,Valle Grande,NO
+2491,CORDOBA,Saturnino María Laspiur,NO
+2492,CORDOBA,Seeber,NO
+2493,CORDOBA,Toro Pujio,NO
+2494,CORDOBA,Tránsito,NO
+2495,CORDOBA,Trinchera,NO
+2496,CORDOBA,Villa Concepción del Tío,NO
+2497,CORDOBA,Villa del Tránsito,NO
+2498,CORDOBA,Villa San Esteban,NO
+2499,CORDOBA,Alta Gracia,SI
+2500,CORDOBA,Anisacate,NO
+2501,CORDOBA,Barrio Gilbert,NO
+2502,CORDOBA,Barrio Las Quintas,NO
+2503,CORDOBA,Barrio Villa del Parque,NO
+2504,CORDOBA,Bouwer,NO
+2505,CORDOBA,Campos del Virrey,NO
+2506,CORDOBA,Caseros Centro,NO
+2507,CORDOBA,Causana,NO
+2508,CORDOBA,Costa Azul,NO
+2509,CORDOBA,Piquillín,NO
+2510,CORDOBA,Plaza de Mercedes,NO
+2511,CORDOBA,Pueblo Comechingones,NO
+2512,CORDOBA,Río Primero,SI
+2513,CORDOBA,Sagrada Familia,NO
+2514,CORDOBA,Santa Rosa de Río Primero,SI
+2515,CORDOBA,Villa Fontana,SI
+2516,CORDOBA,Cerro Colorado,NO
+2517,CORDOBA,Chañar Viejo,NO
+2518,CORDOBA,Eufrasio Loza,NO
+2519,CORDOBA,Gütemberg,NO
+2520,CORDOBA,La Rinconada,NO
+2521,CORDOBA,Los Hoyos,NO
+2522,CORDOBA,Puesto de Castro,NO
+2523,CORDOBA,Rayo Cortado,NO
+2524,CORDOBA,San Pedro de Gütemberg,NO
+2525,CORDOBA,Santa Elena,NO
+2526,CORDOBA,Sebastián Elcano,SI
+2527,CORDOBA,Villa Candelaria,NO
+2528,CORDOBA,Arroyito,SI
+2529,CORDOBA,Balnearia,NO
+2530,CORDOBA,Brinkmann,SI
+2531,CORDOBA,Colonia 10 de Julio,NO
+2532,CORDOBA,Colonia Anita,NO
+2533,CORDOBA,Colonia Iturraspe,NO
+2534,CORDOBA,Colonia Las Pichanas,NO
+2535,CORDOBA,Colonia Marina,SI
+2536,CORDOBA,Colonia Prosperidad,NO
+2537,CORDOBA,Colonia San Bartolomé,NO
+2538,CORDOBA,Colonia San Pedro,NO
+2539,CORDOBA,Colonia Santa María,NO
+2540,CORDOBA,Colonia Valtelina,NO
+2541,CORDOBA,Colonia Vignaud,SI
+2542,CORDOBA,Lutti,NO
+2543,CORDOBA,Monte Ralo,NO
+2544,CORDOBA,Parque Calmayo,NO
+2545,CORDOBA,Río de los Sauces,NO
+2546,CORDOBA,San Agustín,NO
+2547,CORDOBA,San Ignacio (Loteo San Javier),NO
+2548,CORDOBA,San Ignacio (Loteo Vélez Crespo),NO
+2549,CORDOBA,Santa Monica,NO
+2550,CORDOBA,Santa Rosa de Calamuchita,SI
+2551,CORDOBA,Segunda Usina,NO
+2552,CORDOBA,Solar de los Molinos,NO
+2553,CORDOBA,Villa Alpina,NO
+2554,CORDOBA,Villa Amancay,NO
+2555,CORDOBA,Villa Berna,NO
+2556,CORDOBA,Villa Ciudad Parque Los Reartes,NO
+2557,CORDOBA,Villa Ciudad Parque Los Reartes (1a. Sección),NO
+2558,CORDOBA,Villa Ciudad Parque Los Reartes (3a. Sección),NO
+2559,CORDOBA,Devoto,SI
+2560,CORDOBA,El Arañado,NO
+2561,CORDOBA,El Fortín,NO
+2562,CORDOBA,El Fuertecito,NO
+2563,CORDOBA,El Tío,SI
+2564,CORDOBA,Estación Luxardo,NO
+2565,CORDOBA,Freyre,SI
+2566,CORDOBA,La Francia,SI
+2567,CORDOBA,La Paquita,NO
+2568,CORDOBA,La Tordilla,NO
+2569,CORDOBA,Las Varas,SI
+2570,JUJUY,Libertador General San Martín (Est. Ledesma),SI
+2571,JUJUY,Maíz Negro,NO
+2572,JUJUY,Paulina,NO
+2573,JUJUY,Pueblo Ledesma,NO
+2574,JUJUY,Yuto,NO
+2575,JUJUY,Carahunco,NO
+2576,JUJUY,Centro Forestal,NO
+2577,JUJUY,Mina 9 de Octubre,NO
+2578,JUJUY,Palpalá (Est. Gral. Manuel N. Savio),SI
+2579,JUJUY,Rio Blanco,NO
+2580,JUJUY,Casa Colorada,NO
+2581,JUJUY,Coyaguaima,SI
+2582,JUJUY,Lagunillas de Farallón,SI
+2583,JUJUY,Liviara,NO
+2584,JUJUY,Loma Blanca,NO
+2585,JUJUY,Nuevo Pirquitas,SI
+2586,JUJUY,Orosmayo,SI
+2587,JUJUY,Rinconada,NO
+2588,JUJUY,El Ceibal,SI
+2589,JUJUY,La Toma,NO
+2590,JUJUY,Puesto Viejo,NO
+2591,JUJUY,San Isidro,NO
+2592,JUJUY,San Juancito,NO
+2593,JUJUY,Aparzo,NO
+2594,JUJUY,Cianzo,NO
+2595,JUJUY,Coctaca,NO
+2596,JUJUY,El Aguilar,NO
+2597,JUJUY,Hipólito Yrigoyen (Est. Iturbe),SI
+2598,JUJUY,Humahuaca,NO
+2599,JUJUY,Palca de Aparzo,NO
+2600,JUJUY,Palca de Varas,NO
+2601,JUJUY,Rodero,NO
+2602,JUJUY,Tres Cruces,SI
+2603,JUJUY,Uquía (Est. Senador Pérez),SI
+2604,JUJUY,Bananal,NO
+2605,JUJUY,Bermejito,NO
+2606,JUJUY,Caimancito,NO
+2607,JUJUY,Calilegua,NO
+2608,JUJUY,Chalicán,NO
+2609,JUJUY,Fraile Pintado,NO
+2610,JUJUY,Libertad,NO
+2611,CORRIENTES,Laguna Brava,NO
+2612,CORRIENTES,Riachuelo,NO
+2613,CORRIENTES,San Cayetano,NO
+2614,CORRIENTES,Concepción,NO
+2615,CORRIENTES,Santa Rosa,NO
+2616,CORRIENTES,Tabay,NO
+2617,CORRIENTES,Tatacua,NO
+2618,CORRIENTES,Cazadores Correntinos,NO
+2619,CORRIENTES,Curuzú Cuatiá,SI
+2620,CORRIENTES,Perugorría,NO
+2621,CORRIENTES,El Sombrero,NO
+2622,CORRIENTES,Empedrado,NO
+2623,CORDOBA,Monte Buey,NO
+2624,CORDOBA,Noetinger,NO
+2625,CORDOBA,Saira,NO
+2626,CORDOBA,Saladillo,NO
+2627,CORDOBA,Villa Elisa,NO
+2628,CORDOBA,Ciénaga del Coro,SI
+2629,CORDOBA,El Chacho,SI
+2630,CORDOBA,Estancia de Guadalupe,NO
+2631,CORDOBA,Guasapampa,NO
+2632,CORDOBA,La Playa,NO
+2633,CORDOBA,San Carlos Minas,SI
+2634,CORDOBA,Talaini,NO
+2635,CORDOBA,Tosno,NO
+2636,CORDOBA,Chancani,NO
+2637,CORDOBA,Las Palmas,NO
+2638,CORDOBA,Los Talares,NO
+2639,CORDOBA,Salsacate,SI
+2640,CORDOBA,San Gerónimo,NO
+2641,CORDOBA,Tala Cañada,NO
+2642,CORRIENTES,Esquina,SI
+2643,CORRIENTES,Pueblo Libertador,NO
+2644,CORRIENTES,Alvear,NO
+2645,CORRIENTES,Estación Torrent,NO
+2646,CORRIENTES,Itá Ibaté,NO
+2647,CORRIENTES,Lomas de Vallejos,NO
+2648,CORRIENTES,Nuestra Señora del Rosario de Caá Catí,NO
+2649,CORRIENTES,Palmar Grande,NO
+2650,CORRIENTES,Colonia Carolina,NO
+2651,CORRIENTES,Goya,SI
+2652,CORRIENTES,Itatí,NO
+2653,CORRIENTES,Ramada Paso,NO
+2654,CORDOBA,General Levalle,SI
+2655,CORDOBA,La Cesira,SI
+2656,CORDOBA,Laboulaye,SI
+2657,CORDOBA,Leguizamón,SI
+2658,CORDOBA,Melo,SI
+2659,CORDOBA,Río Bamba,NO
+2660,CORDOBA,Rosales,NO
+2661,CORDOBA,San Joaquín,NO
+2662,CORDOBA,Serrano,NO
+2663,CORDOBA,Villa Rossi,NO
+2664,CORDOBA,Barrio Santa Isabel,NO
+2665,CORDOBA,Bialet Massé,SI
+2666,CORDOBA,Cabalango,NO
+2667,CORDOBA,Lucio V. Mansilla,NO
+2668,CORDOBA,Rosario del Saladillo,SI
+2669,CORDOBA,San José de la Dormida,NO
+2670,CORDOBA,San José de las Salinas,NO
+2671,CORDOBA,San Pedro Norte,NO
+2672,CORDOBA,Villa Tulumba,SI
+2673,CORDOBA,Aldea Santa María,NO
+2674,CORDOBA,Alto Alegre,SI
+2675,CORDOBA,Ana Zumarán,NO
+2676,CORDOBA,Ballesteros,SI
+2677,CORDOBA,Ballesteros Sur,SI
+2678,CORDOBA,Bell Ville,SI
+2679,CORDOBA,Benjamín Gould,NO
+2680,CORRIENTES,Colonia Liebig's,NO
+2681,CORRIENTES,Ituzaingó,NO
+2682,CORRIENTES,San Antonio,NO
+2683,CORRIENTES,San Carlos,NO
+2684,CORRIENTES,Villa Olivari,NO
+2685,CORRIENTES,Cruz de los Milagros,NO
+2686,CORRIENTES,Gobernador Juan E. Martínez,SI
+2687,CORRIENTES,Lavalle,NO
+2688,CORRIENTES,Santa Lucía,SI
+2689,CORRIENTES,Villa Córdoba,NO
+2690,CORRIENTES,Yatayti Calle,NO
+2691,CORRIENTES,Mburucuyá,NO
+2692,CORRIENTES,Felipe Yofré,NO
+2693,CORRIENTES,Mariano I. Loza (Est. Justino Solari),NO
+2694,CORRIENTES,Mercedes,SI
+2695,CORRIENTES,Colonia Libertad,NO
+2696,CORRIENTES,Estación Libertad,NO
+2697,CORRIENTES,Juan Pujol,NO
+2698,CORRIENTES,Mocoretá,SI
+2699,CORRIENTES,Monte Caseros,SI
+2700,CORRIENTES,Parada Acuña,NO
+2701,CORRIENTES,Parada Labougle,NO
+2702,CORRIENTES,Bonpland,NO
+2703,CORRIENTES,Parada Pucheta,NO
+2704,CORRIENTES,Paso de los Libres,SI
+2705,CORRIENTES,Tapebicuá,NO
+2706,ENTRE RIOS,San Pedro,SI
+2707,ENTRE RIOS,San Ramón,NO
+2708,ENTRE RIOS,Santa Ana,SI
+2709,ENTRE RIOS,Villa del Rosario,SI
+2710,ENTRE RIOS,Conscripto Bernardi,NO
+2711,ENTRE RIOS,El Cimarrón,NO
+2712,ENTRE RIOS,Federal,SI
+2713,ENTRE RIOS,Nueva Vizcaya,NO
+2714,ENTRE RIOS,Sauce de Luna,SI
+2715,ENTRE RIOS,San José de Feliciano,NO
+2716,ENTRE RIOS,San Víctor,NO
+2717,ENTRE RIOS,Aldea Asunción,NO
+2718,ENTRE RIOS,Estación Lazo,NO
+2719,ENTRE RIOS,General Galarza,NO
+2720,ENTRE RIOS,Villa Paranacito,NO
+2721,ENTRE RIOS,Bovril,SI
+2722,ENTRE RIOS,Colonia Avigdor,NO
+2723,ENTRE RIOS,El Solar,NO
+2724,ENTRE RIOS,La Paz,SI
+2725,ENTRE RIOS,Piedras Blancas,SI
+2726,ENTRE RIOS,Pueblo Arrúa (Est. Alcaraz),NO
+2727,ENTRE RIOS,San Gustavo,SI
+2728,ENTRE RIOS,Santa Elena,NO
+2729,ENTRE RIOS,Sir Leonard,NO
+2730,ENTRE RIOS,Aranguren,NO
+2731,ENTRE RIOS,Betbeder,NO
+2732,ENTRE RIOS,Don Cristóbal,NO
+2733,ENTRE RIOS,Febré,NO
+2734,CABA,AGRONOMIA,SI
+2735,CORDOBA,Villa del Dique,SI
+2736,CORDOBA,Villa El Tala,NO
+2737,CORDOBA,Villa General Belgrano,NO
+2738,CORDOBA,Villa La Rivera,NO
+2739,CORDOBA,Villa Quillinzo,NO
+2740,CORDOBA,Villa Rumipal,SI
+2741,CABA,CHACARITA,SI
+2742,CORDOBA,Villa de María,NO
+2743,CORDOBA,Calchín,NO
+2744,CORDOBA,Calchín Oeste,NO
+2745,CORDOBA,Capilla del Carmen,NO
+2746,CORDOBA,Carrilobo,NO
+2747,CABA,PARQUE CHAS,SI
+2748,CORDOBA,Canals,SI
+2749,CORDOBA,Chilibroste,SI
+2750,CORDOBA,Cintra,SI
+2751,CORDOBA,Colonia Bismarck,NO
+2752,CORDOBA,Colonia Bremen,NO
+2753,CORDOBA,Villa San Miguel,NO
+2754,CORDOBA,Villa Yacanto,NO
+2755,CORDOBA,Córdoba,SI
+2756,CORDOBA,Jardín Arenales,NO
+2757,CORDOBA,La Floresta,NO
+2758,CORDOBA,1 De Agosto,NO
+2759,CORDOBA,Agua de Oro,SI
+2760,CORDOBA,Almirante Brown,NO
+2761,CORDOBA,Ascochinga,SI
+2762,CORDOBA,Barrio Nuevo Río Ceballos,NO
+2763,CORDOBA,Canteras El Sauce,NO
+2764,CORDOBA,Casa Bamba,NO
+2765,CORDOBA,Ciudad De Los Niños,NO
+2766,CORDOBA,Colazo,SI
+2767,CORDOBA,Colonia Videla,NO
+2768,CORDOBA,Costasacate,SI
+2769,CORDOBA,Impira,NO
+2770,CORDOBA,Laguna Larga,SI
+2771,CORDOBA,Las Junturas,SI
+2772,CORDOBA,Los Chañaritos,SI
+2773,CORDOBA,Luque,SI
+2774,CORDOBA,Manfredi,SI
+2775,CORDOBA,Matorrales,NO
+2776,CABA,VILLA GENERAL MITRE,SI
+2777,CORDOBA,Colonia Caroya,SI
+2778,CORDOBA,Colonia Tirolesa,NO
+2779,CORDOBA,Colonia Vicente Agüero,NO
+2780,CORDOBA,Corral Quemado,NO
+2781,CORDOBA,Country Chacras de la Villa - Country San Isidro,NO
+2782,CORDOBA,Dumesnil,SI
+2783,CORDOBA,El Diquecito,NO
+2784,CABA,VILLA SANTA RITA,SI
+2785,CORDOBA,Oncativo,SI
+2786,CORDOBA,Pilar,SI
+2787,CORDOBA,Pozo del Molle,NO
+2788,CORDOBA,El Manzano,NO
+2789,CORDOBA,El Pueblito,NO
+2790,CORDOBA,Estación Colonia Tirolesa,NO
+2791,CORDOBA,General Paz,NO
+2792,CORDOBA,Jesús María,SI
+2793,CORDOBA,La Calera,SI
+2794,CORDOBA,La Granja,SI
+2795,CORDOBA,La Morada,NO
+2796,CORDOBA,La Puerta,NO
+2797,CORDOBA,Las Corzuelas,NO
+2798,CORDOBA,Los Chañaritos,NO
+2799,CORDOBA,Los Molles,NO
+2800,CORDOBA,Malvinas Argentinas,SI
+2801,CORDOBA,Alejo Ledesma,SI
+2802,CORDOBA,Arias,NO
+2803,CORDOBA,Camilo Aldao,NO
+2804,CORDOBA,Capitán General Bernardo O'Higgins,SI
+2805,CORDOBA,Cavanagh,NO
+2806,CORDOBA,Colonia Barge,NO
+2807,CORDOBA,Colonia Italiana,NO
+2808,CORDOBA,Colonia Veinticinco,NO
+2809,CORDOBA,Corral de Bustos,SI
+2810,CORDOBA,Cruz Alta,SI
+2811,CORDOBA,General Baldissera,NO
+2812,CORDOBA,General Roca,SI
+2813,CORDOBA,Charras,SI
+2814,CORDOBA,El Rastreador,NO
+2815,CORDOBA,General Cabrera,NO
+2816,CORDOBA,General Deheza,SI
+2817,CORDOBA,Huanchillas,SI
+2818,CORDOBA,La Carlota,NO
+2819,CORDOBA,Los Cisnes,NO
+2820,CORDOBA,Olaeta,NO
+2821,CORDOBA,Pacheco de Melo,NO
+2822,CORDOBA,Paso del Durazno,NO
+2823,CORDOBA,Santa Eufemia,NO
+2824,CORDOBA,Ucacha,SI
+2825,CORDOBA,Villa Reducción,NO
+2826,CORDOBA,Rincón,NO
+2827,CORDOBA,Río Segundo,SI
+2828,CORDOBA,Santiago Temple,NO
+2829,CORDOBA,Villa del Rosario,SI
+2830,CORDOBA,Ambul,NO
+2831,CORDOBA,Arroyo Los Patos,SI
+2832,CORDOBA,El Huayco,NO
+2833,CORDOBA,La Cortadera,SI
+2834,CORDOBA,Las Calles,SI
+2835,CORDOBA,Las Oscuras,NO
+2836,CORDOBA,Las Rabonas,SI
+2837,CORDOBA,Los Callejones,NO
+2838,CORDOBA,Mina Clavero,SI
+2839,CORDOBA,Mussi,NO
+2840,CORDOBA,Idiazabal,SI
+2841,CORDOBA,Justiniano Posse,SI
+2842,CORDOBA,Laborde,NO
+2843,CORDOBA,Monte Leña,NO
+2844,CORDOBA,Monte Maíz,SI
+2845,CORDOBA,Morrison,SI
+2846,CORDOBA,Noetinger,SI
+2847,CORDOBA,Ordóñez,SI
+2848,CORDOBA,Pascanas,NO
+2849,CORDOBA,Pueblo Italiano,NO
+2850,CORDOBA,Ramón J. Cárcano,NO
+2851,CABA,VILLA RIACHUELO,SI
+2852,CORDOBA,Mendiolaza,SI
+2853,CORDOBA,Mi Granja,SI
+2854,CORDOBA,Pajas Blancas,NO
+2855,CORDOBA,Río Ceballos,SI
+2856,CABA,VILLA SOLDATI,SI
+2857,CORDOBA,Nono,SI
+2858,CORDOBA,Panaholma,NO
+2859,CORDOBA,San Huberto,SI
+2860,CORDOBA,San Lorenzo,NO
+2861,CORDOBA,San Martín,NO
+2862,CORDOBA,San Pedro,SI
+2863,CORDOBA,San Vicente,SI
+2864,CORDOBA,Sauce Arriba,NO
+2865,CORDOBA,Tasna,NO
+2866,CABA,FLORES,SI
+2867,CORDOBA,San Antonio de Litín,SI
+2868,CORDOBA,San Marcos,SI
+2869,CORDOBA,San Severo,NO
+2870,CORDOBA,Viamonte,NO
+2871,CORDOBA,Villa Los Patos,NO
+2872,CORDOBA,Wenceslao Escalante,NO
+2873,CABA,SAN NICOLAS,SI
+2874,ENTRE RIOS,Gualeguay,SI
+2875,ENTRE RIOS,Puerto Ruiz,NO
+2876,ENTRE RIOS,Aldea San Antonio,NO
+2877,ENTRE RIOS,Aldea San Juan,NO
+2878,ENTRE RIOS,Enrique Carbó,NO
+2879,ENTRE RIOS,Estación Escriña,NO
+2880,ENTRE RIOS,Faustino M. Parera,NO
+2881,CABA,RECOLETA,SI
+2882,FORMOSA,Subteniente Perín,NO
+2883,FORMOSA,Villa General Güemes,SI
+2884,FORMOSA,Villa General Manuel Belgrano,SI
+2885,FORMOSA,Buena Vista,SI
+2886,FORMOSA,El Espinillo,NO
+2887,FORMOSA,Laguna Gallo,NO
+2888,CABA,PARQUE CHACABUCO,SI
+2889,FORMOSA,Misión Tacaagle,NO
+2890,FORMOSA,Portón Negro,NO
+2891,FORMOSA,Tres Lagunas,NO
+2892,FORMOSA,Clorinda,SI
+2893,FORMOSA,Laguna Blanca,SI
+2894,CABA,VILLA LUGANO,SI
+2895,ENTRE RIOS,Pueblo General Belgrano,NO
+2896,ENTRE RIOS,Urdinarrain,NO
+2897,ENTRE RIOS,Arroyo Martínez,NO
+2898,ENTRE RIOS,Ceibas,NO
+2899,ENTRE RIOS,Ibicuy,SI
+2900,ENTRE RIOS,Médanos,NO
+2901,ENTRE RIOS,Ñancay,NO
+2902,CORDOBA,Saldán,SI
+2903,CORDOBA,Salsipuedes,SI
+2904,CORDOBA,Santa Elena,NO
+2905,CORDOBA,Tinoco,NO
+2906,CORDOBA,Unquillo,SI
+2907,CORDOBA,Villa Allende,SI
+2908,CORDOBA,Villa Cerro Azul,NO
+2909,CORDOBA,Villa Corazon De Maria,NO
+2910,CORDOBA,Villa El Fachinal - Parque Norte - Guiñazú Norte,NO
+2911,CORDOBA,Villa Los Llanos - Juárez Celman,SI
+2912,CORDOBA,Villa Pastora,NO
+2913,CORDOBA,Alto de los Quebrachos,NO
+2914,CORDOBA,Bañado de Soto,NO
+2915,CABA,BALVANERA,SI
+2916,CORDOBA,Villa de Soto,SI
+2917,CORDOBA,Del Campillo,NO
+2918,CORDOBA,Estación Lecueder,NO
+2919,CORDOBA,Hipólito Bouchard,NO
+2920,CORDOBA,Huinca Renancó,SI
+2921,CORDOBA,Italó,NO
+2922,CORDOBA,Mattaldi,NO
+2923,CORDOBA,Nicolás Bruzzone,NO
+2924,CORDOBA,Onagoity,NO
+2925,CORDOBA,Pincén,NO
+2926,CORDOBA,Ranqueles,NO
+2927,CORDOBA,Santa Magdalena (Est. Jovita),SI
+2928,CORDOBA,Villa Huidobro,SI
+2929,CORDOBA,Villa Sarmiento,NO
+2930,CORDOBA,Villa Valeria,NO
+2931,CORDOBA,Arroyo Algodón,SI
+2932,CORDOBA,Arroyo Cabral,SI
+2933,CORDOBA,Ausonia,SI
+2934,CORDOBA,Villa Cura Brochero,SI
+2935,CORDOBA,Villa Sarmiento,NO
+2936,CORDOBA,Conlara,NO
+2937,CORDOBA,Cruz Caña,NO
+2938,CORDOBA,Dos Arroyos,NO
+2939,CORDOBA,El Pantanillo,NO
+2940,CORDOBA,El Pueblito,NO
+2941,CORDOBA,El Valle,NO
+2942,CORDOBA,La Paz,NO
+2943,CORDOBA,La Población,NO
+2944,CORDOBA,La Ramada,NO
+2945,CORDOBA,La Travesía,NO
+2946,CORDOBA,Las Chacras,SI
+2947,CORDOBA,Las Tapias,NO
+2948,CORDOBA,Loma Bola,NO
+2949,CORDOBA,Los Cerrillos,NO
+2950,CORDOBA,Los Hornillos,NO
+2951,CORDOBA,Los Molles,NO
+2952,CORDOBA,Los Romeros,NO
+2953,CABA,VILLA REAL,SI
+2954,CORDOBA,Chazón,NO
+2955,CORDOBA,Etruria,NO
+2956,CORDOBA,La Laguna,NO
+2957,CORDOBA,La Palestina,NO
+2958,CORDOBA,La Playosa,NO
+2959,CORDOBA,Las Mojarras,NO
+2960,CORDOBA,Luca,NO
+2961,CABA,VILLA DEL PARQUE,SI
+2962,CORDOBA,Luyaba,NO
+2963,CORDOBA,Quebracho Ladeado,NO
+2964,CORDOBA,Quebrada de los Pozos,NO
+2965,CORDOBA,San Javier y Yacanto,NO
+2966,CORDOBA,San José,NO
+2967,CORDOBA,Villa de las Rosas,NO
+2968,CABA,VILLA DEVOTO,SI
+2969,ENTRE RIOS,General Almada,NO
+2970,ENTRE RIOS,Gilbert,NO
+2971,ENTRE RIOS,Gualeguaychú,SI
+2972,ENTRE RIOS,Irazusta,NO
+2973,ENTRE RIOS,Larroque,SI
+2974,ENTRE RIOS,Pastor Britos,NO
+2975,BUENOS AIRES,Los Toldos,SI
+2976,BUENOS AIRES,San Emilio,NO
+2977,BUENOS AIRES,Zavalía,NO
+2978,BUENOS AIRES,Banderaló,NO
+2979,BUENOS AIRES,Cañada Seca,NO
+2980,BUENOS AIRES,Coronel Charlone,SI
+2981,BUENOS AIRES,Emilio V. Bunge,NO
+2982,BUENOS AIRES,General Villegas (Est. Villegas),SI
+2983,BUENOS AIRES,Massey (Est. Elordi),NO
+2984,BUENOS AIRES,Pichincha,NO
+2985,BUENOS AIRES,Piedritas,SI
+2986,BUENOS AIRES,Santa Eleodora,NO
+2987,BUENOS AIRES,Santa Regina,NO
+2988,BUENOS AIRES,Tortuguitas,NO
+2989,BUENOS AIRES,Agustín Roca,SI
+2990,BUENOS AIRES,Agustina,SI
+2991,BUENOS AIRES,Balneario Laguna de Gómez,NO
+2992,BUENOS AIRES,Fortín Tiburcio,NO
+2993,BUENOS AIRES,Junín,SI
+2994,BUENOS AIRES,Laplacette,SI
+2995,BUENOS AIRES,Morse,SI
+2996,BUENOS AIRES,Paraje La Agraria,NO
+2997,BUENOS AIRES,Saforcada,NO
+2998,BUENOS AIRES,Aguas Verdes,SI
+2999,CABA,PATERNAL,SI
+3000,CORRIENTES,Bella Vista,NO
+3001,CORRIENTES,Berón de Astrada,NO
+3002,CORRIENTES,Yahapé,NO
+3003,CORRIENTES,Barrio Esperanza,NO
+3004,CORRIENTES,Corrientes,SI
+3005,BUENOS AIRES,Haedo,SI
+3006,BUENOS AIRES,Moron,SI
+3007,BUENOS AIRES,Villa Sarmiento,SI
+3008,BUENOS AIRES,José Juan Almeyra,NO
+3009,BUENOS AIRES,Las Marianas,NO
+3010,BUENOS AIRES,Navarro,SI
+3011,BUENOS AIRES,Villa Moll (Est. Moll),SI
+3012,BUENOS AIRES,Claraz,NO
+3013,BUENOS AIRES,Sierra Chica,NO
+3014,BUENOS AIRES,Sierras Bayas,NO
+3015,BUENOS AIRES,Villa Alfredo Fortabat,NO
+3016,BUENOS AIRES,Villa Arrieta,NO
+3017,BUENOS AIRES,Villa La Serranía,NO
+3018,BUENOS AIRES,Bahía San Blas,NO
+3019,BUENOS AIRES,Cardenal Cagliero,NO
+3020,BUENOS AIRES,Carmen de Patagones,SI
+3021,BUENOS AIRES,José B. Casas,NO
+3022,BUENOS AIRES,Juan A. Pradere,NO
+3023,BUENOS AIRES,Stroeder,SI
+3024,BUENOS AIRES,Villalonga,SI
+3025,BUENOS AIRES,Capitán Castro,NO
+3026,BUENOS AIRES,Chiclana,NO
+3027,CABA,VILLA CRESPO,SI
+3028,CORDOBA,Villa Dolores,SI
+3029,CORDOBA,Villa La Viña,NO
+3030,CORDOBA,Alicia,SI
+3031,CORDOBA,Altos de Chipión,NO
+3032,BUENOS AIRES,Claromecó,SI
+3033,BUENOS AIRES,Copetonas,SI
+3034,BUENOS AIRES,Dunamar,NO
+3035,BUENOS AIRES,Lin Calel,NO
+3036,BUENOS AIRES,Micaela Cascallares (Est. Cascallares),SI
+3037,BUENOS AIRES,Orense,SI
+3038,BUENOS AIRES,Reta,NO
+3039,BUENOS AIRES,San Francisco de Bellocq,NO
+3040,BUENOS AIRES,San Mayol,NO
+3041,BUENOS AIRES,Tres Arroyos,SI
+3042,BUENOS AIRES,Villa Rodríguez (Est. Barrow),NO
+3043,BUENOS AIRES,Loma Hermosa,SI
+3044,BUENOS AIRES,Martín Coronado,SI
+3045,BUENOS AIRES,Pablo Podestá,SI
+3046,BUENOS AIRES,Remedios De Escalada,SI
+3047,BUENOS AIRES,Saenz Peña,SI
+3048,BUENOS AIRES,Santos Lugares,SI
+3049,BUENOS AIRES,Villa Bosch (Est. Juan Maria Bosch),SI
+3050,BUENOS AIRES,Don Bosco,SI
+3051,BUENOS AIRES,Ezpeleta,SI
+3052,BUENOS AIRES,Ezpeleta Oeste,SI
+3053,BUENOS AIRES,Quilmes,SI
+3054,BUENOS AIRES,Quilmes Oeste,SI
+3055,BUENOS AIRES,San Francisco Solano,SI
+3056,BUENOS AIRES,11 De Septiembre,SI
+3057,BUENOS AIRES,Caseros,SI
+3058,BUENOS AIRES,Churruca,SI
+3059,BUENOS AIRES,Ciudad Jardín Lomas del Palomar,SI
+3060,BUENOS AIRES,Ciudadela,SI
+3061,BUENOS AIRES,El Libertador,NO
+3062,BUENOS AIRES,Jose Ingenieros,SI
+3063,CORDOBA,Pasco,SI
+3064,CORDOBA,Sanabria,NO
+3065,CORDOBA,Silvio Pellico,NO
+3066,CORDOBA,Ticino,SI
+3067,CORDOBA,Tío Pujio,SI
+3068,CORDOBA,Villa Albertina,NO
+3069,CORDOBA,Villa María,SI
+3070,CORDOBA,Villa Nueva,SI
+3071,CORDOBA,Villa Oeste,NO
+3072,CORDOBA,Avellaneda,NO
+3073,CORDOBA,Cañada de Río Pinto,NO
+3074,CORDOBA,Chuña,NO
+3075,CORDOBA,Copacabana,NO
+3076,CABA,PUERTO MADERO,SI
+3077,CORDOBA,Deán Funes,SI
+3078,CORDOBA,Esquina del Alambre,NO
+3079,CORDOBA,Los Chañaritos,NO
+3080,CORDOBA,Los Pozos,NO
+3081,CORDOBA,Olivares de San Nicolás,NO
+3082,CORDOBA,Quilino,SI
+3083,CORDOBA,San Pedro de Toyos,NO
+3084,CORDOBA,Villa Gutiérrez,NO
+3085,BUENOS AIRES,Barrio Parque Almirante Irizar (Ap. Kilómetro 61),NO
+3086,BUENOS AIRES,Club de Campo Larena - Los Quinchos,NO
+3087,BUENOS AIRES,Country Club El Jagüel,NO
+3088,BUENOS AIRES,Del Viso,SI
+3089,BUENOS AIRES,Fátima,SI
+3090,BUENOS AIRES,La Lonja,SI
+3091,BUENOS AIRES,Los Cachorros,NO
+3092,BUENOS AIRES,Manzanares,SI
+3093,BUENOS AIRES,Manzone,NO
+3094,BUENOS AIRES,Maquinista F. Savio (oeste),NO
+3095,CABA,RETIRO,SI
+3096,CORDOBA,Villa Quilino,SI
+3097,CORDOBA,Alejandro Roca (Est. Alejandro),NO
+3098,CORDOBA,Assunta,NO
+3099,CORDOBA,Bengolea,SI
+3100,CORDOBA,Carnerillo,SI
+3101,BUENOS AIRES,Huanguelén,SI
+3102,BUENOS AIRES,Pasman,NO
+3103,BUENOS AIRES,San José,SI
+3104,BUENOS AIRES,Santa María,SI
+3105,BUENOS AIRES,Santa Trinidad,SI
+3106,BUENOS AIRES,Villa La Arcadia,SI
+3107,BUENOS AIRES,Andant,NO
+3108,BUENOS AIRES,Arboledas,NO
+3109,BUENOS AIRES,Daireaux,NO
+3110,BUENOS AIRES,La Larga,NO
+3111,BUENOS AIRES,La Manuela,NO
+3112,BUENOS AIRES,Salazar,NO
+3113,BUENOS AIRES,Dolores,SI
+3114,BUENOS AIRES,Sevigne,NO
+3115,BUENOS AIRES,Cadret,NO
+3116,BUENOS AIRES,Carlos Casares,SI
+3117,BUENOS AIRES,Colonia Mauricio,NO
+3118,BUENOS AIRES,Hortensia,NO
+3119,BUENOS AIRES,La Sofía,NO
+3120,BUENOS AIRES,Mauricio Hirsch,NO
+3121,BUENOS AIRES,Moctezuma,NO
+3122,BUENOS AIRES,Ordoqui,NO
+3123,BUENOS AIRES,Santo Tomás,NO
+3124,BUENOS AIRES,Smith,NO
+3125,BUENOS AIRES,Carlos Tejedor,SI
+3126,BUENOS AIRES,Colonia Seré,NO
+3127,BUENOS AIRES,Curarú,NO
+3128,BUENOS AIRES,Timote,NO
+3129,BUENOS AIRES,Tres Algarrobos (Est. Cuenca),NO
+3130,SAN JUAN,Villa El Salvador - Villa Sefair,NO
+3131,SAN JUAN,Villa Sefair (Talacasto),NO
+3132,BUENOS AIRES,Barrio San Cayetano,SI
+3133,BUENOS AIRES,Chascomús,SI
+3134,BUENOS AIRES,Laguna Vitel,NO
+3135,BUENOS AIRES,Manuel J. Cobo (Est. Lezama),NO
+3136,BUENOS AIRES,Villa Parque Girado,NO
+3137,BUENOS AIRES,Benitez,NO
+3138,BUENOS AIRES,Chivilcoy,SI
+3139,BUENOS AIRES,Emilio Ayarza,NO
+3140,BUENOS AIRES,Gorostiaga,NO
+3141,BUENOS AIRES,La Rica,NO
+3142,BUENOS AIRES,Moquehuá,SI
+3143,BUENOS AIRES,Ramón Biaus,NO
+3144,JUJUY,Barrios,SI
+3145,JUJUY,Cangrejillos,SI
+3146,BUENOS AIRES,Carmen de Areco,NO
+3147,BUENOS AIRES,Pueblo Gouin,NO
+3148,BUENOS AIRES,Tres Sargentos,NO
+3149,BUENOS AIRES,Castelli,SI
+3150,BUENOS AIRES,Centro Guerrero,SI
+3151,BUENOS AIRES,Cerro de la Gloria,SI
+3152,BUENOS AIRES,Castilla,NO
+3153,BUENOS AIRES,Chacabuco,SI
+3154,BUENOS AIRES,Los Angeles,NO
+3155,BUENOS AIRES,O'Higgins,SI
+3156,BUENOS AIRES,Rawson,SI
+3157,BUENOS AIRES,Barrio Lomas Altas,NO
+3158,BUENOS AIRES,Villa Saboya,NO
+3159,BUENOS AIRES,Villa Sauze,NO
+3160,BUENOS AIRES,Arroyo Venado,NO
+3161,BUENOS AIRES,Casbas,NO
+3162,BUENOS AIRES,Garré,SI
+3163,BUENOS AIRES,Guaminí,SI
+3164,BUENOS AIRES,Laguna Alsina (Est. Bonifacio),SI
+3165,BUENOS AIRES,Henderson,NO
+3166,BUENOS AIRES,Herrera Vegas,NO
+3167,BUENOS AIRES,Hurlingham,SI
+3168,JUJUY,El Cóndor,NO
+3169,JUJUY,La Intermedia,SI
+3170,SAN JUAN,Villa Tacu,NO
+3171,SAN LUIS,Balde De Azcurra,NO
+3172,BUENOS AIRES,Villa Santos Tesei,SI
+3173,BUENOS AIRES,William C. Morris,SI
+3174,BUENOS AIRES,Ituzaingó Centro,SI
+3175,BUENOS AIRES,Ituzaingó Sur,NO
+3176,BUENOS AIRES,Villa Gobernador Udaondo,SI
+3177,BUENOS AIRES,Del Viso,NO
+3178,BUENOS AIRES,José C Paz,SI
+3179,BUENOS AIRES,Costa Bonita,NO
+3180,BUENOS AIRES,Energía,NO
+3181,BUENOS AIRES,Juan N. Fernández,NO
+3182,BUENOS AIRES,Necochea - Quequén,SI
+3183,BUENOS AIRES,Nicanor Olivera (Est. La Dulce),NO
+3184,BUENOS AIRES,Ramón Santamarina,NO
+3185,BUENOS AIRES,Blancagrande,NO
+3186,BUENOS AIRES,Colonia Hinojo,NO
+3187,BUENOS AIRES,Colonia Nievas,NO
+3188,BUENOS AIRES,Colonia San Miguel,NO
+3189,BUENOS AIRES,Espigas,NO
+3190,BUENOS AIRES,Hinojo,NO
+3191,BUENOS AIRES,Olavarría,SI
+3192,BUENOS AIRES,Recalde,NO
+3193,BUENOS AIRES,Santa Luisa,NO
+3194,BUENOS AIRES,San Sebastián,NO
+3195,BUENOS AIRES,Colón,SI
+3196,BUENOS AIRES,El Arbolito,NO
+3197,BUENOS AIRES,Pearson,NO
+3198,BUENOS AIRES,Sarasa,NO
+3199,BUENOS AIRES,Villa Manuel Pomar,NO
+3200,BUENOS AIRES,Bajo Hondo,SI
+3201,BUENOS AIRES,Balneario Pehuen Co,NO
+3202,BUENOS AIRES,Pago Chico,NO
+3203,BUENOS AIRES,Punta Alta (Est Almirante Solier),SI
+3204,BUENOS AIRES,Villa del Mar,NO
+3205,BUENOS AIRES,Villa General Arias (Est. Kilómetro 638),SI
+3206,BUENOS AIRES,Aparicio,NO
+3207,BUENOS AIRES,Balneario Marisol,SI
+3208,BUENOS AIRES,Coronel Dorrego,NO
+3209,BUENOS AIRES,El Perdido (Est. José A. Guisasola),SI
+3210,BUENOS AIRES,Faro,NO
+3211,BUENOS AIRES,Irene,NO
+3212,BUENOS AIRES,Oriente,SI
+3213,BUENOS AIRES,Paraje La Ruta,NO
+3214,BUENOS AIRES,San Román,NO
+3215,BUENOS AIRES,Coronel Pringles (Est. Pringles),SI
+3216,BUENOS AIRES,El Divisorio,NO
+3217,BUENOS AIRES,El Pensamiento,NO
+3218,BUENOS AIRES,Indio Rico,SI
+3219,BUENOS AIRES,Lartigau,NO
+3220,BUENOS AIRES,Cascadas,NO
+3221,BUENOS AIRES,Coronel Suárez,SI
+3222,BUENOS AIRES,Cura Malal,NO
+3223,BUENOS AIRES,D'Orbigny,NO
+3224,BUENOS AIRES,Las Toninas,SI
+3225,BUENOS AIRES,Lucila Del Mar,SI
+3226,BUENOS AIRES,Mar de Ajó - San Bernardo,SI
+3227,BUENOS AIRES,San Clemente del Tuyú,SI
+3228,BUENOS AIRES,Santa Teresita - Mar del Tuyú,SI
+3229,BUENOS AIRES,20 De Junio,NO
+3230,BUENOS AIRES,Aldo Bonzi,NO
+3231,BUENOS AIRES,Estela,NO
+3232,BUENOS AIRES,Felipe Solá,NO
+3233,BUENOS AIRES,López Lecube,NO
+3234,BUENOS AIRES,Francisco Madero,NO
+3235,BUENOS AIRES,Inocencio Sosa,NO
+3236,BUENOS AIRES,Juan José Paso,SI
+3237,BUENOS AIRES,Magdala,NO
+3238,BUENOS AIRES,Mones Cazón,NO
+3239,BUENOS AIRES,Nueva Plata,NO
+3240,BUENOS AIRES,Pehuajó,SI
+3241,BUENOS AIRES,San Bernardo (Est. Guanaco),NO
+3242,BUENOS AIRES,San Esteban,NO
+3243,BUENOS AIRES,Bocayuva,NO
+3244,BUENOS AIRES,De Bary,NO
+3245,BUENOS AIRES,Pellegrini,NO
+3246,BUENOS AIRES,Acevedo,NO
+3247,BUENOS AIRES,Fontezuela,SI
+3248,BUENOS AIRES,Guerrico,NO
+3249,BUENOS AIRES,Ciudad Evita,SI
+3250,BUENOS AIRES,Gonzalez Catán,SI
+3251,BUENOS AIRES,Gregorio De Laferrere,SI
+3252,BUENOS AIRES,Isidro Casanova,SI
+3253,BUENOS AIRES,La Tablada,SI
+3254,BUENOS AIRES,Lomas Del Mirador,SI
+3255,BUENOS AIRES,Juan A. de la Peña,NO
+3256,BUENOS AIRES,Juan Anchorena (Est. Urquiza),SI
+3257,BUENOS AIRES,La Violeta,NO
+3258,BUENOS AIRES,Manuel Ocampo,SI
+3259,BUENOS AIRES,Mariano Benítez,NO
+3260,BUENOS AIRES,Mariano H. Alfonzo (Est. San Patricio),NO
+3261,BUENOS AIRES,Pergamino,SI
+3262,BUENOS AIRES,Pinzón,NO
+3263,BUENOS AIRES,Rancagua,SI
+3264,BUENOS AIRES,Villa Angélica (Est. El Socorro),NO
+3265,BUENOS AIRES,Villa San José,SI
+3266,BUENOS AIRES,Casalins,NO
+3267,BUENOS AIRES,Pila,SI
+3268,BUENOS AIRES,Villa Raffo,SI
+3269,BUENOS AIRES,Ingeniero Thompson,NO
+3270,BUENOS AIRES,Tres Lomas,SI
+3271,BUENOS AIRES,Carapachay,SI
+3272,BUENOS AIRES,Florida,SI
+3273,BUENOS AIRES,Florida Oeste,SI
+3274,BUENOS AIRES,La Lucila,SI
+3275,BUENOS AIRES,Munro,SI
+3276,BUENOS AIRES,Olivos,SI
+3277,BUENOS AIRES,Vicente López,SI
+3278,BUENOS AIRES,Villa Adelina,SI
+3279,BUENOS AIRES,Villa Martelli,SI
+3280,BUENOS AIRES,Mar Azul,NO
+3281,BUENOS AIRES,Mar De Las Pampas,NO
+3282,BUENOS AIRES,Villa Gesell,SI
+3283,BUENOS AIRES,Argerich,NO
+3284,BUENOS AIRES,Colonia San Adolfo,NO
+3285,BUENOS AIRES,Country Los Medanos,NO
+3286,BUENOS AIRES,Hilario Ascasubi,NO
+3287,BUENOS AIRES,Juan Cousté (Est. Algarrobo),NO
+3288,BUENOS AIRES,Mayor Buratovich,SI
+3289,BUENOS AIRES,Médanos,NO
+3290,BUENOS AIRES,Pedro Luro,SI
+3291,BUENOS AIRES,Teniente Origone,NO
+3292,BUENOS AIRES,Barrio Saavedra,NO
+3293,BUENOS AIRES,Country Club El Casco,NO
+3294,BUENOS AIRES,Escalada,NO
+3295,BUENOS AIRES,Lima,SI
+3296,MENDOZA,Las Violetas,NO
+3297,MENDOZA,Villa Tulumaya,SI
+3298,CABA,SAN TELMO,SI
+3299,CORDOBA,Guatimozín,NO
+3300,CORDOBA,Inriville,NO
+3301,CORDOBA,Isla Verde,SI
+3302,CORDOBA,Leones,SI
+3303,CORDOBA,Taninga,NO
+3304,CORDOBA,Villa de Pocho,NO
+3305,BUENOS AIRES,Rafael Castillo,SI
+3306,BUENOS AIRES,Ramos Mejía,SI
+3307,BUENOS AIRES,San Justo,SI
+3308,BUENOS AIRES,Tapiales,SI
+3309,BUENOS AIRES,Villa Eduardo Madero,SI
+3310,SAN LUIS,Las Chacras,NO
+3311,SAN LUIS,Las Lagunas,NO
+3312,SAN LUIS,Los Comederos,NO
+3313,SAN LUIS,Mesilla Del Cura,NO
+3314,BUENOS AIRES,Zárate,SI
+3315,CABA,CONSTITUCION,SI
+3316,CORDOBA,Los Surgentes,SI
+3317,CORDOBA,Marcos Juárez,SI
+3318,BUENOS AIRES,Dique Nº 1,NO
+3319,BUENOS AIRES,Ensenada,SI
+3320,BUENOS AIRES,Isla Santiago (Oeste),NO
+3321,BUENOS AIRES,Punta Lara,NO
+3322,BUENOS AIRES,Villa Catela,NO
+3323,BUENOS AIRES,Belen de Escobar,SI
+3324,BUENOS AIRES,El cazador,SI
+3325,BUENOS AIRES,Garín,SI
+3326,CATAMARCA,Vilismán,NO
+3327,BUENOS AIRES,El Jagüel,SI
+3328,BUENOS AIRES,Luis Guillón,SI
+3329,BUENOS AIRES,Monte Grande,SI
+3330,BUENOS AIRES,Zona Aeropuerto Internacional Ezeiza,NO
+3331,BUENOS AIRES,Arroyo de la Cruz,NO
+3332,BUENOS AIRES,Capilla del Señor (Est. Capilla),SI
+3333,BUENOS AIRES,Diego Gaynor,NO
+3334,BUENOS AIRES,El Remanso,NO
+3335,BUENOS AIRES,Los Cardales,NO
+3336,BUENOS AIRES,Villa Luzuriaga,SI
+3337,BUENOS AIRES,Virrey Del Pino,SI
+3338,BUENOS AIRES,Abasto,SI
+3339,BUENOS AIRES,Angel Etcheverry,NO
+3340,BUENOS AIRES,Arana,NO
+3341,BUENOS AIRES,Arturo Segui,NO
+3342,BUENOS AIRES,Barrio El Carmen Oeste,NO
+3343,BUENOS AIRES,Barrio El Peligro,NO
+3344,BUENOS AIRES,Barrio Gambier,NO
+3345,BUENOS AIRES,Barrio Las Malvinas,NO
+3346,BUENOS AIRES,Barrio Las Quintas,NO
+3347,BUENOS AIRES,Lomas de Copello,NO
+3348,BUENOS AIRES,City Bell,SI
+3349,BUENOS AIRES,Country Club El Rodeo,NO
+3350,BUENOS AIRES,El Retiro,SI
+3351,BUENOS AIRES,Esquina Negra,NO
+3352,BUENOS AIRES,Ignacio Correas,NO
+3353,BUENOS AIRES,Joaquin Gorina,SI
+3354,BUENOS AIRES,Jose Hernandez,SI
+3355,BUENOS AIRES,Jose Melchor Romero,NO
+3356,BUENOS AIRES,La Cumbre,NO
+3357,BUENOS AIRES,La Plata,SI
+3358,BUENOS AIRES,La Providencia,NO
+3359,BUENOS AIRES,Lisandro Olmos,NO
+3360,BUENOS AIRES,Los Hornos,SI
+3361,BUENOS AIRES,Manuel B Gonnet,SI
+3362,BUENOS AIRES,Poblet,NO
+3363,BUENOS AIRES,Ringuelet,SI
+3364,BUENOS AIRES,Rufino De Elizalde,NO
+3365,BUENOS AIRES,ruta del sol,NO
+3366,BUENOS AIRES,ruta del sol,NO
+3367,BUENOS AIRES,Tolosa,SI
+3368,BUENOS AIRES,Transradio,NO
+3369,BUENOS AIRES,Villa Elisa,SI
+3370,BUENOS AIRES,Villa Elvira,SI
+3371,BUENOS AIRES,Villa Garibaldi,NO
+3372,BUENOS AIRES,Villa Montoro,NO
+3373,BUENOS AIRES,Pilar,SI
+3374,BUENOS AIRES,Presidente Derqui,SI
+3375,BUENOS AIRES,Roberto De Vicenzo,NO
+3376,BUENOS AIRES,Santa Teresa,NO
+3377,BUENOS AIRES,Tortuguitas,SI
+3378,BUENOS AIRES,Villa Astolfi,SI
+3379,BUENOS AIRES,Villa Rosa,SI
+3380,BUENOS AIRES,Zelaya,NO
+3381,BUENOS AIRES,Carilo,NO
+3382,BUENOS AIRES,Ostende,NO
+3383,BUENOS AIRES,Pinamar,SI
+3384,BUENOS AIRES,Valeria Del Mar,NO
+3385,BUENOS AIRES,Barrio America Unida,NO
+3386,BUENOS AIRES,Guernica,SI
+3387,BUENOS AIRES,17 de Agosto,NO
+3388,BUENOS AIRES,Azopardo,NO
+3389,BUENOS AIRES,Bordenave,SI
+3390,BUENOS AIRES,Darregueira,SI
+3391,BUENOS AIRES,Puán,SI
+3392,BUENOS AIRES,San Germán,NO
+3393,BUENOS AIRES,Villa Castelar (Est. Erize),NO
+3394,BUENOS AIRES,Villa Iris,SI
+3395,BUENOS AIRES,Alvarez Jonte,NO
+3396,BUENOS AIRES,Las Tahonas,NO
+3397,BUENOS AIRES,Pipinas,NO
+3398,BUENOS AIRES,Punta Indio,NO
+3399,BUENOS AIRES,Verónica,SI
+3400,BUENOS AIRES,Bernal,SI
+3401,BUENOS AIRES,Bernal Oeste,SI
+3402,CATAMARCA,La Carrera,NO
+3403,CATAMARCA,La Falda De San Antonio,NO
+3404,BUENOS AIRES,Carlos María Naón,NO
+3405,BUENOS AIRES,Dudignac,NO
+3406,BUENOS AIRES,La Aurora (Est. La Niña),NO
+3407,BUENOS AIRES,Manuel B. Gonnet (Est. French),SI
+3408,BUENOS AIRES,Marcelino Ugarte (Est. Dennehy),NO
+3409,BUENOS AIRES,Morea,NO
+3410,BUENOS AIRES,Norumbega,NO
+3411,BUENOS AIRES,Patricios,NO
+3412,BUENOS AIRES,Villa General Fournier (Est. 9 de Julio Sud),SI
+3413,BUENOS AIRES,Carhué,SI
+3414,BUENOS AIRES,Colonia San Miguel Arcángel,SI
+3415,BUENOS AIRES,Delfín Huergo,NO
+3416,BUENOS AIRES,Espartillar,NO
+3417,BUENOS AIRES,Esteban Agustín Gascón,SI
+3418,BUENOS AIRES,La Pala,NO
+3419,BUENOS AIRES,Maza,SI
+3420,BUENOS AIRES,Ingeniero Maschwitz,SI
+3421,BUENOS AIRES,Loma Verde,SI
+3422,BUENOS AIRES,Maquinista F. Savio (este),SI
+3423,BUENOS AIRES,Matheu,SI
+3424,BUENOS AIRES,Puerto Paraná,NO
+3425,BUENOS AIRES,9 De Abril,SI
+3426,BUENOS AIRES,Canning,SI
+3427,CATAMARCA,Collagasta,NO
+3428,CATAMARCA,El Hueco,SI
+3429,BUENOS AIRES,Rivera,SI
+3430,BUENOS AIRES,Thames,NO
+3431,BUENOS AIRES,Villa Margarita,NO
+3432,BUENOS AIRES,Yutuyaco,NO
+3433,BUENOS AIRES,Adolfo Gonzales Chaves (Est. Chaves),SI
+3434,BUENOS AIRES,De la Garma,SI
+3435,BUENOS AIRES,Juan E. Barra,NO
+3436,BUENOS AIRES,Vásquez,NO
+3437,BUENOS AIRES,Alberti (Est. Andrés Vaccarezza),SI
+3438,BUENOS AIRES,Coronel Seguí,NO
+3439,BUENOS AIRES,Mechita,NO
+3440,BUENOS AIRES,Pla,NO
+3441,BUENOS AIRES,Villa Grisolía (Est. Achupallas),NO
+3442,BUENOS AIRES,Villa María,NO
+3443,BUENOS AIRES,Villa Ortiz (Est. Coronel Mom),NO
+3444,MISIONES,Rincón de Azara,NO
+3445,MISIONES,San José,SI
+3446,BUENOS AIRES,Adrogué,SI
+3447,BUENOS AIRES,Burzaco,SI
+3448,BUENOS AIRES,Claypole,SI
+3449,BUENOS AIRES,Don Orione,NO
+3450,BUENOS AIRES,Glew,SI
+3451,BUENOS AIRES,Jose Mármol,SI
+3452,CATAMARCA,La Tercena,NO
+3453,BUENOS AIRES,Longchamps,SI
+3454,BUENOS AIRES,Malvinas Argentinas,SI
+3455,BUENOS AIRES,Ministro Rivadavia,SI
+3456,BUENOS AIRES,Rafael Calzada,SI
+3457,BUENOS AIRES,San Francisco Solano,SI
+3458,BUENOS AIRES,San Jose,SI
+3459,MISIONES,Tres Capones,NO
+3460,MISIONES,1º de Mayo,NO
+3461,BUENOS AIRES,Parada Orlando,NO
+3462,BUENOS AIRES,Parada Robles - Pavón,SI
+3463,BUENOS AIRES,Aeropuerto Internacional Ezeiza,SI
+3464,BUENOS AIRES,Canning,SI
+3465,BUENOS AIRES,Carlos Spegazzini,SI
+3466,BUENOS AIRES,José Maria Ezeiza,SI
+3467,BUENOS AIRES,La Unión,SI
+3468,MISIONES,Nueva Delicia,NO
+3469,MISIONES,Pueblo Nuevo,NO
+3470,BUENOS AIRES,Tristán Suarez,SI
+3471,BUENOS AIRES,Bosques,SI
+3472,BUENOS AIRES,El Tropezon,NO
+3473,BUENOS AIRES,Estanislao Severo Zeballos,SI
+3474,BUENOS AIRES,Florencio Varela,SI
+3475,BUENOS AIRES,Gobernador Julio A. Costa,SI
+3476,BUENOS AIRES,Ingeniero Juan Allan,SI
+3477,BUENOS AIRES,La Capilla,SI
+3478,BUENOS AIRES,Villa Parque Sicardi,NO
+3479,BUENOS AIRES,Gerli,SI
+3480,BUENOS AIRES,Lanús Este,SI
+3481,BUENOS AIRES,Lanús Oeste,SI
+3482,BUENOS AIRES,Monte Chingolo,SI
+3483,BUENOS AIRES,Remedios Escalada De San Martin,SI
+3484,BUENOS AIRES,Valentín Alsina,SI
+3485,BUENOS AIRES,Laprida,SI
+3486,BUENOS AIRES,Pueblo Nuevo,NO
+3487,BUENOS AIRES,Pueblo San Jorge,NO
+3488,BUENOS AIRES,Coronel Boerr,NO
+3489,BUENOS AIRES,El Trigo,SI
+3490,BUENOS AIRES,Las Flores,SI
+3491,BUENOS AIRES,Pardo,NO
+3492,BUENOS AIRES,Alberdi Viejo,NO
+3493,BUENOS AIRES,El Dorado,NO
+3494,BUENOS AIRES,Fortín Acha,NO
+3495,BUENOS AIRES,Juan Bautista Alberdi (Est. Alberdi),SI
+3496,BUENOS AIRES,Leandro N. Alem,NO
+3497,BUENOS AIRES,Vedia,SI
+3498,CATAMARCA,Pomancillo Este,NO
+3499,BUENOS AIRES,Villa La Florida,SI
+3500,BUENOS AIRES,El Paraíso,NO
+3501,BUENOS AIRES,Las Bahamas,NO
+3502,BUENOS AIRES,Pérez Millán,SI
+3503,BUENOS AIRES,Ramallo,SI
+3504,BUENOS AIRES,Villa General Savio (Est. Sánchez),NO
+3505,BUENOS AIRES,Villa Ramallo,SI
+3506,BUENOS AIRES,Rauch,SI
+3507,BUENOS AIRES,América,SI
+3508,BUENOS AIRES,Fortín Olavarría,SI
+3509,BUENOS AIRES,González Moreno,NO
+3510,BUENOS AIRES,Mira Pampa,NO
+3511,BUENOS AIRES,Roosevelt,NO
+3512,BUENOS AIRES,San Mauricio,NO
+3513,BUENOS AIRES,Sansinena,SI
+3514,BUENOS AIRES,Sundblad,NO
+3515,BUENOS AIRES,Barrio Las Margaritas,NO
+3516,BUENOS AIRES,La Beba,NO
+3517,BUENOS AIRES,Las Carabelas,SI
+3518,BUENOS AIRES,Los Indios,NO
+3519,BUENOS AIRES,Rafael Obligado,NO
+3520,BUENOS AIRES,Roberto Cano,NO
+3521,BUENOS AIRES,Rojas,SI
+3522,BUENOS AIRES,Sol de Mayo,NO
+3523,BUENOS AIRES,Villa Manuel Pomar,NO
+3524,BUENOS AIRES,Villa Parque Cecir,NO
+3525,BUENOS AIRES,Carlos Beguerie,NO
+3526,CATAMARCA,Pomancillo Oeste,NO
+3527,CATAMARCA,San Antonio,SI
+3528,BUENOS AIRES,Arrecifes,SI
+3529,BUENOS AIRES,Todd,SI
+3530,BUENOS AIRES,Viña,NO
+3531,BUENOS AIRES,Area Reserva Cinturón Ecológico,NO
+3532,BUENOS AIRES,Avellaneda,SI
+3533,BUENOS AIRES,Crucesita,SI
+3534,BUENOS AIRES,Dock Sud,SI
+3535,BUENOS AIRES,Gerli,SI
+3536,BUENOS AIRES,Villa Brown,SI
+3537,BUENOS AIRES,Villa San Luis,NO
+3538,BUENOS AIRES,Villa Santa Rosa,SI
+3539,BUENOS AIRES,Villa Vatteone,SI
+3540,BUENOS AIRES,Blaquier,NO
+3541,BUENOS AIRES,Florentino Ameghino,SI
+3542,BUENOS AIRES,Porvenir,NO
+3543,BUENOS AIRES,Centinela del Mar,NO
+3544,BUENOS AIRES,Comandante Nicanor Otamendi,SI
+3545,BUENOS AIRES,Mar del Sur,NO
+3546,BUENOS AIRES,Mechongué,NO
+3547,CATAMARCA,La Viña,NO
+3548,CATAMARCA,Las Lajas,NO
+3549,CATAMARCA,Monte Potrero,NO
+3550,BUENOS AIRES,Arenaza,SI
+3551,BUENOS AIRES,Bayauca,NO
+3552,BUENOS AIRES,Bermúdez,NO
+3553,BUENOS AIRES,Carlos Salas,NO
+3554,BUENOS AIRES,Coronel Martínez de Hoz (Ap. Kilómetro 322),NO
+3555,BUENOS AIRES,El Triunfo,SI
+3556,BUENOS AIRES,Las Toscas,NO
+3557,BUENOS AIRES,Lincoln,SI
+3558,BUENOS AIRES,Pasteur,NO
+3559,BUENOS AIRES,Roberts,SI
+3560,BUENOS AIRES,Triunvirato,NO
+3561,BUENOS AIRES,Arenas Verdes,NO
+3562,BUENOS AIRES,Licenciado Matienzo,NO
+3563,BUENOS AIRES,Lobería,SI
+3564,BUENOS AIRES,Pieres,NO
+3565,BUENOS AIRES,Roque Pérez,SI
+3566,BUENOS AIRES,Arroyo Corto,SI
+3567,BUENOS AIRES,Colonia San Martín,NO
+3568,BUENOS AIRES,Dufaur,NO
+3569,BUENOS AIRES,Espartillar,SI
+3570,BUENOS AIRES,Goyena,SI
+3571,BUENOS AIRES,Las Encadenadas,NO
+3572,BUENOS AIRES,Pigüé,SI
+3573,BUENOS AIRES,Saavedra,SI
+3574,BUENOS AIRES,Alvarez de Toledo,SI
+3575,BUENOS AIRES,Blaquier,NO
+3576,BUENOS AIRES,Cazón,SI
+3577,BUENOS AIRES,Del Carril,NO
+3578,BUENOS AIRES,Polvaredas,NO
+3579,MISIONES,Puerto Mado,NO
+3580,MISIONES,Puerto Pinares,NO
+3581,CABA,SAN CRISTOBAL,SI
+3582,CATAMARCA,Fiambalá,SI
+3583,CATAMARCA,La Puntilla,NO
+3584,CATAMARCA,La Ramadita,NO
+3585,CATAMARCA,Los Balverdis,NO
+3586,CATAMARCA,Medanitos,NO
+3587,CATAMARCA,Palo Blanco,NO
+3588,CATAMARCA,Pampa Blanca,NO
+3589,CATAMARCA,Punta del Agua,NO
+3590,CATAMARCA,Saujil,NO
+3591,CATAMARCA,Tatón,NO
+3592,CABA,LINIERS,SI
+3593,CORDOBA,Capilla del Monte,NO
+3594,CORDOBA,Casa Grande,NO
+3595,CORDOBA,Charbonier,NO
+3596,CORDOBA,Cosquín,NO
+3597,CORDOBA,Cuesta Blanca,NO
+3598,CORDOBA,Estancia Vieja,NO
+3599,CORDOBA,Huerta Grande,SI
+3600,CABA,COGHLAN,SI
+3601,CORDOBA,Despeñaderos,SI
+3602,CORDOBA,Dique Chico,NO
+3603,CORDOBA,El Potrerillo,NO
+3604,CORDOBA,Falda del Cañete,NO
+3605,CORDOBA,Falda del Carmen,NO
+3606,CORDOBA,José de la Quintana,NO
+3607,CORDOBA,La Boca del Río,NO
+3608,CORDOBA,La Carbonada,NO
+3609,CORDOBA,La Cumbrecita,NO
+3610,CORDOBA,La Donosa,NO
+3611,CABA,VILLA ORTUZAR,SI
+3612,CATAMARCA,Chuchucaruana,NO
+3613,CATAMARCA,Colpes,NO
+3614,CATAMARCA,El Bolsón,NO
+3615,CATAMARCA,El Rodeo,NO
+3616,CATAMARCA,Huaycama,NO
+3617,CATAMARCA,La Puerta,NO
+3618,CATAMARCA,Las Chacritas,NO
+3619,CATAMARCA,Las Juntas,NO
+3620,CATAMARCA,Los Castillos,NO
+3621,CATAMARCA,Los Talas,NO
+3622,CORRIENTES,Saladas,NO
+3623,CORRIENTES,San Lorenzo,SI
+3624,CORRIENTES,Ingenio Primer Correntino,NO
+3625,CORRIENTES,Paso de la Patria,NO
+3626,CORRIENTES,San Cosme,NO
+3627,CORRIENTES,Santa Ana,NO
+3628,CORRIENTES,San Luis del Palmar,NO
+3629,CORRIENTES,Colonia Carlos Pellegrini,NO
+3630,CORRIENTES,Guaviraví,NO
+3631,CORRIENTES,La Cruz,NO
+3632,CORRIENTES,Yapeyú,NO
+3633,CORRIENTES,Loreto,NO
+3634,CORRIENTES,San Miguel,NO
+3635,CORDOBA,Toledo,SI
+3636,CORDOBA,Valle Alegre,NO
+3637,CORDOBA,Valle de Anisacate,NO
+3638,CORDOBA,Villa Ciudad de América (Loteo Diego de Rojas),NO
+3639,CORDOBA,Villa del Prado,NO
+3640,CORDOBA,Villa La Bolsa,NO
+3641,CORDOBA,Villa Los Aromos,NO
+3642,CORDOBA,Villa Parque Santa Ana,NO
+3643,CORDOBA,Villa San Isidro - José de la Quintana,NO
+3644,CORDOBA,Villa Sierras de Oro,NO
+3645,CORDOBA,Yocsina,NO
+3646,CORDOBA,Caminiaga,SI
+3647,CORDOBA,Cerro Colorado,NO
+3648,CORDOBA,Chuña Huasi,NO
+3649,CORDOBA,Pozo Nuevo,NO
+3650,CORDOBA,San Francisco del Chañar,SI
+3651,CORDOBA,Almafuerte,SI
+3652,CORDOBA,Colonia Almada,NO
+3653,CORDOBA,Corralito,SI
+3654,CORDOBA,Dalmacio Vélez,SI
+3655,CORDOBA,General Fotheringham,NO
+3656,CORDOBA,Hernando,SI
+3657,CORDOBA,James Craik,SI
+3658,CORDOBA,Las Isletillas,NO
+3659,CORDOBA,Las Perdices,NO
+3660,CORDOBA,Los Zorros,NO
+3661,CORDOBA,La Cumbre,NO
+3662,CORDOBA,La Falda,SI
+3663,CORDOBA,Las Jarillas,NO
+3664,CORDOBA,Los Cocos,NO
+3665,CORDOBA,Mallín,NO
+3666,CORDOBA,Mayu Sumaj,NO
+3667,CORDOBA,Quebrada de Luna,NO
+3668,CORDOBA,San Antonio de Arredondo,SI
+3669,CORDOBA,San Esteban,NO
+3670,CORDOBA,San Roque,SI
+3671,CORDOBA,San Roque Del Lago,NO
+3672,CORDOBA,Santa María de Punilla,SI
+3673,CORDOBA,Tala Huasi,NO
+3674,CORDOBA,Tanti,NO
+3675,CORDOBA,Las Albahacas,NO
+3676,CORDOBA,Las Higueras,SI
+3677,CORDOBA,Las Peñas,NO
+3678,CORDOBA,Las Vertientes,SI
+3679,CORDOBA,Malena,NO
+3680,CORDOBA,Monte de los Gauchos,NO
+3681,CORDOBA,Paso del Durazno,NO
+3682,CORDOBA,Río Cuarto,SI
+3683,CORDOBA,Sampacho,SI
+3684,CORDOBA,San Basilio,SI
+3685,CORDOBA,Santa Catalina (Est. Holmberg),NO
+3686,CORDOBA,Oliva,SI
+3687,CORDOBA,Pampayasta Norte,NO
+3688,CORDOBA,Pampayasta Sur,SI
+3689,CORDOBA,Punta del Agua,NO
+3690,CORDOBA,Río Tercero,SI
+3691,CORDOBA,Tancacha,NO
+3692,CORDOBA,Villa Ascasubi,NO
+3693,CORDOBA,Candelaria Sur,NO
+3694,CORDOBA,Cañada de Luque,NO
+3695,CORDOBA,Capilla de Sitón,NO
+3696,CORDOBA,La Pampa,NO
+3697,CORDOBA,La Paz,NO
+3698,CORDOBA,Las Peñas,NO
+3699,CORDOBA,Los Mistoles,NO
+3700,CORDOBA,Santa Catalina,NO
+3701,CORDOBA,La Paisanita,NO
+3702,CORDOBA,La Perla,NO
+3703,CORDOBA,La Rancherita,NO
+3704,CORDOBA,La Serranita,NO
+3705,CORDOBA,Los Cedros - Las Quintas,NO
+3706,CORDOBA,Lozada,NO
+3707,CORDOBA,Malagueño,SI
+3708,CORDOBA,Mi Valle,NO
+3709,CORDOBA,Milenica,NO
+3710,CORDOBA,Monte Ralo,NO
+3711,CORDOBA,Potrero de Garay,SI
+3712,CORDOBA,Rafael García,NO
+3713,CORDOBA,San Clemente,NO
+3714,CORDOBA,San Nicolás,NO
+3715,CORDOBA,Socavones,NO
+3716,CORDOBA,Tejas Tres,NO
+3717,CORDOBA,Tierra Alta,NO
+3718,ENTRE RIOS,La Clarita,NO
+3719,ENTRE RIOS,Pueblo Cazes,NO
+3720,ENTRE RIOS,Pueblo Liebig's,NO
+3721,ENTRE RIOS,San José,NO
+3722,ENTRE RIOS,Ubajay,SI
+3723,ENTRE RIOS,Villa Elisa,SI
+3724,ENTRE RIOS,Benito Legeren,NO
+3725,ENTRE RIOS,Calabacilla,NO
+3726,ENTRE RIOS,Clodomiro Ledesma,NO
+3727,ENTRE RIOS,Colonia Ayuí,NO
+3728,ENTRE RIOS,Colonia General Roca,NO
+3729,ENTRE RIOS,Colonia Yeruá,NO
+3730,ENTRE RIOS,Concordia,SI
+3731,ENTRE RIOS,El Redomón,NO
+3732,ENTRE RIOS,Estación Yeruá,NO
+3733,ENTRE RIOS,Estación Yuquerí,NO
+3734,ENTRE RIOS,Estancia Grande,NO
+3735,ENTRE RIOS,La Criolla,NO
+3736,ENTRE RIOS,Las Tejas,NO
+3737,ENTRE RIOS,Los Charrúas,NO
+3738,ENTRE RIOS,Nueva Escocia,NO
+3739,ENTRE RIOS,Osvaldo Magnasco,NO
+3740,ENTRE RIOS,Pedernal,NO
+3741,ENTRE RIOS,Puerto Yeruá,NO
+3742,ENTRE RIOS,Villa Adela,NO
+3743,ENTRE RIOS,VILLA ZORRAQUIN,NO
+3744,ENTRE RIOS,Aldea Brasilera,NO
+3745,ENTRE RIOS,Aldea Grapschental,NO
+3746,ENTRE RIOS,Aldea Protestante,NO
+3747,ENTRE RIOS,Aldea Salto,NO
+3748,ENTRE RIOS,Aldea San Francisco,NO
+3749,ENTRE RIOS,Aldea Spatzenkutter,NO
+3750,CORRIENTES,9 de Julio (Est. Pueblo 9 de Julio),NO
+3751,CORRIENTES,Chavarría,NO
+3752,CORRIENTES,Colonia Pando,NO
+3753,CORRIENTES,Pedro R. Fernández (Est. Manuel F. Mantilla),NO
+3754,CORRIENTES,San Roque,NO
+3755,CORRIENTES,Garruchos,NO
+3756,CORRIENTES,Gobernador Igr. Valentín Virasoro,SI
+3757,CORRIENTES,José Rafael Gómez,NO
+3758,CORRIENTES,Santo Tomé,NO
+3759,CORRIENTES,Sauce,NO
+3760,ENTRE RIOS,Arroyo Barú,SI
+3761,ENTRE RIOS,Colón,SI
+3762,ENTRE RIOS,Colonia Hugues,NO
+3763,ENTRE RIOS,El Brillante,NO
+3764,ENTRE RIOS,San Benito,NO
+3765,ENTRE RIOS,Sauce Montrull,NO
+3766,ENTRE RIOS,Sauce Pinto,NO
+3767,ENTRE RIOS,Seguí,NO
+3768,ENTRE RIOS,Sosa,NO
+3769,ENTRE RIOS,Tabossi,SI
+3770,ENTRE RIOS,Tezanos Pintos,NO
+3771,ENTRE RIOS,Viale,SI
+3772,ENTRE RIOS,Villa Fontana,NO
+3773,ENTRE RIOS,Villa Gobernador Luis F. Etchevehere,NO
+3774,ENTRE RIOS,Villa Urquiza,NO
+3775,ENTRE RIOS,General Campos,NO
+3776,ENTRE RIOS,San Salvador,SI
+3777,ENTRE RIOS,Altamirano Sur,NO
+3778,ENTRE RIOS,Durazno,NO
+3779,CHUBUT,Playa Unión,SI
+3780,CHUBUT,Rawson,SI
+3781,CHUBUT,Trelew,SI
+3782,CHUBUT,Aldea Apeleg,NO
+3783,CHUBUT,Aldea Beleiro,NO
+3784,CHUBUT,Alto Río Senguer,NO
+3785,CHUBUT,Doctor Ricardo Rojas,NO
+3786,CHUBUT,Facundo,NO
+3787,CHUBUT,Lago Blanco,NO
+3788,CHUBUT,Río Mayo,SI
+3789,CHUBUT,Buen Pasto,NO
+3790,ENTRE RIOS,Estación Arroyo Clé,NO
+3791,ENTRE RIOS,Gobernador Echagüe,NO
+3792,ENTRE RIOS,Gobernador Mansilla,NO
+3793,ENTRE RIOS,Gobernador Solá,NO
+3794,ENTRE RIOS,Guardamonte,NO
+3795,ENTRE RIOS,Las Guachas,NO
+3796,ENTRE RIOS,Maciá,NO
+3797,ENTRE RIOS,Rosario del Tala,SI
+3798,ENTRE RIOS,1º de Mayo,SI
+3799,ENTRE RIOS,Basavilbaso,SI
+3800,ENTRE RIOS,Caseros,SI
+3801,ENTRE RIOS,Colonia Elía,NO
+3802,ENTRE RIOS,Concepción del Uruguay,SI
+3803,ENTRE RIOS,Estancia San Pedro,NO
+3804,ENTRE RIOS,Herrera,NO
+3805,CHUBUT,Sarmiento,SI
+3806,CHUBUT,Frontera de Río Pico,NO
+3807,CHUBUT,Gobernador Costa,NO
+3808,CHUBUT,José de San Martín,NO
+3809,CHUBUT,Río Pico,NO
+3810,CHUBUT,Gan Gan,NO
+3811,CHUBUT,Telsen,NO
+3812,CORDOBA,Amboy,NO
+3813,CORDOBA,Arroyo San Antonio,NO
+3814,CORDOBA,Cañada del Sauce,NO
+3815,CORDOBA,Capilla Vieja,NO
+3816,CORDOBA,El Corcovado - El Torreón,NO
+3817,CORDOBA,El Durazno,NO
+3818,CORDOBA,Embalse,SI
+3819,CORDOBA,La Cruz,NO
+3820,ENTRE RIOS,Las Moscas,SI
+3821,ENTRE RIOS,Líbaros,NO
+3822,ENTRE RIOS,Pronunciamiento,SI
+3823,ENTRE RIOS,Rocamora,NO
+3824,ENTRE RIOS,Santa Anita,SI
+3825,ENTRE RIOS,Villa Mantero,SI
+3826,ENTRE RIOS,Villa San Justo,SI
+3827,ENTRE RIOS,Villa San Marcial (Est. Gobernador Urquiza),NO
+3828,ENTRE RIOS,Antelo,NO
+3829,ENTRE RIOS,Charigüé,NO
+3830,ENTRE RIOS,Laguna del Pescado,NO
+3831,ENTRE RIOS,Molino Doll,NO
+3832,ENTRE RIOS,Rincón de Nogoyá,NO
+3833,ENTRE RIOS,Victoria,SI
+3834,ENTRE RIOS,Estación Raíces,NO
+3835,ENTRE RIOS,Ingeniero Miguel Sajaroff,NO
+3836,CATAMARCA,Los Varela,NO
+3837,CATAMARCA,Singuil,NO
+3838,CATAMARCA,Ancasti,NO
+3839,CATAMARCA,Anquincila,NO
+3840,CATAMARCA,La Candelaria,NO
+3841,CATAMARCA,La Majada,NO
+3842,CATAMARCA,Aconquija,NO
+3843,CATAMARCA,Alto De Las Juntas,NO
+3844,CATAMARCA,Amanao,NO
+3845,CATAMARCA,Andalgalá,SI
+3846,CATAMARCA,Buena Vista,NO
+3847,CATAMARCA,Chaquiago,SI
+3848,CATAMARCA,Choya,NO
+3849,CATAMARCA,El Alamito,NO
+3850,CATAMARCA,El Lindero,NO
+3851,CATAMARCA,El Potrero,SI
+3852,CATAMARCA,La Aguada,SI
+3853,CATAMARCA,La Mesada,SI
+3854,CATAMARCA,Antofagasta de la Sierra,NO
+3855,CATAMARCA,Antofalla,NO
+3856,CATAMARCA,El Peñón,NO
+3857,CATAMARCA,Los Nacimientos,NO
+3858,CATAMARCA,Barranca Larga,NO
+3859,CATAMARCA,Belén,NO
+3860,CATAMARCA,Cóndor Huasi,NO
+3861,CATAMARCA,Corral Quemado,NO
+3862,CATAMARCA,El Durazno,NO
+3863,CATAMARCA,Farallón Negro,NO
+3864,CATAMARCA,Hualfín,NO
+3865,CATAMARCA,Jacipunco,NO
+3866,CATAMARCA,La Puntilla,NO
+3867,CATAMARCA,Las Juntas,NO
+3868,CATAMARCA,Londres,NO
+3869,CATAMARCA,Los Nacimientos,NO
+3870,CATAMARCA,Puerta de Corral Quemado,NO
+3871,CATAMARCA,Puerta de San José,NO
+3872,CATAMARCA,Villa Vil,NO
+3873,CATAMARCA,Adolfo E. Carranza,NO
+3874,CATAMARCA,Balde de la Punta,NO
+3875,CATAMARCA,Capayán,NO
+3876,CATAMARCA,Chumbicha,SI
+3877,CATAMARCA,Colonia del Valle,NO
+3878,CATAMARCA,Colonia Nueva Coneta,SI
+3879,CATAMARCA,Concepción,NO
+3880,CATAMARCA,Coneta,SI
+3881,CATAMARCA,El Bañado,NO
+3882,CATAMARCA,Huillapima,SI
+3883,CATAMARCA,Los Angeles,NO
+3884,CATAMARCA,Los Angeles Norte,NO
+3885,CATAMARCA,Los Angeles Sur,NO
+3886,CATAMARCA,Miraflores,SI
+3887,CATAMARCA,San Martín,NO
+3888,CATAMARCA,San Pablo,NO
+3889,CATAMARCA,San Pedro,NO
+3890,CATAMARCA,Barrio Bancario,NO
+3891,CATAMARCA,El Pantanillo,SI
+3892,CATAMARCA,San Fernando del Valle de Catamarca,SI
+3893,CATAMARCA,El Alto,NO
+3894,CATAMARCA,Guayamba,NO
+3895,CATAMARCA,Infanzón,NO
+3896,CATAMARCA,Los Corrales,NO
+3897,CATAMARCA,Tapso,NO
+3898,CATAMARCA,San José,NO
+3899,CATAMARCA,Villa Las Pirquitas,NO
+3900,CATAMARCA,Casa de Piedra,NO
+3901,CATAMARCA,El Aybal,NO
+3902,CATAMARCA,El Bañado,NO
+3903,CATAMARCA,El Divisadero,NO
+3904,CATAMARCA,El Quimilo,NO
+3905,CATAMARCA,Esquiú,NO
+3906,CATAMARCA,Icaño,NO
+3907,CATAMARCA,La Dorada,NO
+3908,CATAMARCA,La Guardia,NO
+3909,CATAMARCA,Las Esquinas,NO
+3910,CATAMARCA,Las Palmitas,NO
+3911,CATAMARCA,Quirós,NO
+3912,CATAMARCA,Ramblones,NO
+3913,CATAMARCA,Recreo,SI
+3914,CATAMARCA,San Antonio,NO
+3915,CATAMARCA,Amadores,NO
+3916,CATAMARCA,El Rosario,NO
+3917,CATAMARCA,La Bajada,NO
+3918,CATAMARCA,La Higuera,NO
+3919,CATAMARCA,La Merced,NO
+3920,ENTRE RIOS,Jubileo,SI
+3921,ENTRE RIOS,Mojones Norte,NO
+3922,ENTRE RIOS,Paso de la Laguna,NO
+3923,ENTRE RIOS,Villa Clara,SI
+3924,ENTRE RIOS,Villa Domínguez,SI
+3925,ENTRE RIOS,Villaguay,SI
+3926,FORMOSA,Fortín Soledad,NO
+3927,FORMOSA,Guadalcazar,NO
+3928,FORMOSA,La Rinconada,NO
+3929,FORMOSA,Laguna Yema,NO
+3930,FORMOSA,Lamadrid,NO
+3931,FORMOSA,Los Chiriguanos,NO
+3932,FORMOSA,Pozo de Maza,NO
+3933,FORMOSA,Pozo del Mortero,NO
+3934,FORMOSA,Vaca Perdida,NO
+3935,FORMOSA,Colonia Pastoril,NO
+3936,CATAMARCA,Tinogasta,SI
+3937,CATAMARCA,El Bañado,NO
+3938,CATAMARCA,El Portezuelo,NO
+3939,CATAMARCA,Huaycama,NO
+3940,CATAMARCA,Las Tejas,NO
+3941,CATAMARCA,Polcos,SI
+3942,CATAMARCA,Pozo Del Mistol,SI
+3943,CATAMARCA,San Isidro,SI
+3944,CATAMARCA,Santa Cruz,NO
+3945,CATAMARCA,Santa Rosa,SI
+3946,CATAMARCA,Sumalao,SI
+3947,CATAMARCA,Villa Dolores,SI
+3948,CHACO,Gancedo,SI
+3949,CHACO,General Capdevila,NO
+3950,CHACO,General Pinedo,SI
+3951,CHACO,Mesón de Fierro,NO
+3952,CHACO,Pampa Landriel,NO
+3953,CHACO,Barrio de los Pescadores,NO
+3954,LA PAMPA,Santa Rosa,SI
+3955,LA PAMPA,Catriló,SI
+3956,LA PAMPA,La Gloria,NO
+3957,LA PAMPA,Lonquimay,SI
+3958,LA PAMPA,Uriburu,SI
+3959,LA PAMPA,Santa Isabel,NO
+3960,LA PAMPA,Bernardo Larroude,SI
+3961,LA PAMPA,Ceballos,SI
+3962,LA PAMPA,Coronel Hilario Lagos (Est. Aguas Buenas),NO
+3963,MISIONES,Santiago de Liniers,NO
+3964,MISIONES,Valle Hermoso,NO
+3965,MISIONES,Villa Roulet,NO
+3966,LA PAMPA,Intendente Alvear,SI
+3967,LA PAMPA,Sarah,NO
+3968,LA PAMPA,Vértiz,NO
+3969,LA PAMPA,Algarrobo del Águila,NO
+3970,LA PAMPA,La Humada,NO
+3971,LA PAMPA,Conhelo,NO
+3972,LA PAMPA,Eduardo Castex,SI
+3973,LA PAMPA,Mauricio Mayer,NO
+3974,LA PAMPA,Monte Nievas,NO
+3975,LA PAMPA,Rucanelo,SI
+3976,LA PAMPA,Winifreda,SI
+3977,LA PAMPA,Gobernador Duval,NO
+3978,LA PAMPA,Puelches,NO
+3979,LA PAMPA,Alpachiri,SI
+3980,CATAMARCA,Palo Labrado,NO
+3981,CATAMARCA,San Antonio,NO
+3982,CATAMARCA,Villa de Balcozna,NO
+3983,CATAMARCA,Apoyaco,NO
+3984,CATAMARCA,Colana,NO
+3985,CATAMARCA,Colpes,NO
+3986,CATAMARCA,El Pajonal (Est. Pomán),NO
+3987,CATAMARCA,Joyango,NO
+3988,CATAMARCA,Mutquin,NO
+3989,CATAMARCA,Pomán,NO
+3990,CATAMARCA,Rincón,NO
+3991,CATAMARCA,San Miguel,NO
+3992,CATAMARCA,Saujil,NO
+3993,CATAMARCA,Siján,NO
+3994,CATAMARCA,Andalhualá,NO
+3995,CATAMARCA,Caspichango,NO
+3996,CATAMARCA,Chañar Punco,NO
+3997,CATAMARCA,El Cajón,NO
+3998,CATAMARCA,El Cerrito,NO
+3999,CATAMARCA,El Desmonte,NO
+4000,CATAMARCA,El Puesto,NO
+4001,CATAMARCA,Famatanca,NO
+4002,CATAMARCA,Fuerte Quemado,NO
+4003,CATAMARCA,La Hoyada,NO
+4004,CATAMARCA,La Loma,NO
+4005,CATAMARCA,La Puntilla,NO
+4006,CORDOBA,Suco,NO
+4007,CORDOBA,Tosquitas,NO
+4008,CORDOBA,Vicuña Mackenna,SI
+4009,CORDOBA,Villa El Chacay,NO
+4010,CORDOBA,Villa Santa Eugenia,NO
+4011,CORDOBA,Washington,NO
+4012,CORDOBA,Atahona,NO
+4013,CORDOBA,Cañada de Machado,NO
+4014,CORDOBA,Capilla de los Remedios,NO
+4015,CORDOBA,Chalacea,NO
+4016,CORDOBA,Colonia Las Cuatro Esquinas,NO
+4017,CORDOBA,Diego de Rojas,SI
+4018,CORDOBA,El Alcalde (Est. Tala Norte),NO
+4019,CORDOBA,El Crispín,NO
+4020,CORDOBA,Esquina,SI
+4021,CORDOBA,Kilómetro 658,NO
+4022,CORDOBA,La Para,SI
+4023,CORDOBA,La Posta,NO
+4024,BUENOS AIRES,Miramar,SI
+4025,BUENOS AIRES,General Alvear,NO
+4026,BUENOS AIRES,Arribeños,SI
+4027,BUENOS AIRES,Ascensión,NO
+4028,BUENOS AIRES,Estación Arenales,NO
+4029,BUENOS AIRES,Ferré,SI
+4030,BUENOS AIRES,General Arenales,SI
+4031,BUENOS AIRES,La Angelita,NO
+4032,BUENOS AIRES,La Trinidad,NO
+4033,CATAMARCA,Lampacito,NO
+4034,CATAMARCA,Las Mojarras,NO
+4035,CATAMARCA,Loro Huasi,NO
+4036,CATAMARCA,Medanitos,NO
+4037,CATAMARCA,Palo Seco,NO
+4038,CATAMARCA,Punta de Balasto,NO
+4039,CATAMARCA,San José,NO
+4040,CATAMARCA,San Jose Banda,NO
+4041,CATAMARCA,San Jose Norte,NO
+4042,CATAMARCA,Santa María,NO
+4043,CATAMARCA,Yapes,NO
+4044,CATAMARCA,Alijilán,NO
+4045,CATAMARCA,Bañado de Ovanta,NO
+4046,CATAMARCA,Las Cañas,NO
+4047,CATAMARCA,Lavalle,NO
+4048,CATAMARCA,Los Altos,NO
+4049,CATAMARCA,Manantiales,NO
+4050,CATAMARCA,San Pedro,NO
+4051,CATAMARCA,Anillaco,NO
+4052,CATAMARCA,Antinaco,NO
+4053,CATAMARCA,Banda de Lucero,NO
+4054,CATAMARCA,Cerro Negro,NO
+4055,CATAMARCA,Copacabana,NO
+4056,CATAMARCA,Cordobita,NO
+4057,CATAMARCA,Costa de Reyes,NO
+4058,CATAMARCA,El Pueblito,NO
+4059,CATAMARCA,El Puesto,NO
+4060,CATAMARCA,El Salado,NO
+4061,BUENOS AIRES,San Manuel,SI
+4062,BUENOS AIRES,Tamangueyú,NO
+4063,BUENOS AIRES,Antonio Carboni,SI
+4064,BUENOS AIRES,Elvira,NO
+4065,BUENOS AIRES,Laguna de Lobos,NO
+4066,BUENOS AIRES,Lobos,SI
+4067,BUENOS AIRES,Salvador María,SI
+4068,BUENOS AIRES,Banfield,SI
+4069,BUENOS AIRES,Llavallol,SI
+4070,BUENOS AIRES,Lomas De Zamora,SI
+4071,BUENOS AIRES,Temperley,SI
+4072,BUENOS AIRES,Turdera,SI
+4073,BUENOS AIRES,Villa Centenario,SI
+4074,BUENOS AIRES,Villa Fiorito,SI
+4075,BUENOS AIRES,Barrio Las Casuarinas,SI
+4076,BUENOS AIRES,Carlos Keen,NO
+4077,BUENOS AIRES,Club de Campo Los Puentes,NO
+4078,LA RIOJA,Olta,SI
+4079,LA RIOJA,Malanzán,SI
+4080,LA RIOJA,Nácate,NO
+4081,LA RIOJA,Portezuelo,SI
+4082,LA RIOJA,San Antonio,NO
+4083,LA RIOJA,Villa Castelli,SI
+4084,LA RIOJA,Ambil,NO
+4085,LA RIOJA,Colonia Ortiz de Ocampo,NO
+4086,LA RIOJA,Milagro,SI
+4087,LA RIOJA,Olpas,NO
+4088,LA RIOJA,Santa Rita de Catuna,NO
+4089,LA RIOJA,Ulapes,SI
+4090,LA RIOJA,Amaná,NO
+4091,LA RIOJA,Patquía,SI
+4092,LA RIOJA,Chepes,SI
+4093,LA RIOJA,Desiderio Tello,NO
+4094,BUENOS AIRES,Saladillo,SI
+4095,BUENOS AIRES,Quenumá,NO
+4096,BUENOS AIRES,Salliqueló,NO
+4097,BUENOS AIRES,Arroyo Dulce,SI
+4098,BUENOS AIRES,Berdier,NO
+4099,BUENOS AIRES,Gahan,NO
+4100,BUENOS AIRES,Inés Indart,SI
+4101,BUENOS AIRES,La Invencible,NO
+4102,BUENOS AIRES,Salto,SI
+4103,BUENOS AIRES,Azcuénaga,SI
+4104,BUENOS AIRES,Cucullú,NO
+4105,BUENOS AIRES,Franklin,NO
+4106,CHUBUT,Reserva Area Protegida El Doradillo,NO
+4107,CHUBUT,Buenos Aires Chico,NO
+4108,LA RIOJA,ALPASINCHE,SI
+4109,LA RIOJA,Amuschina,NO
+4110,LA RIOJA,Andolucas,NO
+4111,LA RIOJA,Chaupihuasi,NO
+4112,LA RIOJA,Cuipan,NO
+4113,LA RIOJA,Las Talas,NO
+4114,LA RIOJA,Los Robles,NO
+4115,LA RIOJA,Salicas,NO
+4116,LA RIOJA,Salicas - San Blas,NO
+4117,LA RIOJA,San Blas,NO
+4118,LA RIOJA,Shaqui,NO
+4119,LA RIOJA,Suriyaco,NO
+4120,LA RIOJA,Tuyubil,NO
+4121,LA RIOJA,Villa Sanagasta,NO
+4122,LA RIOJA,Villa Sanagasta,SI
+4123,LA RIOJA,Jagüé,NO
+4124,LA RIOJA,Villa San José de Vinchina,SI
+4125,MENDOZA,Mendoza,SI
+4126,CABA,BARRACAS,SI
+4127,CHACO,Colonia Benítez,SI
+4128,CHACO,Margarita Belén,NO
+4129,CHACO,Hermoso Campo,SI
+4130,CHACO,Itín,SI
+4131,CHACO,Colonia Aborigen,NO
+4132,CHACO,Machagai,SI
+4133,CHACO,Napalpí,NO
+4134,CHACO,Las Breñas,SI
+4135,CHACO,Concepción del Bermejo,SI
+4136,CHACO,Los Frentones,SI
+4137,CHACO,Pampa del Infierno,SI
+4138,CHACO,Río Muerto,NO
+4139,CHACO,Taco Pozo,SI
+4140,CHACO,General Vedia,SI
+4141,CHACO,Isla del Cerrito,NO
+4142,CHACO,La Leonesa,NO
+4143,CHACO,Las Palmas,SI
+4144,CHACO,Puerto Bermejo Nuevo,SI
+4145,CHACO,Puerto Bermejo Viejo,NO
+4146,CHACO,Puerto Eva Perón,SI
+4147,CABA,MATADEROS,SI
+4148,CHACO,Charata,SI
+4149,CHACO,Presidencia Roque Sáenz Peña,SI
+4150,CHACO,Chorotis,NO
+4151,CHACO,Santa Sylvina,NO
+4152,CHACO,Venados Grandes,NO
+4153,CABA,VELEZ SARSFIELD,SI
+4154,CORDOBA,Valle Hermoso,NO
+4155,CORDOBA,Villa Carlos Paz,SI
+4156,CORDOBA,Villa Flor Serrana,NO
+4157,CORDOBA,Villa Giardino,SI
+4158,CORDOBA,Villa Lago Azul,NO
+4159,CORDOBA,Villa Parque Siquimán,NO
+4160,CABA,VERSALLES,SI
+4161,CHUBUT,Cholila,NO
+4162,CHUBUT,Costa del Chubut,NO
+4163,CHUBUT,Cushamen Centro,NO
+4164,CHUBUT,El Hoyo,SI
+4165,CHUBUT,El Maitén,NO
+4166,CHUBUT,Epuyén,NO
+4167,CHUBUT,Fofo Cahuel,NO
+4168,CHACO,Corzuela,SI
+4169,CHACO,La Escondida,SI
+4170,CHACO,La Verde,SI
+4171,CHACO,Lapachito,SI
+4172,CHACO,Makallé,NO
+4173,CHACO,El Espinillo,NO
+4174,CHACO,El Sauzal,NO
+4175,CHACO,El Sauzalito,NO
+4176,CHACO,Fortín Lavalle,NO
+4177,CHACO,Fuerte Esperanza,SI
+4178,CHACO,Juan José Castelli,SI
+4179,CHACO,Miraflores,NO
+4180,CHACO,Nueva Pompeya,SI
+4181,CHACO,Puerto Lavalle,NO
+4182,CHUBUT,Gualjaina,NO
+4183,CABA,SAAVEDRA,SI
+4184,CHACO,Villa Río Bermejito,SI
+4185,CHACO,Wichi,NO
+4186,CHACO,Zaparinqui,NO
+4187,CHACO,Avia Terai,SI
+4188,CHACO,Campo Largo,SI
+4189,CHACO,Fortín Las Chuñas,NO
+4190,CHACO,Napenay,NO
+4191,CABA,COLEGIALES,SI
+4192,CHUBUT,Lago Epuyén,NO
+4193,CHUBUT,Lago Puelo,SI
+4194,CHUBUT,Leleque,NO
+4195,CHUBUT,Acceso Norte,NO
+4196,CHUBUT,Astra,NO
+4197,CHUBUT,Bahía Bustamante,NO
+4198,CHUBUT,Barrio 25 De Mayo,NO
+4199,CHUBUT,Barrio Caleta Cordova,NO
+4200,CHUBUT,Barrio Caleta Olivares,NO
+4201,BUENOS AIRES,Pineyro,SI
+4202,BUENOS AIRES,Sarandí,SI
+4203,BUENOS AIRES,Villa Domínico,SI
+4204,BUENOS AIRES,Wilde,SI
+4205,BUENOS AIRES,Ayacucho,NO
+4206,BUENOS AIRES,La Constancia,NO
+4207,BUENOS AIRES,Solanet,NO
+4208,BUENOS AIRES,Udaquiola,NO
+4209,BUENOS AIRES,16 de Julio,NO
+4210,BUENOS AIRES,Ariel,NO
+4211,BUENOS AIRES,25 de Mayo,NO
+4212,BUENOS AIRES,Agustín Mosconi,NO
+4213,BUENOS AIRES,Del Valle,NO
+4214,BUENOS AIRES,Ernestina,NO
+4215,BUENOS AIRES,Gobernador Ugarte,NO
+4216,BUENOS AIRES,Lucas Monteverde,NO
+4217,BUENOS AIRES,Norberto de la Riestra,SI
+4218,BUENOS AIRES,Pedernales,NO
+4219,BUENOS AIRES,San Enrique,NO
+4220,BUENOS AIRES,Valdés,NO
+4221,BUENOS AIRES,12 de Octubre,NO
+4222,BUENOS AIRES,9 de Julio,SI
+4223,BUENOS AIRES,Alfredo Demarchi (Est. Facundo Quiroga),NO
+4224,CABA,NUÑEZ,SI
+4225,CHACO,Colonia Popular,NO
+4226,CHACO,Estación General Obligado,NO
+4227,CHACO,Laguna Blanca,NO
+4228,CHACO,Puerto Tirol,SI
+4229,CHACO,Ciervo Petiso,NO
+4230,CHACO,General José de San Martín,SI
+4231,CHACO,La Eduvigis,NO
+4232,BUENOS AIRES,Azul,SI
+4233,BUENOS AIRES,Cacharí,NO
+4234,BUENOS AIRES,Chillar,NO
+4235,BUENOS AIRES,Bahía Blanca,SI
+4236,BUENOS AIRES,Cabildo,SI
+4237,BUENOS AIRES,General Daniel Cerri (Est. General Cerri),NO
+4238,BUENOS AIRES,Grunbein,NO
+4239,BUENOS AIRES,Ingeniero White,SI
+4240,BUENOS AIRES,General Belgrano,SI
+4241,BUENOS AIRES,Gorchs,NO
+4242,BUENOS AIRES,General Guido,SI
+4243,BUENOS AIRES,Labarden,NO
+4244,BUENOS AIRES,Barrio Kennedy,NO
+4245,BUENOS AIRES,General Juan Madariaga,SI
+4246,BUENOS AIRES,General La Madrid,SI
+4247,BUENOS AIRES,La Colina,NO
+4248,BUENOS AIRES,Las Martinetas,NO
+4249,BUENOS AIRES,Líbano,NO
+4250,BUENOS AIRES,Pontaut,NO
+4251,BUENOS AIRES,General Hornos,NO
+4252,CHUBUT,Barrio Castelli,NO
+4253,CHUBUT,Barrio Ciudadela,NO
+4254,BUENOS AIRES,Cortines,SI
+4255,BUENOS AIRES,Country Club Las Praderas,NO
+4256,BUENOS AIRES,José María Jáuregui (Est. Jáuregui),SI
+4257,BUENOS AIRES,Lezica y Torrezuri,NO
+4258,BUENOS AIRES,Luján,SI
+4259,BUENOS AIRES,Olivera,SI
+4260,BUENOS AIRES,Open Door (Est. Dr. Domingo Cabred),NO
+4261,BUENOS AIRES,Torres,NO
+4262,BUENOS AIRES,Atalaya,SI
+4263,MISIONES,Almirante Brown,NO
+4264,BUENOS AIRES,San Andrés de Giles,SI
+4265,BUENOS AIRES,Solís,SI
+4266,BUENOS AIRES,Villa Espil,NO
+4267,BUENOS AIRES,Villa Ruiz,SI
+4268,BUENOS AIRES,Duggan,SI
+4269,BUENOS AIRES,San Antonio de Areco,SI
+4270,BUENOS AIRES,Villa Lía,SI
+4271,BUENOS AIRES,Balneario San Cayetano,SI
+4272,BUENOS AIRES,Ochandío,NO
+4273,BUENOS AIRES,San Cayetano,SI
+4274,CABA,BOCA,SI
+4275,CHACO,Laguna Limpia,NO
+4276,CHACO,Pampa Almirón,SI
+4277,CHACO,Pampa del Indio,SI
+4278,CHACO,Presidencia Roca,SI
+4279,CHACO,Selvas del Río de Oro,NO
+4280,CHACO,Tres Isletas,NO
+4281,CABA,PARQUE AVELLANEDA,SI
+4282,CORDOBA,Villa Río Icho Cruz,NO
+4283,CORDOBA,Villa San José,NO
+4284,CORDOBA,Villa Santa Cruz del Lago,NO
+4285,CORDOBA,Achiras,SI
+4286,CORDOBA,Adelia María,SI
+4287,CORDOBA,Alcira (Est. Gigena),SI
+4288,CABA,VILLA PUEYRREDON,SI
+4289,CHUBUT,Barrio Gasoducto,NO
+4290,CHUBUT,Barrio Guemes,NO
+4291,CHUBUT,Barrio Laprida,NO
+4292,CHUBUT,Barrio Manantial Rosales,NO
+4293,CHUBUT,Barrio Militar - Aeropuerto Militar,NO
+4294,CHUBUT,Barrio Prospero Palazzo,NO
+4295,CHUBUT,Barrio Restinga Ali,NO
+4296,CHUBUT,Barrio Rodriguez Peña,NO
+4297,CHUBUT,Barrio Saavedra,NO
+4298,CHUBUT,Barrio Sarmiento,NO
+4299,CHUBUT,Barrio Villa S.U.P.E.,NO
+4300,CHACO,Coronel Du Graty,SI
+4301,CHACO,Enrique Urién,SI
+4302,CHACO,Villa Angela,SI
+4303,CHACO,La Clotilde,NO
+4304,CHACO,La Tigra,NO
+4305,CHACO,San Bernardo,NO
+4306,CHACO,Presidencia de la Plaza,SI
+4307,CHACO,Quitilipi,SI
+4308,CHACO,Villa El Palmar,NO
+4309,CHACO,Barranqueras,SI
+4310,CHACO,Basail,NO
+4311,CHACO,Colonia Baranda,NO
